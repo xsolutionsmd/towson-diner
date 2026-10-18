@@ -7,6 +7,15 @@ const app = fileURLToPath(new URL('../', import.meta.url));
 const dist = join(app, 'dist');
 const failures = [];
 const check = (ok, message) => { if (!ok) failures.push(message); };
+const menu = JSON.parse(readFileSync(join(app, 'data/menu.json'), 'utf8'));
+const menuIDs = new Set(menu.items.map(item => item.id));
+check(menu.items.length === 432 && menuIDs.size === 432, 'expected all 432 unique sourced menu IDs');
+check(new Set(menu.items.map(item => item.category)).size === 6, 'expected all six sourced menus');
+for (const item of menu.items) {
+  check(item.url.startsWith(menu.source + '/item-') && item.url.endsWith('_' + item.id), `invalid source URL for ${item.id}`);
+  check(item.price === '' || /^\$\d+\.\d{2}$/.test(item.price), `invalid observed price for ${item.id}`);
+  check(!('description' in item), `ingredient descriptions must remain omitted: ${item.id}`);
+}
 let config = {};
 try {
   if (existsSync(join(app, 'xs-check.json'))) config = JSON.parse(readFileSync(join(app, 'xs-check.json'), 'utf8'));
@@ -89,10 +98,23 @@ for (const name of files) {
     for (const url of m[2].matchAll(/["'`](https?:\/\/[^"'`\s]+|\/\/[^"'`\s]+)["'`]/g)) resource(url[1]);
   }
   const visible = html.replace(/<(script|style)\b[^>]*>[\s\S]*?<\/\1>/gi, '');
-  const text = decode(visible.replace(/<[^>]+>/g, ' '));
+  // Permit dollars only inside validated source-menu price spans. Keep the generic
+  // unsupported-claim check everywhere else; never allow arbitrary dollar claims.
+  if (name === 'menu/index.html') {
+    const rows = [...visible.matchAll(/<li class="menu-item" data-source-id="([^"]+)"[^>]*><a href="([^"]+)"><span>(.*?)<\/span><span class="price">(.*?)<\/span><\/a><\/li>/g)];
+    check(rows.length === 432 && new Set(rows.map(r => r[1])).size === 432, 'rendered menu must preserve 432 unique source IDs');
+    for (const row of rows) {
+      const item = menu.items.find(i => i.id === row[1]);
+      check(Boolean(item) && decode(row[2]) === item.url && decode(row[3]) === item.name.trim() && decode(row[4]) === (item.price || 'See online options'), `menu source mismatch: ${row[1]}`);
+    }
+    check(!/<img\b/.test(visible.slice(visible.indexOf('id="menu-content"'))), 'menu item rows must stay text-only');
+  }
+  const claims = name === 'menu/index.html' ? visible.replace(/<span class="price">[^<]*<\/span>/g, '') : visible;
+  const text = decode(claims.replace(/<[^>]+>/g, ' '));
   check(!/>\s*0\d\s*</.test(visible) && !/\b0\d\s*\/\s*0\d\b/.test(text), `${name}: decorative numbering pattern found`);
   for (const pattern of banned) check(!pattern.test(text), `${name}: unsupported claim pattern ${pattern}`);
 }
+for (const page of ['index.html', 'menu/index.html', 'about/index.html', 'visit/index.html']) check(files.includes(page), `direct page missing: ${page}`);
 for (const link of config.requiredLinks || []) check(links.has(link), `required link missing: ${link}`);
 const unexpected = [...external].filter(url => !(config.allowedExternalResources || []).some(allowed => url === allowed || (allowed.endsWith('/') && url.startsWith(allowed))));
 check(!unexpected.length, `unexpected external runtime resources: ${unexpected.join(', ')}`);

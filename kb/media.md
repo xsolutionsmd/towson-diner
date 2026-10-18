@@ -28,7 +28,7 @@ company folder; verified Slack deliveries are recorded separately in private/del
 | business-official | 10 |
 | public-unverified | 21 |
 
-## Specialist shortlist (pending coordinator acceptance)
+## Specialist shortlist (accepted collection; implementation selections below)
 
 The full library is in the private company folder (`private/assets/originals/`, provenance in
 `private/assets/manifest.json`); the frontend may choose other or additional files from it.
@@ -50,7 +50,17 @@ The full library is in the private company folder (`private/assets/originals/`, 
 
 ## Used on the website
 
-None selected yet.
+Five real business originals are used, with ten responsive WebP derivatives (1,193,372 bytes total). No item photos are added to the text-only menu. Originals remain private.
+
+| Original SHA-256 | Public derivative | Placement | Source |
+|---|---|---|---|
+| `9f30787d692c3aa8b6f8a0e42dcce22a234ce258fb8fc6874ab385ca402eea33` | `app/public/images/waffle.webp` and `-small.webp` | /, /menu/ | [Source](https://www.towsondiner.net/) |
+| `a087a3e63c31cf75fc4fe858a60f3a2a4dd11d843a59d38c31bd984358666b69` | `app/public/images/burger.webp` and `-small.webp` | /, /menu/ | [Source](https://www.towsondiner.net/about) |
+| `ca3e3ddaa72e1fdae71dfa8f627368f09a06e4177d72556ada7dab989685c97c` | `app/public/images/facade.webp` and `-small.webp` | /visit/ | [Source](https://www.facebook.com/photo/?fbid=603386068461193&set=a.497825442350590) |
+| `225aa3dddd0442e360a13421752aeff24e41cc7a53d53573c88c43c20c2a3c2b` | `app/public/images/neon.webp` and `-small.webp` | /, /about/ | [Source](https://www.google.com/maps/place/Towson+Diner/data=!4m2!3m1!1s0x0:0x24fe6586cb843c89) |
+| `4d1cbd6585133ff7c7f6e98280c8412c3d9714d959bc78c7ed3eed35744ba8ed` | `app/public/images/interior.webp` and `-small.webp` | /about/ | [Source](https://www.google.com/maps/place/Towson+Diner/@39.4053029,-76.6058436,3a,75y,90t/data=!3m8!1e2!3m6!1sCIHM0ogKEICAgID_ltPwaw!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FANWiy9RCsoCZJgg3hnMbzDr0lzfV5eVw1rf7UU-wk_tsceajwGzPvFscEwC-OoawJs5ttEMMQalPtckDjIyjJkJDAW55d58kCfJBFWgBZvzifzGlhXsP2dWWIOZB13mfAUAZdzmENvl-%3Dw203-h152-k-no!7i4080!8i3072!4m9!3m8!1s0x89c80fad8d3419bb:0x24fe6586cb843c89!8m2!3d39.4053029!4d-76.6058436!10e5!14m1!1BCgIYIg!16s%2Fg%2F1tkkvvlw) |
+
+Crop decisions: waffle retains fruit and cream; burger is a generic scene with no named-product claim; neon removes the lower-right pedestrian; facade trims excess parking; interior removes the TV/foreground patrons. Clean text identity is used after inspecting the Toast logo edge fragments. Source dates, accounts and untouched original hashes remain in the private manifest.
 
 All collected media of the business may be used in every environment, including production,
 because this site is built for the business. The rights field records provenance only; it does not block use.
@@ -65,4 +75,4 @@ All 432 source IDs are accounted for as 423 distinct products: 18 matched, 402 m
 
 The private menu-items.json is canonical; menu-items.csv and menu-gallery.html are derived. Some identified photos are documentary quality, portion-ambiguous, or cropped from groups; inspect per-item notes. No polished dessert hero is shortlisted. One stored image is a genuine frame derived from the official gyro video; the parent SHA and timestamp are recorded.
 
-Rendered-site reconciliation is pending because no new site implementation exists. The coordinator owns acceptance and reference menu photo policy. This collection does not advance a build stage or deliver to Slack.
+Reconstruction preserves all 432 source IDs as separate text rows, including nine repeated product placements; no deduplication was applied. All-menu reset renders all 432 entries. Source names, observed prices and item URLs match the captured menu; ingredient descriptions and transient stock flags are omitted. The photo index still describes 423 distinct products (18 matched, 402 missing, three uncertain), independent of the text-menu rendering. Coordinator acceptance and subsequent delivery remain separate.
