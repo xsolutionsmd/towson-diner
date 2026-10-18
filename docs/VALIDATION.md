@@ -1,5 +1,7 @@
 # Reconstruction validation — October 18, 2026
 
+Current Derek preview application: `5588348d0e3d2f7463d07d3e3d7d1db371c4e35c`. The accepted Our Story live release/review is recorded at the end of this file. Earlier sections are dated implementation and release evidence; the current menu-photo framing remains preserved. Final Slack package/message delivery is pending and final-handoff delivery is not accepted.
+
 Frontend reconstruction on `derek-dev`, from `161df1c760dfecadd1092eed7a65ba72659992a3`. Coordinator acceptance, backend/runtime integration, refinement and deployment remain separate stages.
 
 - `npm ci --no-audit --no-fund`: passed (14 packages).
@@ -71,9 +73,70 @@ Local npm run check passed: four pages, 432 exact source rows, 14 mapped photo r
 
 Independent photo review at `f3068c0af01e30ab058395f2074720780bda7382` passed 18 of 19 cases. All 432 source tuples and 14 photo placements matched, all images decoded, and all 13 dish identities/crops passed. F1 found a narrower text-level issue missed by the earlier element-box check: the final word of the fallback price label exceeded the padded row by 17.54px at 320px/root 200%.
 
-Astra's local correction lets fallback text wrap and scales its maximum width with font size. The corrected production build passes all static checks; actual 320x740/root 32px measurement across every menu name/price text range finds zero row-bound violations and a 320px document width. The Quesadilla label wraps at word boundaries. This fix and the newly requested expanded photo coverage await publication and fresh independent verification; the original photo review is historical evidence, not acceptance of the expanded result.
+Astra's local correction lets fallback text wrap and scales its maximum width with font size. The corrected production build passes all static checks; actual 320x740/root 32px measurement across every menu name/price text range finds zero row-bound violations and a 320px document width. The Quesadilla label wraps at word boundaries. This correction and expanded photo coverage were subsequently published and accepted at `970042805ad3cea2c572bc220ec270ce4c0a81c8`, as recorded below. The original photo review remains historical evidence.
 
 
 ## Accepted expanded photos, October 18, 2026
 
-Owner stopped further research and accepted the existing matches. Integrated 99 matched products across 102 menu rows; all 432 menu tuples retained. `npm run check` passed (116 built files). All 102 images decoded. Actual 1440x900 desktop and 390x844 mobile checks found no page or photo-card overflow; mobile crab search returned the expected seven rows/four photos. Contact sheet reviewed; confidence and source evidence retained in photo provenance. Prior unchanged interaction checks and the verified F1 wrapping correction are reused. Live release and focused independent acceptance follow in the scoped update receipt.
+Owner stopped further research and accepted the existing matches. Integrated 99 matched products across 102 menu rows; all 432 menu tuples retained. `npm run check` passed (116 built files). All 102 images decoded. Actual 1440x900 desktop and 390x844 mobile checks found no page or photo-card overflow; mobile crab search returned the expected seven rows/four photos. Contact sheet reviewed; confidence and source evidence retained in photo provenance. Prior unchanged interaction checks and the verified F1 wrapping correction are reused. Application CI and Oracle release succeeded at `970042805ad3cea2c572bc220ec270ce4c0a81c8`; the focused independent acceptance is recorded below.
+
+## Historical expanded-photo review at 9700428
+
+At exact live revision `970042805ad3cea2c572bc220ec270ce4c0a81c8`, independent Sol review passed **4/4 focused cases**, with no findings: live `/version.json`; desktop 1440x900 menu/photo rows; mobile 390x844 actual Quesadilla search; and F1 at 320x740 with 32px root font. The fallback price wraps on three lines; text ranges end at 296px, matching the containing content edge, for **0px overhang** and a 320px document width. Actual live crops preserve the inspected breakfast and Quesadilla subjects.
+
+One compact contact-sheet / saved-source-note comparison covered all 99 selected products and 102 mapped IDs. No concrete unsupported wrong-dish mapping was found. All 36 likely matches remain labelled likely in provenance; historical ingredients, customizations and portion aliases remain disclosed. No new source browsing or collection was performed. There are 324 distinct products / 330 rendered rows without selected photos; the full 432-row text menu remains intact. Derek explicitly accepted current coverage and stopped research.
+
+Previously completed tuple/navigation/order tests, the current 116-file check, all-102 image decodes, mobile crab search and all-152 original-hash verification were reused honestly, without another regression sweep. Coordinator accepted the no-change fix/recheck/deploy at the same reviewed revision. The earlier main/Abdul preservation receipt at `b5cbe4abde152e4a820253e8630853f4c556d761` is historical. This Derek task made no changes to those branches; separate authorized Abdul work is outside scope and no current-version claim is made here.
+
+These documentation drafts were paused before publication when Derek requested new image orientation/sizing. No docs-only commit or application-tree parity is claimed for that paused handoff. The accepted framing release below supersedes this earlier application revision. Chromium viewport and root-font simulation limits apply; no physical-device, Safari or transaction coverage is claimed.
+
+
+## Accepted natural photo framing - prior release, preserved
+
+Reviewed framing application: `e652b2167c75f97e276d3a5daa0c1d15b3abe9de` at https://d-towsondiner.xsolutionsmd.com/menu/. Application CI and Oracle release completed successfully; saved live checks returned HTTP 200 for the home page, health and exact version, with no-store runtime endpoints and intentional noindex. No additional live sweep was run for that documentation handoff. The subsequent Our Story application preserves this menu result.
+
+The requested natural, consistently sized left-photo layout retains all 102 placements / 99 products. Landscape frames measure 156x117 desktop, 104x78 mobile and 88x66 narrow. Selected overhead rotations and targeted focal positions preserve food subjects; source photo bytes and identity mappings are unchanged.
+
+Independent Sol passed **6/6 actual live cases, zero findings**: exact version, desktop breakfast rows, mobile dessert rows, cross-menu Quesadilla search, 320x740/root-32px F1 and portrait strawberry-milkshake framing. Prices align, subjects remain undistorted and upright, and rows remain contained. F1 wraps its fallback price over three lines; measured 0.0000153px overhang is floating point noise. Chrome's 15px scrollbar leaves 305px client/document width inside the 320px viewport, without horizontal overflow. Review-created tabs were closed and temporary overrides reset.
+
+Coordinator accepted review, no-change fixes, same-SHA recheck and deploy. The prior 99-product / 102-ID association review and unchanged regression/hash evidence were reused; no additional research or identity audit was performed. All 432 menu entries remain. Coverage gaps remain 324 distinct products / 330 rows; 36 selected matches retain likely confidence and documented preparation/portion caveats.
+
+This Derek task never wrote main/Abdul. Their earlier `b5cbe4a` preservation receipt is historical; separate authorized Abdul work is outside scope. Do not treat the earlier receipt as their current deployed version.
+
+The changed media ZIP and final Slack URL message remain **pending**, with no final-handoff acceptance: Chrome control attachment failed and the purpose-built Slack connector requires reauthentication. No new upload URL, bytes or duplicate message were sent. Retry only after Chrome attachment is restored or the connector is reauthenticated, then save persisted reload/readback evidence and real delivery permalinks. The old normal delivery remains valid; directory URLs are unchanged and need no write. This continuation publishes only kb/HANDOFF.md and this validation record with `[skip ci]`, after verifying the remote baseline and exact two-file diff. The post-commit comparison records exact app/runtime/release tree parity with the reviewed live revision in the private final receipt. No application release, repeat app test or additional live request is initiated.
+
+
+Coordinator cleanup recycled the completed photo-checkout app/dist and app/node_modules (27,548,500 bytes, 347 files); recovery hashes were verified. Disk space freed: 0 bytes. Originals, provenance, required evidence, active source and the pending delivery package remain retained; recheck delivery resources after Slack delivery/acceptance. No Recycle Bin emptying or broad cleanup occurred.
+
+## Our Story history implementation - October 18, 2026
+
+Scope: Derek's request to incorporate the restaurant's published Our Story note [S2] and its historical rooftop-sign photo into `/about/`, from source `2720cd8917bc6493fddd35faf825a2301c4cb257` (live application `e652b21`). Changed: `app/scripts/generate.mjs` (about content/meta description), scoped `.history-photo` rules in `app/src/styles.css`, generated `app/about/index.html`, new `app/public/images/rooftop-sign.jpg`.
+
+- Photo: SHA-256 `6f357223847ab161c297c6d41066adadffb654b54a87e111e2d33cc7d8767c44`, identical to the private original (291x183, 17,724 bytes). No re-encode, upscale or generation. Rendered content box is 291x183 CSS px at 1440 and 390 widths and scales down to 250px content at 320px; aspect ratio 1.590 preserved.
+- `npm ci --no-audit --no-fund` (14 packages) and `npm run check`: passed, 117 built files, including the 432-row/102-photo menu contract, noindex, unsupported-claim, decorative-numbering and external-resource checks.
+- Regeneration parity: `index.html`, `menu/index.html` and `visit/index.html` SHA-256 identical to the pre-change files; only `about/index.html` changed.
+- Local Vite preview, T3 Chromium tab: 1440x900 and 390x844 (DPR 2) inspected visually; image decoded, all page requests 200, no console entries, 0px horizontal overflow. 320x740 at 16px and 32px root text: figure, frame and caption stay inside the section content box (25-295px); 0px overflow.
+- This implementation check covered no physical devices/Safari. Browser tab and local server were closed. Subsequent publication and independent live review are recorded below.
+
+## Accepted Our Story live release and review
+
+Current application `5588348d0e3d2f7463d07d3e3d7d1db371c4e35c` is published only to Derek's preview, including https://d-towsondiner.xsolutionsmd.com/about/. Oracle workflow `39166429108` and application CI `39166429150` completed successfully. The saved first-live receipt records HTTP 200 for the story page and exact historical photo. No additional live probe or application test was initiated for this documentation finalization.
+
+Independent Sol review passed **6/6 focused actual live cases, high confidence, zero findings**: uncached exact version; 1440x900 desktop story/photo composition; 390x844 mobile hero/story/interior/visit composition; story link to Menu and actual mobile-navigation return to Our Story; 320x740 with 32px root text; and live photo SHA-256 identity. Astra accepted the review and no-change fixes/same-SHA recheck/deploy. No corrective product change or redeployment was warranted.
+
+The exact 291x183 original is shown at 291x183 CSS pixels on desktop and 390px mobile, reduced to 250x157.21 at 320px. Its modest framed presentation reads naturally as a historical print, with full composition and no distortion or meaningful crop. Live bytes total 17,724 and hash to `6f357223847ab161c297c6d41066adadffb654b54a87e111e2d33cc7d8767c44`. The browser confirmed decode success. Intrinsic original softness is acknowledged; it is not used as an enlarged hero.
+
+At 320x740/root32, actual story text measures 30.4px and wraps cleanly. Client/scroll width is 320/320px; the photo frame and both visit controls fit x25-295px within their containing areas. The 390px page client/scroll width is 390/390px. No console errors appeared in inspected snapshots. Existing menu rows/photos and Toast ordering destinations remain intact; prior 432-row/102-photo identity, association and regression evidence was reused without additional research or a broad menu test sweep.
+
+Limits: Chromium viewport/root-font simulation, not physical-phone, Safari or native-touch coverage. Toast checkout/payment internals were not exercised. Review tab closed, text override removed and viewport reset. No local server/container was started by this independent review or documentation finalization.
+
+This task did not write main or Abdul's branch; separate authorized Abdul work is outside scope. The 152-asset delivery package is unchanged and remains pending, along with the final Slack URL message. Existing evidence records failed Chrome control attachment and connector reauthentication requirement; no new Slack/browser attempt, upload URL, file bytes or duplicate message was made here. Reuse the prior persisted directory readback: the three Towson URLs are unchanged and no directory write is needed. Retry delivery only when the recorded access condition changes, then capture real persisted delivery evidence; final-handoff delivery is not accepted.
+
+Only kb/HANDOFF.md and this record are published with `[skip ci]`. The private final receipt records the separate documentation source SHA, exact two-file diff and unchanged app/runtime/release Git objects against live `5588348d0e3d2f7463d07d3e3d7d1db371c4e35c`. This documentation update initiates no application release.
+
+After this story review, the coordinator recycled the photo checkout's completed reinstalled app/dist and app/node_modules: 27,567,139 bytes in 348 files, recoverability/hashes verified. Disk bytes freed: 0; the Recycle Bin was not emptied. No task-local services remain. Source, media library, provenance, required evidence and unchanged current pending delivery ZIP are retained for delivery/recovery; recheck after Slack delivery/acceptance. The prior framing cleanup accounting above is historical and separate.
+
+
+## Authorized production promotion
+
+Derek explicitly requested merging the completed version into main on October 18. The release candidate merges the current main history with accepted Derek source `1e62d44ff6b6214554a1b29a20ba5ce90c806cc7`; product/runtime/release inputs match the independently reviewed application `5588348d0e3d2f7463d07d3e3d7d1db371c4e35c`. Only release guidance is additionally reconciled. Existing menu and Our Story desktop/mobile reviews passed with no findings; no new design change or forced fix is introduced. Required PR checks and exact production verification follow this candidate. Abdul preview is outside scope.

@@ -34,9 +34,10 @@ refreshes the generated status block.
   merging deploys production automatically. Merging into `main` needs release
   authorization from Derek or Abdul for that change.
 - After a production release, sync the authorized preview branches while preserving
-  documented branch-only differences. Never merge the final Derek-only menu-photo
-  variation into main or Abdul. Its deliberate product difference has its own scoped
-  update/review record, not a false source-parity claim.
+  documented branch differences and current release authorization. Derek explicitly
+  authorized promotion of the completed menu-photo and Our Story version to main on
+  October 18, 2026. This supersedes its earlier Derek-only restriction for production.
+  Abdul remains independently owned; this promotion does not authorize changing it.
 - Do not push to the other person's branch without asking them. The one exception is
   the initial pipeline run, which syncs all three branches.
 
@@ -81,9 +82,10 @@ refreshes the generated status block.
   Preserve provenance and accurate captions; include optimized site copies in the
   repository and keep the full raw archive private. Pass this rule to every delegate.
   See `kb/media.md` for the library and recorded Slack delivery.
-  Placement follows the reference: if its menu has no item photos, main and Abdul's
-  menu remain text-only. After normal delivery, add a separately reviewed photo
-  variation only to Derek's branch; keep its source/image identity mappings.
+  Placement follows the accepted reference and later explicit owner corrections.
+  The initial text-only main menu was superseded by Derek's October 18 production
+  promotion of the reviewed photo menu. Keep its source/image identity mappings.
+  Preserve Abdul's independent version unless separately authorized.
 - Previews are `noindex` and use test data and test integrations only.
 - Keep `kb/`, `AGENTS.md`, `CLAUDE.md` and `xsolutions.json` out of the production
   image (`.dockerignore`).
@@ -135,4 +137,4 @@ no decorative numbering, and the already confirmed business-asset authorization.
 
 ## Branch contract
 
-This repository has no shared dev branch. Long-lived branches: `main` (production) and `derek-dev`, `abdul-dev` (personal preview environments). Wherever this guide says dev, use your own preview branch; promote with a reviewed PR from it into main, then merge main back into each preview branch.
+This repository has no shared dev branch. Long-lived branches: `main` (production) and `derek-dev`, `abdul-dev` (personal preview environments). Wherever this guide says dev, use your own preview branch; promote with a reviewed PR into main, then synchronize only authorized preview targets while preserving their independent work.

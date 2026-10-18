@@ -20,7 +20,7 @@ Inspected desktop at 1280/1440 and mobile at 390 CSS pixels. Opened the mobile n
 
 Runner-up: https://www.bubbys.com/ and `/menus/`, inspected desktop/mobile. Strong diner fit and Toast action, but denser navigation, decorative treatment and mixed display type are less suitable for the restrained typography constraint and available media.
 
-Reference menu has **no per-item food photos**. Main and Abdul retain a text menu. Its broad photo gallery above the menu is allowed; use actual Towson Diner images. After normal final delivery, a separately reviewed Derek-only menu-photo variation is required for defensible item matches.
+Reference menu has **no per-item food photos**. The initial main and Abdul versions retained a text menu; Derek later explicitly authorized promoting his reviewed photo version to main. Its broad photo gallery above the menu is allowed; use actual Towson Diner images. After normal final delivery, a separately reviewed Derek-only menu-photo variation is required for defensible item matches.
 
 Adapt closely: masthead proportions, wide hero/photo crop, compact scrolled header, menu tab rhythm/underline, generous menu rows, centered editorial story/visit blocks and lightweight transitions. Replace ALL identity, photos, text, links, and decorative illustrations; no competitor assets/code. Use Towson's red/cream instead of the reference's green/blue accents. Use the actual diner wordmark or a faithful clean text treatment rather than the reference logo.
 
@@ -34,7 +34,7 @@ Warm diner identity, restrained cream/red accents, original company photography 
 ## Accepted decisions and corrections
 <!-- Dated feedback from Derek, Abdul or the client. Newer explicit corrections win. -->
 
-October 18 menu-photo correction: Derek's preview should show a real business photo for every menu item where a usable matching photo can be found. The initial bounded shortlist is insufficient for this expanded request. Revisit partial source coverage and existing unmatched candidates. Exact item captions are not required: use confident visual/contextual associations as `likely`, documenting ingredients, preparation and other supporting clues. Leave genuinely ambiguous associations unmatched. Preserve all menu items and the accepted layout; production and Abdul retain their text-only menus.
+October 18 menu-photo correction: Derek's preview should show a real business photo for every menu item where a usable matching photo can be found. The initial bounded shortlist is insufficient for this expanded request. Revisit partial source coverage and existing unmatched candidates. Exact item captions are not required: use confident visual/contextual associations as `likely`, documenting ingredients, preparation and other supporting clues. Leave genuinely ambiguous associations unmatched. Preserve all menu items and the accepted layout; the initial production/Abdul text-only boundary is historical; the later explicit production promotion supersedes it for main only.
 
 ## X Solutions standing design rules
 
@@ -65,9 +65,16 @@ October 18 menu-photo correction: Derek's preview should show a real business ph
 | a087a3e63c31 | Home/menu gallery | 4000x3000 official burger/fries; generic food scene, no exact named burger assertion. |
 | 225aa3dddd04 | Home atmosphere / About | 2048x1152 neon exterior; left-biased crop avoids lower-right pedestrian. |
 | ca3e3ddaa72e | Visit hero | 2048x1358 official daylight facade; trim foreground, keep entrance/flag. |
+| 6f357223847a | About story inset | 291x183 official historical rooftop-sign exterior; byte-identical original at native size or smaller, never a hero. |
 | 4d1cbd658513 | About interior | 1024x771; retain chrome and booths, avoid top TV/patrons when practical. |
 | af85a193d1f3 | Sitewide logo if crop remains clean | 640x480 official Toast mark; preserve full badge proportions; thin white edge fragments need conservative crop. Clean text identity is acceptable. |
-All originals resolve through the private manifest; public media.md keeps provenance. Source history is partial, not exhaustive. 18 of 423 distinct products have defensible photo matches, 402 lack photos, three remain uncertain. Main/Abdul item menu remains text-only; final Derek-only variation uses confirmed associations only.
+All originals resolve through the private manifest; public media.md keeps provenance. Source history is partial, not exhaustive. 99 of 423 distinct products have selected photos covering 102 rendered IDs; 324 products/330 IDs remain without selected photos. The accepted photo version uses confirmed and well-supported likely associations. Derek explicitly authorized its promotion to main; Abdul remains outside that release scope.
 
 
 Owner correction, October 18, 2026: the current matched-photo amount is sufficient. Stop further research; integrate the existing selections, visually check the changed result and deploy Derek preview. Reuse completed checks.
+
+Owner visual correction: natural landscape photo framing, photos left of names, prices consistently right-aligned. Use restrained spacing and responsive sizes; preserve genuine imagery and recorded inference confidence.
+
+Owner content correction, October 18, 2026: incorporate the restaurant's published Our Story note and its historical rooftop-sign photo into `/about/` naturally, without copying the screenshot's dated typography or adding disclaimers. Implemented inside the existing centered editorial story: Baltimore-area recognition and since-1957 staple, a modest framed historical inset, the 1994 father-and-son purchase by Sam and Nick Kourtsounis as a family-friendly place, and finest ingredients with on-premises desserts. Neon hero, interior figure and visit block remain.
+
+Owner release instruction, October 18, 2026: "merge it to main when you finish." Promote the completed reviewed Derek version, including the natural left-photo menu and Our Story note/photo. No design changes are requested; preserve independently maintained Abdul work.
