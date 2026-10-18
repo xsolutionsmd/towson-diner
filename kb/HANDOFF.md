@@ -32,11 +32,10 @@ Full landing endpoint: first production release plus independent Derek and Abdul
 Content gate has full page/offering/source/media mapping at private/runs/content-r1.json. Sol High owns next reconstruction using REA and actual company assets, then Astra verifies static integrations, Claude High refines existing source. First publication/Slack precedes Sol xhigh infrastructure and independent Sol review. No Stitch; no custom ordering system; no duplicate business.
 
 ## Next step
-Reconstruction R1 stopped before implementation because the required dedicated REA browser could not start. The task was explicitly cancelled, terminal/no pending runs verified and ownership revoked. Source remains at 826047c17f838649d11a9a21e92189ef7014a566 plus the coordinator's runtime contract/checkpoint.
+Derek explicitly authorized "Continue with browser evidence" on October 18. Resume with new Sol High reconstruction task R2 on derek-dev, using actual browser reference inspection without REA. R1 remains revoked; no retry or bypass of its rejected helper launch. All later refinement, first-live, infrastructure, review, delivery and Derek-only menu variation stages remain required.
 
 ## Blockers / waiting on
-2026-10-18: automatic execution review rejected the documented REA helper launch with `rejected: blocked by policy`, without a further reason. No retry or workaround was attempted. Browser-only reference evidence is saved, but it is not REA acceptance. No frontend, production build, deployment, preview or live-review completion is claimed.
-A narrow decision is pending: keep required REA until its documented launch is permitted, or explicitly authorize browser-only reconstruction for this build. Dependent stages remain incomplete. Research/content/assets and static API preparation are saved; signed-in Chrome reaches the required Slack channel. No delivery message has been sent.
+REA requirement waived for this build only. No current content/access blocker; exact dining hours remain a published-content unknown. Slack Chrome route is signed in; no message sent yet. Static contract docs/API.md is prepared but not yet validated against implemented source.
 
 ## Cleanup and retention
-R1 closed its own browser tab and confirmed the helper session absent. No dev server or Docker resources were created. Retain current source, factual KB, 31-file asset library, package and reference/blocker evidence for the concrete resumed build and final delivery. Recheck temporary package/inspection helpers after successful delivery.
+R1 closed its own browser tab and confirmed no helper session. No dev server or Docker resources were created. Retain current factual KB, 31-file asset library, package and reference/blocker evidence for the resumed build and final delivery. Recheck temporary package/inspection helpers after delivery.

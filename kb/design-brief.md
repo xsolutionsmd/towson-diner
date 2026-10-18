@@ -16,7 +16,7 @@ Selected reference, inspected October 18, 2026: **https://www.sundayinbrooklyn.c
 
 The reference demonstrates a premium neighborhood restaurant presentation: large editorial food photography, a centered wordmark and quiet navigation, generous white space, restrained serif identity/headlines with Inconsolata menu/body type, a compact header after scrolling, and clear category tabs. Its TO GO link leads to Toast; the same verified external service boundary fits this business.
 
-Inspected desktop at 1280/1440 and mobile at 390 CSS pixels. Opened the mobile navigation, observed its full-height link panel, switched menu to Breakfast and verified active state/hash/content replacement. Inspected the About/FAQ layout too. Desktop/mobile captures are retained with private reference evidence; Sol must perform the required focused REA analysis and its own populated implementation checks.
+Inspected desktop at 1280/1440 and mobile at 390 CSS pixels. Opened the mobile navigation, observed its full-height link panel, switched menu to Breakfast and verified active state/hash/content replacement. Inspected the About/FAQ layout too. Desktop/mobile captures are retained with private reference evidence; Derek authorized browser-only reconstruction on October 18 after the REA helper launch was rejected; Sol must perform focused browser analysis and its own populated implementation checks. Do not claim REA ran.
 
 Runner-up: https://www.bubbys.com/ and `/menus/`, inspected desktop/mobile. Strong diner fit and Toast action, but denser navigation, decorative treatment and mixed display type are less suitable for the restrained typography constraint and available media.
 
