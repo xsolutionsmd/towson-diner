@@ -1,6 +1,6 @@
 # Runtime and integration contract
 
-Prepared October 18, 2026. Landing build; acceptance follows the populated-source checks.
+Accepted October 18, 2026 against populated source revision `9e6b3e4b14e7ffa9340f8d2a79c799b77ebf3a67`. See the local runtime acceptance in `VALIDATION.md`; remote verification follows first publication.
 
 The website is a static Vite build served by unprivileged nginx on port 8080. It stores no customer records and accepts no transactions or form submissions. Home, Menu, About and Visit are separate direct URLs. Navigation and menu filtering run locally in the visitor's browser.
 

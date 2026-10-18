@@ -1,7 +1,7 @@
 # Handoff
 
 <!-- xs-status:start -->
-Pipeline status (generated 2026-10-18T15:36:14.042795+00:00):
+Pipeline status (generated 2026-10-18T16:08:55.668050+00:00):
 
 - **identity**: done
 - **research**: done
@@ -9,9 +9,9 @@ Pipeline status (generated 2026-10-18T15:36:14.042795+00:00):
 - **spec**: done
 - **template**: done
 - **content**: done
-- **reconstruct**: todo: current task requires a valid receipt; overall stage acceptance requires its completed checkpoint
-- **backend**: todo: blocked by reconstruct
-- **refine**: todo: blocked by backend
+- **reconstruct**: done
+- **backend**: done
+- **refine**: todo: record coordinator-accepted refine evidence
 - **build**: todo: blocked by refine
 - **first-publish**: todo: blocked by build
 - **first-live-slack**: todo: blocked by first-publish
@@ -21,7 +21,7 @@ Pipeline status (generated 2026-10-18T15:36:14.042795+00:00):
 - **recheck**: todo: blocked by fixes
 - **deploy**: todo: blocked by recheck
 - **delivery**: todo: package the current library and record each part's verified Slack delivery to Abdul
-- **final-handoff**: todo: blocked by reconstruct, backend, refine, build, first-publish, first-live-slack, infra, review, fixes, recheck, deploy, delivery
+- **final-handoff**: todo: blocked by refine, build, first-publish, first-live-slack, infra, review, fixes, recheck, deploy, delivery
 <!-- xs-status:end -->
 
 ## Current state
@@ -29,13 +29,13 @@ Full landing endpoint: first production release plus independent Derek and Abdul
 
 ## Coordinator checkpoint
 2026-10-18: asset task completed, terminal/no pending runs verified, acceptance recorded and paths released. All nine source families have honest partial/unavailable coverage. Instagram identity verified; exact dining hours remain conflicting. Selected reference has a text-only item menu, preserved on main/Abdul. Final Derek-only photo variation follows normal delivery.
-Content gate has full page/offering/source/media mapping at private/runs/content-r1.json. Sol High owns next reconstruction using REA and actual company assets, then Astra verifies static integrations, Claude High refines existing source. First publication/Slack precedes Sol xhigh infrastructure and independent Sol review. No Stitch; no custom ordering system; no duplicate business.
+Content gate has full page/offering/source/media mapping at private/runs/content-r1.json. Sol High reconstruction R2 is accepted at `ffe74dbdcdae5fb981bf37ed5af3d54afe24fa28`: four populated pages, all 432 source entries, five authentic photos, desktop/mobile and interaction evidence. Its writer is terminal and released. Astra accepted the production container and static integrations at `9e6b3e4b14e7ffa9340f8d2a79c799b77ebf3a67`. First publication/Slack precedes Sol xhigh infrastructure and independent Sol review. No Stitch; no custom ordering system; no duplicate business.
 
 ## Next step
-Derek authorized browser evidence and then made it the standard nonblocking fallback on October 18. Sol High reconstruction R2 is active on derek-dev using actual browser/devtools reference inspection. Updated canonical policy was steered into its active run; no repair/waiver wait. R1 remains revoked; no retry or bypass of its rejected helper launch. All later refinement, first-live, infrastructure, review, delivery and Derek-only menu variation stages remain required.
+Claude Opus 5.5 High refines the existing accepted source, then Astra checks readiness and publishes the first version. Derek made ordinary browser/devtools inspection the standard nonblocking fallback on October 18; R2 used that actual method. R1 remains revoked; no retry or bypass of its rejected helper launch. All later first-live, infrastructure, review, delivery and Derek-only menu variation stages remain required.
 
 ## Blockers / waiting on
-REA is preferred, not an acceptance gate when unavailable. No current content/access blocker; exact dining hours remain a published-content unknown. Slack Chrome route is signed in; no message sent yet. Static contract docs/API.md is prepared but not yet validated against implemented source.
+REA is preferred, not an acceptance gate when unavailable. No current content/access blocker; exact dining hours remain a published-content unknown. Slack Chrome route is signed in; no message sent yet. Static contract docs/API.md is accepted against the actual production container and existing external destinations.
 
 ## Cleanup and retention
-R1 closed its own browser tab and confirmed no helper session. No dev server or Docker resources were created. Retain current factual KB, 31-file asset library, package and reference/blocker evidence for the resumed build and final delivery. Recheck temporary package/inspection helpers after delivery.
+All reconstruction/integration tabs and local app servers are stopped. The isolated runtime rehearsal container/network were removed. Retain the company builder/cache, current check image and node_modules for imminent refinement/release, then recheck cleanup. Retain factual KB, 31-file asset library and reference evidence for final delivery; regenerate the stale asset ZIP after selections settle and recycle redundant output after verification.
