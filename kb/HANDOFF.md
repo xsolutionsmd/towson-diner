@@ -4,7 +4,11 @@
 
 About now includes the official since-1957 history, father-and-son purchase in 1994, on-site baking and the original exterior photograph. The menu search and section picker have matching light fields, clear SVG icons, readable text and a quieter Reset action. Source: [official About](https://www.towsondiner.net/about), inspected for this update; details in sources/media. The existing cream/red visual system and 432 text-only menu rows are preserved.
 
-Scoped to `abdul-dev` and https://a-towsondiner.xsolutionsmd.com . Local production build/static checks and desktop/mobile layout inspection passed, including 320px with enlarged text. Publication and independent live acceptance are pending and will be recorded below. Main and Derek are outside this update.
+Scoped to `abdul-dev` and https://a-towsondiner.xsolutionsmd.com . The update is published and accepted at live reviewed application revision `56b4c44effa1638dd7e4f30cf4fc7b4ac99b2104`. Independent live review passed **31/31 cases with no findings**, covering the official history/photo, desktop/mobile layouts, menu interactions, keyboard focus and 320px containment with 200% root text. Build, review, no-change fixes and recheck were accepted by the scoped update coordinator. Successful workflows: `39164962991` and `39164963027`. This final documentation commit preserves the reviewed application source; exact branch-head, source-parity and live-version evidence is recorded privately in `private/updates/about-menu-abdul-20261018/final.json` under the parent company directory. Main and Derek are outside this update.
+
+The existing persisted Website URLs directory receipt was reused: the Abdul link is correct and was verified after reload; no rewrite was needed. Final delivery uses the automatic originating-thread Slack bridge, with no duplicate send. The bridge final receipt remains pending until after the parent turn; no strict final-handoff delivery receipt is claimed here.
+
+Cleanup completed: **23,839,184 bytes recycled, zero disk space reclaimed**; recovery entries were verified and the local server was stopped. Keep the clean source worktree for Abdul feedback or the next requested change, and recheck retention then. Private update evidence and the original media archive remain required. Older normal-build records below are historical.
 
 ## Prior normal-build handoff (historical)
 
