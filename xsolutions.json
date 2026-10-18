@@ -1,0 +1,171 @@
+{
+  "schema": 2,
+  "toolkit": "xs-website 2.0 (2026-10-17)",
+  "name": "Towson Diner",
+  "slug": "towson-diner",
+  "created": "2026-10-18T14:28:15.521006+00:00",
+  "repository": "xsolutionsmd/towson-diner",
+  "visibility": "public",
+  "url_key": "towsondiner",
+  "build_type": "landing",
+  "features": [
+    "menu",
+    "external-ordering",
+    "call",
+    "directions"
+  ],
+  "endpoint": "full",
+  "identity": {
+    "status": "confirmed",
+    "official_name": "Towson Diner",
+    "address": "718 York Rd, Towson, MD 21204",
+    "public_phone": "410-321-0407",
+    "public_email": "towsondiner@gmail.com",
+    "website": "https://www.towsondiner.net/",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Towson%20Diner%20718%20York%20Rd%2C%20Towson%2C%20MD%2021204",
+    "social": {},
+    "evidence": [
+      {
+        "observed": "2026-10-18T14:28:53.773257+00:00",
+        "note": "2026-10-18: official website footer name/address/phone match Toast restaurant and item-page address/410-321-0407; independently corroborated by Towson Chamber 2025 directory. Existing client identity search returned no matches."
+      },
+      {
+        "observed": "2026-10-18T14:29:21.181734+00:00",
+        "note": "Independent identity corroboration: Towson Chamber directory https://www.towsonchamber.com/site/wp-content/uploads/2024/12/Directory-2025-Reduced.pdf lists Towson Diner, 718 York, 410-321-0407; Toast https://order.toasttab.com/online/towson-diner-718-york-rd/item-chipped-beef-platter_c9c0e291-24a0-421a-9c6d-be1fbef73cb2 matches both street address and phone."
+      }
+    ]
+  },
+  "environments": [
+    {
+      "name": "production",
+      "branch": "main",
+      "hostname": "towsondiner.xsolutionsmd.com",
+      "slug": "towson-diner"
+    },
+    {
+      "name": "derek-dev",
+      "branch": "derek-dev",
+      "hostname": "d-towsondiner.xsolutionsmd.com",
+      "slug": "towson-diner-derek-dev"
+    },
+    {
+      "name": "abdul-dev",
+      "branch": "abdul-dev",
+      "hostname": "a-towsondiner.xsolutionsmd.com",
+      "slug": "towson-diner-abdul-dev"
+    }
+  ],
+  "stages": {
+    "identity": {
+      "status": "pending"
+    },
+    "research": {
+      "status": "done",
+      "recorded": "2026-10-18T14:34:58.221450+00:00",
+      "workflow_version": 2,
+      "owner": "astra-xhigh",
+      "task_id": null,
+      "prerequisites": {
+        "identity": null
+      },
+      "fallback_task_id": null,
+      "quota_evidence": null,
+      "quota_exhausted": false,
+      "evidence": [
+        "Public KB sources inspected; live Toast complete 432-item menu captured; official history/contact verified with explicit hours and ingredient-description conflicts."
+      ]
+    },
+    "assets": {
+      "status": "done",
+      "recorded": "2026-10-18T14:57:49.364713+00:00",
+      "workflow_version": 2,
+      "owner": "astra-xhigh",
+      "task_id": "node:delegated-task:command%3Amcp%3Af968d8fc-6412-40aa-a570-328cae5b11c0%3Adelegate-task%3Atowson-diner-assets-r1-20261018",
+      "prerequisites": {
+        "identity": null
+      },
+      "fallback_task_id": null,
+      "quota_evidence": null,
+      "quota_exhausted": false,
+      "evidence": [
+        "Accepted bounded 31-file library/12 recommendations after contact sheets, strong photos and manifest inspection; hashes pass; nine source families checked; 423 distinct products reconciled from 432 IDs with honest 18 matched/402 missing/3 uncertain photo counts."
+      ]
+    },
+    "spec": {
+      "status": "done",
+      "recorded": "2026-10-18T15:02:27.603498+00:00",
+      "workflow_version": 2,
+      "owner": "astra-xhigh",
+      "task_id": null,
+      "prerequisites": {
+        "research": "2026-10-18T14:34:58.221450+00:00",
+        "assets": "2026-10-18T14:57:49.364713+00:00"
+      },
+      "fallback_task_id": null,
+      "quota_evidence": null,
+      "quota_exhausted": false,
+      "evidence": [
+        "Accepted landing scope: four separate pages, complete sourced menu, existing Toast/inquiry/map links; no custom transactional backend."
+      ]
+    },
+    "template": {
+      "status": "done",
+      "recorded": "2026-10-18T15:02:27.889213+00:00",
+      "workflow_version": 2,
+      "owner": "astra-xhigh",
+      "task_id": null,
+      "prerequisites": {
+        "spec": "2026-10-18T15:02:27.603498+00:00"
+      },
+      "fallback_task_id": null,
+      "quota_evidence": null,
+      "quota_exhausted": false,
+      "evidence": [
+        "Astra inspected sundayinbrooklyn.com home, menus, about at desktop/mobile; actual mobile navigation and breakfast tab/hash state checked. private/runs/reference-r1.md and reference screenshots; reference menu is text-only."
+      ]
+    },
+    "content": {
+      "status": "pending"
+    },
+    "reconstruct": {
+      "status": "pending"
+    },
+    "backend": {
+      "status": "pending"
+    },
+    "refine": {
+      "status": "pending"
+    },
+    "build": {
+      "status": "pending"
+    },
+    "first-publish": {
+      "status": "pending"
+    },
+    "first-live-slack": {
+      "status": "pending"
+    },
+    "infra": {
+      "status": "pending"
+    },
+    "review": {
+      "status": "pending"
+    },
+    "fixes": {
+      "status": "pending"
+    },
+    "recheck": {
+      "status": "pending"
+    },
+    "deploy": {
+      "status": "pending"
+    },
+    "delivery": {
+      "status": "pending"
+    },
+    "final-handoff": {
+      "status": "pending"
+    }
+  },
+  "updated": "2026-10-18T15:02:27.923837+00:00"
+}
