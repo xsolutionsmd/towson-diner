@@ -26,7 +26,10 @@ with (state/'update.lock').open('a') as lock:
     for name in ('compose.yaml','image.env'):
         assert not (root/name).is_symlink(), 'Refuse linked configuration'
     env = (root/'image.env').read_text()
-    assert env.strip() == 'APP_IMAGE='+receipt['tag'], 'Unexpected first image configuration'
+    assert env.strip() in {'APP_IMAGE='+receipt['tag'], 'APP_IMAGE='+receipt['image_id']}, 'Unexpected first image configuration'
+    image_ref=env.strip().removeprefix('APP_IMAGE=')
+    image=json.loads(subprocess.check_output(['docker','image','inspect',image_ref]))[0]
+    assert image['Id'] == receipt['image_id'], 'First-release reference resolves to another image'
     with urllib.request.urlopen('https://towsondiner.xsolutionsmd.com/version.json',timeout=20) as r:
         assert json.load(r)['revision'] == receipt['revision']
     backup = state/'first-release-bootstrap'

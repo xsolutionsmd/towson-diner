@@ -21,3 +21,5 @@ Whole-repository development context is included: follow [Graft setup](docs/GRAF
 ## Branch contract
 
 This repository has no shared dev branch. Long-lived branches: `main` (production) and `derek-dev`, `abdul-dev` (personal preview environments). Wherever this guide says dev, use your own preview branch; promote with a reviewed PR from it into main, then merge main back into each preview branch.
+
+For Oracle, each personal branch push runs checks and publishes only its own preview package and prerelease manifest. PR events run checks without publication. Only a main push or deliberate main dispatch can publish production. The three GitHub environments restrict deployments to their matching branches. See [Oracle operations](docs/ORACLE_DEPLOYMENT.md) for exact hostnames, timers, immutable image identity, bootstrap and recovery. The local lifecycle and runtime remain unchanged.
