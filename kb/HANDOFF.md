@@ -1,41 +1,26 @@
 # Handoff
 
-<!-- xs-status:start -->
-Pipeline status (generated 2026-10-18T17:21:07.646964+00:00):
-
-- **identity**: done
-- **research**: done
-- **assets**: done
-- **spec**: done
-- **template**: done
-- **content**: done
-- **reconstruct**: done
-- **backend**: done
-- **refine**: done
-- **build**: done
-- **first-publish**: done
-- **first-live-slack**: done
-- **infra**: done
-- **review**: done
-- **fixes**: todo: record coordinator-accepted fixes evidence
-- **recheck**: todo: blocked by fixes
-- **deploy**: todo: blocked by recheck
-- **delivery**: todo: package the current library and record each part's verified Slack delivery to Abdul
-- **final-handoff**: todo: blocked by fixes, recheck, deploy, delivery
-<!-- xs-status:end -->
+Normal build stages through independent recheck are accepted. Final-record publication, current media delivery and persisted Slack/directory receipts are owned by the transferred final handoff task. Overall acceptance belongs to the coordinator; the separate Derek-only variation has not begun.
 
 ## Current state
-Full landing endpoint: production https://towsondiner.xsolutionsmd.com, Derek https://d-towsondiner.xsolutionsmd.com and Abdul https://a-towsondiner.xsolutionsmd.com are verified at `b66adf0978a9204827fb5b378bb4f6d9f00ba106`. The public repository is https://github.com/xsolutionsmd/towson-diner. Four populated pages, all 432 sourced menu entries, five authentic photos and existing Toast ordering. Managed infrastructure and independent live review R1 are accepted; F1 correction, fresh recheck and final delivery remain pending.
+Full landing endpoint: [Production](https://towsondiner.xsolutionsmd.com), [Derek](https://d-towsondiner.xsolutionsmd.com) and [Abdul](https://a-towsondiner.xsolutionsmd.com). Public source: https://github.com/xsolutionsmd/towson-diner. The accepted application revision is b6573df028c435f4f52d59697bda52d4b2a604fc; subsequent final-record commits must preserve meaningful app/runtime/config parity. Each environment reports its actual deployed record revision at /version.json.
 
-## Coordinator checkpoint
-2026-10-18: asset task completed, terminal/no pending runs verified, acceptance recorded and paths released. All nine source families have honest partial/unavailable coverage. Instagram identity verified; exact dining hours remain conflicting. Selected reference has a text-only item menu, preserved on main/Abdul. Final Derek-only photo variation follows normal delivery.
-Content gate has full page/offering/source/media mapping at private/runs/content-r1.json. Sol High reconstruction R2 is accepted at `ffe74dbdcdae5fb981bf37ed5af3d54afe24fa28`: four populated pages, all 432 source entries, five authentic photos, desktop/mobile and interaction evidence. Its writer is terminal and released. Astra accepted the production container and static integrations at `9e6b3e4b14e7ffa9340f8d2a79c799b77ebf3a67`. First publication/Slack precedes Sol xhigh infrastructure and independent Sol review. No Stitch; no custom ordering system; no duplicate business.
+Four populated static pages (/, /menu/, /about/, /visit/) retain all 432 source IDs, five authentic photos in ten WebP variants, and the established external Toast ordering, hosted inquiry, phone and Maps destinations. No custom checkout, payments, reservations or new backend. No transaction or customer contact was performed.
 
-## Next step
-Sol 6.1 High completed 58 independent live cases at b66adf0: 57 passed, F1 found enlarged mobile navigation overlap. Astra corrected mobile flex shrinking and checked 320px/200%, 390px short/normal and desktop views. Publish the scoped correction, verify all three environments and obtain fresh independent Sol recheck before final delivery. The final Derek-only menu-photo variation remains required after normal completion. Claude failed with its API rate-limit response before edits; stopped/revoked, then Astra performed the same refinement under the authorized fallback. Derek's browser/devtools fallback was used honestly; REA R1 remains revoked.
+## Accepted review and final checks
+Independent R1 passed 57 of 58 cases and found F1: enlarged mobile navigation overlap. Astra corrected only mobile flex shrinking; PR #2 merged. Fresh independent recheck passed 34/34 cases at b6573df with no unresolved findings. All three branch workflows and live versions passed after that correction. Desktop/mobile routes, full menu identity, search/filter/reset/history, controls within their containing areas, gallery, keyboard navigation and external landing destinations were checked. [Validation](../docs/VALIDATION.md) records coverage and its browser limitations.
 
-## Blockers / waiting on
-No current build/access blocker; exact dining hours remain a published-content unknown. First-live Slack delivery is verified. The canonical directory is the formatted Website URLs message, with company name and Production/Derek/Abdul URL rows only. The old snippet is superseded. Final delivery must add the verified previews under the dispatch parent's explicit one-writer grant, preserve other entries and read back the saved message; private receipts hold revision/status details. A temporary shared HTTPS timeout cleared without changes at 16:56 UTC; all three public revisions and rendered production were then verified. Static/external integration contracts are verified.
+The final food-photo pass found no displayed mismatch: the strawberry-and-cream waffle remains a likely exact association; the burger is correctly a generic food scene with uncertain exact product identity. All 432 source IDs are reconciled to 423 distinct products. Photo coverage remains 18 matched, 402 missing-photo and three uncertain; all nine required source families were checked with honest partial/unavailable results. Full originals/provenance remain private and are packaged for the team; [media](media.md) preserves public source/crop notes.
+
+## Delivery and continuation
+Normal final delivery is owned by Sol after explicit transfer; public records are published through the existing reviewed PR and three-branch machinery. The initial first-live announcement is preserved; final URLs, current media ZIP and persisted directory/message readbacks use the same channel/thread. The canonical team directory is [Website URLs](https://sidehustle2026.slack.com/archives/C0C0J6RB8KT/p1792340168382469); the old snippet is superseded. Directory and release writers require separate dispatcher grants. Detailed exact-revision/workflow/parity/delivery receipts remain private; coordinator acceptance follows inspection of those terminal results.
+
+**Next action after normal final acceptance:** Astra creates the separate Derek-only menu-photo variation with its own scoped review and release slot. This normal result adds no menu-item photos. Main and Abdul remain text-only, matching the accepted Sunday in Brooklyn reference. Never synchronize the later deliberate variation into main or Abdul.
+
+## Facts and tooling limits
+Exact dining hours conflict, so seven-days/call-for-hours copy remains. The restaurant-published 1994 family history is attributed, not a current-owner guarantee. No current stock, portion or recipe promise is inferred from historical photos. Existing external services retain checkout/inquiry internals. No sale or client approval is inferred.
+
+No Stitch. REA failed and was not retried; accepted browser/devtools evidence supports the reconstruction. Claude reported its actual API rate limit before edits, was stopped/revoked, and Astra completed the refinement fallback. Viewport simulation does not establish physical-phone, Safari or native-touch coverage; native OS motion-setting and continuous frame-perfect tests are not claimed. Temporary shared HTTPS timeouts recovered without site changes; their cause is not attributed here.
 
 ## Cleanup and retention
-Local app servers and T3 test tabs are stopped; isolated check/rehearsal resources and Oracle candidate removed. First live production service stays active. The Towson builder/cache and four exact local test/runtime images were removed. Recycled 52,229,308 bytes of obsolete ZIP, release archive, successful log and build output, with recovery verified (this does not free disk until Derek empties the Recycle Bin). Retain node_modules for upcoming fixes, factual KB, the31-file library, reference evidence and the regenerated current ZIP for final delivery. Recheck disposable resources after final release.
+Previously recycled 52,229,308 bytes of obsolete package/release/test output plus the 38,074-byte infrastructure archive, with recovery verified; this does not free disk until the owner empties the Recycle Bin. The superseded unsent ZIP is recycled only after the current package passes every original hash and metadata check. Retain the current 31-file library/package, required source/review evidence and active source. Local node_modules and dist are retained for the concrete imminent Astra Derek-only variation; recheck after that scoped task. No local server or Docker resource is owned by final delivery; no global prune or shared-host cleanup. Managed images follow existing hourly current-plus-two-history retention.
