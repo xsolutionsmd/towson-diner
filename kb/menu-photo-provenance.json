@@ -1,0 +1,1874 @@
+{
+  "environment": "derek-dev only",
+  "baseline": "f3068c0af01e30ab058395f2074720780bda7382",
+  "source": "Existing sourced business library; collection stopped at owner-accepted amount on 2026-10-18",
+  "photos": [
+    {
+      "item": "Coffee",
+      "ids": [
+        "4b1560b3-f3f3-48c5-8108-1c4c1c935be6"
+      ],
+      "source_sha256": "780c10d7d4c83cc03e3777fcedb9344c2082b490ad6ab91055836f8c3f917370",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.instagram.com/towson_diner/p/CFuEw7mDOHb/"
+      ],
+      "rendered": "coffee.webp",
+      "rendered_sha256": "5c36e5f745126e365467e4054e2a8ef1d5a5bc55baa969a8feb8c5c7da5431a0",
+      "crop": null,
+      "derivation": null,
+      "notes": "Official post explicitly offers regular and decaf coffee; both share the photographed black-coffee appearance. The image does not distinguish caffeine content."
+    },
+    {
+      "item": "Decaf Coffee",
+      "ids": [
+        "68e80c5f-1f36-4237-a47f-0db6af6643c8"
+      ],
+      "source_sha256": "780c10d7d4c83cc03e3777fcedb9344c2082b490ad6ab91055836f8c3f917370",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.instagram.com/towson_diner/p/CFuEw7mDOHb/"
+      ],
+      "rendered": "decaf-coffee.webp",
+      "rendered_sha256": "5c36e5f745126e365467e4054e2a8ef1d5a5bc55baa969a8feb8c5c7da5431a0",
+      "crop": null,
+      "derivation": null,
+      "notes": "Official post explicitly offers regular and decaf coffee; both share the photographed black-coffee appearance. The image does not distinguish caffeine content."
+    },
+    {
+      "item": "Hot Tea",
+      "ids": [
+        "cd2dd756-1dcd-4aa6-bef0-e7aae3730b32"
+      ],
+      "source_sha256": "342ba1cbfbfef68456e858d6c42f62f7082968bf9bcbc5667290ed7e373aa803",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=c6idA-Z48AWSIObX7qyJSA"
+      ],
+      "rendered": "hot-tea.webp",
+      "rendered_sha256": "be76a63ed46e8c344d4b8c734dc0762e132eff7c8a1439abea50c6cda2ebd461",
+      "crop": null,
+      "derivation": null,
+      "notes": "Caption and visible tea bag in hot water identify hot tea; specific tea variety is not claimed."
+    },
+    {
+      "item": "Hot Chocolate",
+      "ids": [
+        "6f0e0058-a776-4dce-b7f1-96813901a624"
+      ],
+      "source_sha256": "4a1f582f437de85bb097e240c3a65078c3e3c27a05ad0676875003e008a36555",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.instagram.com/towson_diner/p/B81oUlYlFdf/"
+      ],
+      "rendered": "hot-chocolate.webp",
+      "rendered_sha256": "9d65c6ef5ac55a1ce11967743d6ef099aec2a66bd04e857dfa259098867de3aa",
+      "crop": null,
+      "derivation": null,
+      "notes": "Official caption plus whipped-cream-topped chocolate drink identifies hot chocolate; toppings are historical presentation."
+    },
+    {
+      "item": "Cappuccino",
+      "ids": [
+        "904f4350-0099-421f-9bd3-537b5830994e"
+      ],
+      "source_sha256": "e027f6956b58e3a3821a82d752aa3d915ae4a2be7d106688b7c55091dcef058e",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.instagram.com/towson_diner/reel/CrOIspUtGEL/"
+      ],
+      "rendered": "cappuccino.webp",
+      "rendered_sha256": "4a48838e21c4b3248eca00a5e47541d4ffc4da07dce1bd7c3cead6f93ee97780",
+      "crop": null,
+      "derivation": {
+        "sha256": "5fb88994a4416cf782430f8cdd7f7bc0e182e0123cf19ec5ccd25e1825b9323a",
+        "timestamp_seconds": 25.52,
+        "crop_xyxy": [
+          0,
+          550,
+          720,
+          1160
+        ],
+        "source_dimensions": [
+          720,
+          1280
+        ],
+        "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
+      },
+      "notes": "Real frame from official cappuccino preparation video; espresso and steamed milk foam visible."
+    },
+    {
+      "item": "Orange Juice",
+      "ids": [
+        "f62e7eb8-4c85-48ed-a2b6-3d89eaf612ba"
+      ],
+      "source_sha256": "d289170b742ce5f3764ddcf163264374b647351dc55badbb704c153799cf3423",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=dC4DfV7d8W474JrQTOBiHQ"
+      ],
+      "rendered": "orange-juice.webp",
+      "rendered_sha256": "b8cb843848f50340c85aafd38a333fb02033269ec0f0e5a2f5495e37f64c8e82",
+      "crop": null,
+      "derivation": null,
+      "notes": "Customer caption and opaque orange liquid support orange juice; glass size is illustrative."
+    },
+    {
+      "item": "Strawberry Milkshakes",
+      "ids": [
+        "c8d4ed0f-6b16-4a78-9e86-1455e1ea274c"
+      ],
+      "source_sha256": "8df9b6d34db41e3feb26f80a02b128354aed9b03ad52e607a8e3dc5de0e4062e",
+      "confidence": "likely",
+      "sources": [
+        "https://www.instagram.com/towson_diner/p/B9He2lXFLQE/"
+      ],
+      "rendered": "strawberry-milkshakes.webp",
+      "rendered_sha256": "c2ebe5109c12ce696d71f7be5388af04a13a6ba1ab45efb4f4ace876b0b5b14e",
+      "crop": null,
+      "derivation": {
+        "sha256": "21da17b78695e3d9fa830a82890159a6de4c914ef02306b8011716c474754651",
+        "timestamp_seconds": null,
+        "crop_xyxy": [
+          547,
+          972,
+          1181,
+          1800
+        ],
+        "source_dimensions": [
+          1440,
+          1800
+        ],
+        "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
+      },
+      "notes": "Pink shake with strawberry syrup, fresh strawberries and whipped cream; customer comment names strawberry. Crop removes the face; hand and straw remain."
+    },
+    {
+      "item": "One Egg Breakfast",
+      "ids": [
+        "bcd2ce76-a815-4725-b73b-2b23c6e5430a"
+      ],
+      "source_sha256": "feeffa239535819b073be98c0e1b57b3165578d7f1561f861d55f8e8b2b360e7",
+      "confidence": "likely",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=Eq5ECO5ID1uzExB29Wfzww"
+      ],
+      "rendered": "one-egg-breakfast.webp",
+      "rendered_sha256": "292efe2d20cd33a8077e7356d176be11892fa222042a51bd92a31a2c35892dbb",
+      "crop": null,
+      "derivation": null,
+      "notes": "Exact one-egg breakfast caption. The kids row shares the dish illustration; photographed bacon/potato sides are historical and are not a portion promise."
+    },
+    {
+      "item": "Two Egg Breakfast",
+      "ids": [
+        "1c56bb7e-1b84-47ba-b711-79504d378960"
+      ],
+      "source_sha256": "09d28bc38eb2b8d40e58d02015c6cf27653dd10671798411cdd46d041148b86e",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=FSNeAQQ9TAIaVobeHvJrZw"
+      ],
+      "rendered": "two-egg-breakfast.webp",
+      "rendered_sha256": "feae1bffff276cbe32c995f9e042902ee953d974262604fdc0a3d7d28c874150",
+      "crop": null,
+      "derivation": null,
+      "notes": "Exact two-eggs caption and two fried eggs with home fries visible."
+    },
+    {
+      "item": "Corned Beef Hash and Eggs",
+      "ids": [
+        "f201c06e-b8bd-4e09-9d87-1899aca12401"
+      ],
+      "source_sha256": "3d342a617681e1d49fc0755fad7238dcfef9be77048d561979adc2f58c6f5519",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=JCLRwRB98mEfJ4_GiKlloQ"
+      ],
+      "rendered": "corned-beef-hash-and-eggs.webp",
+      "rendered_sha256": "6fabf25a6a4f18cdb4818bb7e03228764d638e93fbed23433c99e8f2c47b0b4e",
+      "crop": null,
+      "derivation": null,
+      "notes": "Caption and visible two fried eggs over corned beef hash; no Benedict muffin or hollandaise."
+    },
+    {
+      "item": "Chipped Beef Platter",
+      "ids": [
+        "c9c0e291-24a0-421a-9c6d-be1fbef73cb2"
+      ],
+      "source_sha256": "527e55b6f553ffeb820e3e08616226422f1dec69db1d6833ab90e7f580ae8463",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=aWDuBeg0t6g1TqFvqz5TKQ"
+      ],
+      "rendered": "chipped-beef-platter.webp",
+      "rendered_sha256": "96e08202969527f15bc693e94cacafa4dec5f1810ec576f420134bb26e274413",
+      "crop": null,
+      "derivation": null,
+      "notes": "Creamed chopped beef over toast with browned potatoes and onions; exact caption."
+    },
+    {
+      "item": "Avocado Toast",
+      "ids": [
+        "933d74c5-91c1-4160-9af4-530ef92e0e3b",
+        "bd234f1b-2cd9-499d-8c4f-da952c230226"
+      ],
+      "source_sha256": "1120fc4540a24a34c71c0dcb9a021cffa34e8bec1b9d76c62711219b627a7f5c",
+      "confidence": "likely",
+      "sources": [
+        "https://www.instagram.com/towson_diner/p/Clq-imWLb84/"
+      ],
+      "rendered": "avocado-toast.webp",
+      "rendered_sha256": "0391c8cc56d12589d6852f9278cec4f83a51de0d2f02e10764fd695f5013c26b",
+      "crop": null,
+      "derivation": null,
+      "notes": "Mashed avocado on two toast slices, one egg-topped and one tomato/onion-topped; official post supports avocado toast with photographed topping variations."
+    },
+    {
+      "item": "Steak and Eggs",
+      "ids": [
+        "b44e6726-3302-4bac-9d33-eae703843328"
+      ],
+      "source_sha256": "e5869f863afff9c980a7c52c9c9b1c2dca5425e29b7164d79f43fd4819259afe",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=rEV7rym6BrS94ZH56VM6oA"
+      ],
+      "rendered": "steak-and-eggs.webp",
+      "rendered_sha256": "453d5453073f06c256b79b329a60789d4b4e570bf38c9ba76f42e637880e2966",
+      "crop": null,
+      "derivation": null,
+      "notes": "Caption plus intact steak and two fried eggs; this does not establish a separate steak-entree cut/weight."
+    },
+    {
+      "item": "Virginia Ham Steak",
+      "ids": [
+        "d71becdb-d548-4107-9ed4-2a6638fc092a"
+      ],
+      "source_sha256": "1ae472db9402f285e21f0407946692d48ba0780467bb841b3e2ed2bece72406f",
+      "confidence": "likely",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=gb2fPEkpGDb4YsQJSKE3bQ"
+      ],
+      "rendered": "virginia-ham-steak.webp",
+      "rendered_sha256": "4860e4dd9d488c97490d08327c42c70e88f1084d7ddac54e4b492de4a6ab7a01",
+      "crop": null,
+      "derivation": null,
+      "notes": "Thick griddled ham steak below fried eggs, supported by ham-specific customer caption."
+    },
+    {
+      "item": "Create your own Omelette",
+      "ids": [
+        "02184940-ebae-45df-aa15-65f1a25a7411"
+      ],
+      "source_sha256": "a715eea8b0c0d296e37f8a6607b7436474c34234c44e6bc2e3c039e80b3745ac",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=8GZUufYSMb2s5_lYmjf6Sg"
+      ],
+      "rendered": "create-your-own-omelette.webp",
+      "rendered_sha256": "0e40df8eb22fcccd028e76d4b5b9c45b8dfe0747f1feb146bcdb229027ab0979",
+      "crop": null,
+      "derivation": null,
+      "notes": "Customer identifies a custom vegetable omelette; visible peppers, tomato and onion. This is one available customization, not every filling."
+    },
+    {
+      "item": "Garden Omelette",
+      "ids": [
+        "e27ddd54-2f5a-446c-9614-72dfa1158a3d"
+      ],
+      "source_sha256": "def607c7a8a56be49c54131f44fbc7e7833ef4222e14bb2dfb80152f9e85f026",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.doordash.com/store/towson-diner-towson-160469/57608146/"
+      ],
+      "rendered": "garden-omelette.webp",
+      "rendered_sha256": "ff3c8c6148f1d5ddbc322ecba9091cb9ee87ff02343aacfbaf966e32f616ad47",
+      "crop": null,
+      "derivation": null,
+      "notes": "Exact DoorDash item detail; visible tomato, peppers, onion and mushrooms. Public item response had shouldDisplayAiDisclaimer=false. Mushroom variation retained."
+    },
+    {
+      "item": "Greek Omelette",
+      "ids": [
+        "dac1765b-e4dc-4e69-815a-f46c723a7f15"
+      ],
+      "source_sha256": "9124e489ce73caf4d7c744b0035ba2dd56e46fc441dd89d231852236aa6019eb",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=pQ_sZ5OPi0lobUZk_d0bqg"
+      ],
+      "rendered": "greek-omelette.webp",
+      "rendered_sha256": "4037a216e161456925b454ebc4469a2f4b5386238f212921953db93bba3d28c8",
+      "crop": null,
+      "derivation": null,
+      "notes": "Exact caption and visible feta, tomato and omelette preparation."
+    },
+    {
+      "item": "Italian Omelette",
+      "ids": [
+        "c9310674-35e0-4822-bb91-b8f6326e286f"
+      ],
+      "source_sha256": "86052c992916687d0bcf96f1bab7bf125fedfaa9b5852d9bfa83a4a5ceec892c",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.instagram.com/towson_diner/p/COSvN0CL9iQ/"
+      ],
+      "rendered": "italian-omelette.webp",
+      "rendered_sha256": "68fb945c9b3a5eaf0020335347163cdc6da7b6ce4fdfd9a7db69e9ea044cbba0",
+      "crop": null,
+      "derivation": null,
+      "notes": "Official Italian omelette caption; mozzarella and vegetables visible. Historical vegetable mix differs from current text but dish identity is supported."
+    },
+    {
+      "item": "Meat Lovers Omelette",
+      "ids": [
+        "493960b7-e373-4d35-962b-5737449e03ab"
+      ],
+      "source_sha256": "e27be315741dec40902f36d7a655267736650336e2aa44374587877b5134bcbe",
+      "confidence": "likely",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=4tragDilUtMgqXUXmzcv1Q"
+      ],
+      "rendered": "meat-lovers-omelette.webp",
+      "rendered_sha256": "524ecb2da55b6ea0ffb2152d535c117cc5a7e3fb1a5840ea0016265785981caa",
+      "crop": null,
+      "derivation": null,
+      "notes": "Three-meat caption and visible ham plus browned bacon/sausage pieces support Meat Lovers. Alternative: customer-created three-meat omelette."
+    },
+    {
+      "item": "Spanish Omelette",
+      "ids": [
+        "09e557f4-740c-4d40-863e-a30cc32dec69"
+      ],
+      "source_sha256": "15c7376f4fec8f2eb879ed504af02f08b3e2e42a9d4f8320c69759b7dbd1ac43",
+      "confidence": "likely",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=i4IbYEhxYo70cRFpM2dj4g"
+      ],
+      "rendered": "spanish-omelette.webp",
+      "rendered_sha256": "870a9684aa932d1e207c4d18d30e63d9dbb33d1373b76255024869cea522d3b6",
+      "crop": null,
+      "derivation": null,
+      "notes": "Exact Spanish omelette caption and tomato/pepper/onion sauce. Current Toast description appears inconsistent; retain the source-labelled historical preparation rather than claiming identical ingredients."
+    },
+    {
+      "item": "Western Omelette",
+      "ids": [
+        "1a37790a-6ea7-4761-94b1-a0c5f6227086"
+      ],
+      "source_sha256": "32f561183d6b0c91a154af606ed9aee6ab723dbe41367ab14fd8a921ac5b0e7c",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=pbAdfXDb0VyWgLynEcTdgA"
+      ],
+      "rendered": "western-omelette.webp",
+      "rendered_sha256": "14b877c20e902244f880397f03877b92e1755988fe1105dcc38c301b57852a4a",
+      "crop": null,
+      "derivation": null,
+      "notes": "Exact customer caption, visually consistent omelette with ham/vegetable filling."
+    },
+    {
+      "item": "Pancakes (3)",
+      "ids": [
+        "006582a6-01ce-46f9-a843-00ad02cf947f"
+      ],
+      "source_sha256": "d3016f25fc12c41d294f77889edbf100c89c01127531f090840b07b578fd101c",
+      "confidence": "likely",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=vwQwjLJybBTc_XP-u5UwTA"
+      ],
+      "rendered": "pancakes-3.webp",
+      "rendered_sha256": "f2f37eca0c681344d9caf8161ad2c264d03ea665b0eb766809aa92fd235e0fee",
+      "crop": null,
+      "derivation": null,
+      "notes": "Caption Pancakes; plain pancakes visible. Portion quantity is not verified; current three-piece serving not guaranteed by this photo."
+    },
+    {
+      "item": "Belgian Waffle",
+      "ids": [
+        "91eb3aca-7271-4274-8694-e08079f436e6"
+      ],
+      "source_sha256": "1005b443d8ae9ebd1e2e1bde60130c418a6826b9039229249d1eb94bfe4508c5",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=pqCUo1FjQKtsjBOsoyCUmA"
+      ],
+      "rendered": "belgian-waffle.webp",
+      "rendered_sha256": "505ab348f1f5d067f744e1a652b2403bcc931df5a0adef9d277d68f3c3edb6f9",
+      "crop": null,
+      "derivation": null,
+      "notes": "Plain four-quadrant Belgian waffle. Kids row uses the same dish illustration; size/portion is not inferred."
+    },
+    {
+      "item": "Blueberry Pancakes (3)",
+      "ids": [
+        "e90aa12e-620f-4881-8919-22f8f2b9b636"
+      ],
+      "source_sha256": "a9df36c6036ea151330dcf9441831579fedc87c7c3684d0ea892dfce08b7ae4c",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=LcMYE_pNL5ijtX4FL573ig"
+      ],
+      "rendered": "blueberry-pancakes-3.webp",
+      "rendered_sha256": "6cc4ce24f9082b12741ec3e89bda5400946465de5a562c91efb75823ea1f8292",
+      "crop": null,
+      "derivation": null,
+      "notes": "Three pancakes with berries visible in edges; exact blueberry caption."
+    },
+    {
+      "item": "Challah Bread French Toast",
+      "ids": [
+        "b875e29e-3bcc-4ccc-98b5-13618c0915dd"
+      ],
+      "source_sha256": "a65e2bf0b0fa3ff182a0347f92af54a31694940d837dbce5b71b1dd7a1eeaf75",
+      "confidence": "likely",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=ivx0waUh-qK6_HsEdTOC9A"
+      ],
+      "rendered": "challah-bread-french-toast.webp",
+      "rendered_sha256": "0defa3e1e606755a0103ac190275ee8f01fcbefe64db49b2927f598d69d02aab",
+      "crop": null,
+      "derivation": null,
+      "notes": "Very thick golden French-toast pieces and powdered sugar support challah-style French toast. Alternative thick white bread considered; caption only says French toast."
+    },
+    {
+      "item": "Elvis Stack",
+      "ids": [
+        "1aa5911c-0e67-49b1-9966-bee75554ac37"
+      ],
+      "source_sha256": "b36d11f79e5b9e7bf6546c7b513a46862511f93d73ef524fdb91ec8841f5d563",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.instagram.com/towson_diner/reel/COxjTw2D-xH/"
+      ],
+      "rendered": "elvis-stack.webp",
+      "rendered_sha256": "b3683724419c788f445ee8e65a899381d656c52bb69d8e157a3839871f89dee7",
+      "crop": null,
+      "derivation": {
+        "sha256": "aca524fe479c07828615d79ed836373b87bb4d9bb2e0437c7adbc05133562aaf",
+        "timestamp_seconds": 115,
+        "crop_xyxy": [
+          20,
+          70,
+          940,
+          670
+        ],
+        "source_dimensions": [
+          1280,
+          720
+        ],
+        "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
+      },
+      "notes": "Official Elvis Stack preparation video shows peanut-butter chips, banana, bacon and finished pancakes; real frame at 115 seconds."
+    },
+    {
+      "item": "French Toast Bites",
+      "ids": [
+        "ba7dd731-ed75-4c00-9752-2aac53efc9f1"
+      ],
+      "source_sha256": "99b4b058d2f9130232d00114543e3e8675d5a6e68eff39e6c6acc13f2f91a9c0",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=ckpf0mpxbCsiPxnYQIwfzw"
+      ],
+      "rendered": "french-toast-bites.webp",
+      "rendered_sha256": "b983ac4f4e1bdd8cef6a451f3255e8f6329bc8d3b6b09d898bae0ab2e51d5783",
+      "crop": null,
+      "derivation": null,
+      "notes": "Exact caption and bite-size pieces; pictured with fruit/cream toppings."
+    },
+    {
+      "item": "Monte Cristo",
+      "ids": [
+        "67c10efc-52d0-4901-938c-0533fcba6097"
+      ],
+      "source_sha256": "cc23dcc0ec1b0dc258afa680951e3f8c1cc453dae52eacfa639c6231f65f8d92",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.instagram.com/towson_diner/p/CS4vnNer2l7/"
+      ],
+      "rendered": "monte-cristo.webp",
+      "rendered_sha256": "321a303e0cd7d7654ba80705d2d88d54de2d6b2ad3fb07d27a5030d7fd49c159",
+      "crop": null,
+      "derivation": null,
+      "notes": "Official caption and thick French toast enclosing turkey, ham and melted Swiss."
+    },
+    {
+      "item": "Short Stack (2)",
+      "ids": [
+        "44c9505e-1a03-44f8-bd50-20c7225ea1d9"
+      ],
+      "source_sha256": "d3016f25fc12c41d294f77889edbf100c89c01127531f090840b07b578fd101c",
+      "confidence": "likely",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=vwQwjLJybBTc_XP-u5UwTA"
+      ],
+      "rendered": "short-stack-2.webp",
+      "rendered_sha256": "f2f37eca0c681344d9caf8161ad2c264d03ea665b0eb766809aa92fd235e0fee",
+      "crop": null,
+      "derivation": null,
+      "notes": "Plain pancakes are the same preparation as the existing Pancakes (3) image. Photo illustrates food appearance; photographed quantity is not the one/two-pancake portion."
+    },
+    {
+      "item": "Hungry man Special",
+      "ids": [
+        "7c9a79bd-e1e8-4023-a1c3-7f0e3fcfb6b0"
+      ],
+      "source_sha256": "50b86bd59daa01073f9b4a0fec1c67eba6534ef5a0a626f3ec05a037b7015159",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=WTKUok4PlGq_1YYp9GVrAw"
+      ],
+      "rendered": "hungry-man-special.webp",
+      "rendered_sha256": "a951fd6be127744310ad2c1514df196301c8caea4999882307fd911368e8b859",
+      "crop": null,
+      "derivation": null,
+      "notes": "Exact caption and breakfast components. Multiple plates on group table; do not promise every visible pancake plate is one order."
+    },
+    {
+      "item": "Belgian Waffle W Straw&Whip",
+      "ids": [
+        "47bd8a05-4df0-4464-bc39-be091c0808a7"
+      ],
+      "source_sha256": "9f30787d692c3aa8b6f8a0e42dcce22a234ce258fb8fc6874ab385ca402eea33",
+      "confidence": "likely",
+      "sources": [
+        "https://www.towsondiner.net/"
+      ],
+      "rendered": "belgian-waffle-w-straw-whip.webp",
+      "rendered_sha256": "20823f8cb81b1afd999b28cfd56dd43dcf7391175e97a399c380442eeb9062aa",
+      "crop": null,
+      "derivation": null,
+      "notes": "Official website photo shows exact named combination: Belgian waffle, strawberries and whipped cream. No baked-in label, so visual match is likely."
+    },
+    {
+      "item": "Pancake (1)",
+      "ids": [
+        "924c80ac-170d-439d-b475-cc79d260add0"
+      ],
+      "source_sha256": "d3016f25fc12c41d294f77889edbf100c89c01127531f090840b07b578fd101c",
+      "confidence": "likely",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=vwQwjLJybBTc_XP-u5UwTA"
+      ],
+      "rendered": "pancake-1.webp",
+      "rendered_sha256": "f2f37eca0c681344d9caf8161ad2c264d03ea665b0eb766809aa92fd235e0fee",
+      "crop": null,
+      "derivation": null,
+      "notes": "Plain pancakes are the same preparation as the existing Pancakes (3) image. Photo illustrates food appearance; photographed quantity is not the one/two-pancake portion."
+    },
+    {
+      "item": "Fruit Cup",
+      "ids": [
+        "69d7bea7-a309-444c-b196-f6c23a00df0d"
+      ],
+      "source_sha256": "5ca496353ff5a7794fbcc95772e2db85a27c73776fc3a319de6e4fa082b771e5",
+      "confidence": "likely",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=h950ekIifqkGFR1gRLQ6Kw"
+      ],
+      "rendered": "fruit-cup.webp",
+      "rendered_sha256": "b38a5d348545953e323708a9ee317deb057c9dfb85a7b8586f86edd255847f78",
+      "crop": null,
+      "derivation": {
+        "sha256": "9798433b1f211876d39a606c78e2d3e6bd72fc9cea2bb1180352af49cd5e4784",
+        "timestamp_seconds": null,
+        "crop_xyxy": [
+          750,
+          45,
+          1000,
+          366
+        ],
+        "source_dimensions": [
+          1000,
+          563
+        ],
+        "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
+      },
+      "notes": "Previously reviewed mixed-fruit cup beside Italian omelette; fruit salad shares the same fruit preparation, with portion caveat."
+    },
+    {
+      "item": "Grits (Bowl)",
+      "ids": [
+        "b8333c39-97e5-4956-bf92-47b01be970ea"
+      ],
+      "source_sha256": "10d66832f89a6265a3cfc899ca2fb9d3a995dc79e4701cbf99a9046012e7d860",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=GTjaT1HUAbw4kXAQqePbIg"
+      ],
+      "rendered": "grits-bowl.webp",
+      "rendered_sha256": "abf9487046fd3ea2b43513f2055cea8f5759937fe58b626e093652c632635b0d",
+      "crop": null,
+      "derivation": null,
+      "notes": "White coarse grits with butter and pepper in full bowl; exact customer caption."
+    },
+    {
+      "item": "Side Bacon",
+      "ids": [
+        "63da29a2-609c-440b-8f6a-f42bdb0c5795"
+      ],
+      "source_sha256": "0a46c3f717370ec0992098526380c41c7ea2fbce9e4f2bf077e68faec90c1aaa",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=QDfapWCHEmX4eBqTeNhm7Q"
+      ],
+      "rendered": "side-bacon.webp",
+      "rendered_sha256": "87e4a4f941f9a45f866135a6aa3769a0c7e8e8bb372a59cb6a2d670247d1aa90",
+      "crop": null,
+      "derivation": null,
+      "notes": "Exact side-of-bacon caption and visible pork bacon."
+    },
+    {
+      "item": "Side Corn Beef Hash",
+      "ids": [
+        "e9806c79-9383-4bee-b5a6-0369844aa9dd"
+      ],
+      "source_sha256": "3ef8468a31bccc032fa747271abc7ee6cbc45e97bd1b40dd2cb34a6c25eccc2c",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=bGl7LOmomHpEOKNRSw3-9g"
+      ],
+      "rendered": "side-corn-beef-hash.webp",
+      "rendered_sha256": "c69722287dc5721eb2e17b0d387b78ac32daf10ad486a1dc6147c5dc7a980ebe",
+      "crop": null,
+      "derivation": {
+        "sha256": "c1acbc268f688a6db217cd403e73561234aa64c7bb8b0c0f9ef1424b513cde51",
+        "timestamp_seconds": null,
+        "crop_xyxy": [
+          135,
+          160,
+          750,
+          480
+        ],
+        "source_dimensions": [
+          750,
+          1000
+        ],
+        "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
+      },
+      "notes": "Previously reviewed browned corned-beef hash on upper plate; caption confirms."
+    },
+    {
+      "item": "Side Creamed Chipped Beef",
+      "ids": [
+        "49f416e5-8cb1-4c4c-8dff-830edbd35ee8"
+      ],
+      "source_sha256": "76422f5ac05f3cdf3bf1a483297e9d2e30f07027a8bea946288a5d10c2be6484",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=AwnLo0dtr0dJHQwL0mY-Ng"
+      ],
+      "rendered": "side-creamed-chipped-beef.webp",
+      "rendered_sha256": "2fedc0b8e13010eda15605695b9e458de08444ac32af50acdbe1e39397c5a99c",
+      "crop": null,
+      "derivation": null,
+      "notes": "Caption and bowl of creamed chipped beef without bread establish the side."
+    },
+    {
+      "item": "Side Home Fries",
+      "ids": [
+        "65dde1e5-2d82-473e-888f-d28d35e5d793"
+      ],
+      "source_sha256": "caaab61634c253c5ed642d431b1a41d5e3725935979771688f1f9c4d455a07ef",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=02BvxE78D1PmWccqJZCCng"
+      ],
+      "rendered": "side-home-fries.webp",
+      "rendered_sha256": "55b1e2d303c8e2de8ff59e07927fec217f0a5a74f6ae9bc001432aa28ff3344c",
+      "crop": null,
+      "derivation": {
+        "sha256": "37a4e11dbf07be5968d4dde32e45bb8b821b20f05b0945e4aad6b719cc557ad5",
+        "timestamp_seconds": null,
+        "crop_xyxy": [
+          135,
+          360,
+          750,
+          870
+        ],
+        "source_dimensions": [
+          750,
+          1000
+        ],
+        "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
+      },
+      "notes": "Previously reviewed side plate of browned diced potatoes; exact home-fries caption."
+    },
+    {
+      "item": "Side Scrapple",
+      "ids": [
+        "74aa6b5c-d3ea-4d48-818c-23bff3a1fe48"
+      ],
+      "source_sha256": "9c6188dfdd27344dbbda95baa37d3b59bef7f038568fdf35285e84fa2464d7d2",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=UrHFF6MMdINVcwkWVqVXBg"
+      ],
+      "rendered": "side-scrapple.webp",
+      "rendered_sha256": "beb97d40f25756f73f79115c908b8ef643dd9c91fc3f6078283242804a78ec41",
+      "crop": null,
+      "derivation": {
+        "sha256": "5b0a0093a66fe0074df2cc6974a41d226ab26b9caf3403778a6596a11cc46e37",
+        "timestamp_seconds": null,
+        "crop_xyxy": [
+          202,
+          200,
+          592,
+          470
+        ],
+        "source_dimensions": [
+          750,
+          1000
+        ],
+        "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
+      },
+      "notes": "Two dark rectangular scrapple slices; caption and characteristic shape/texture support identification."
+    },
+    {
+      "item": "Side Turkey Sausage",
+      "ids": [
+        "ed5f34f1-7dee-4f35-baf1-dfbda6af2a7e"
+      ],
+      "source_sha256": "b9105552713aa7b6982713ae6a6d646bc13916b12ad63c5b0575029fff62129a",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=PVcusRtwIVsM_wLJ5dpbFw"
+      ],
+      "rendered": "side-turkey-sausage.webp",
+      "rendered_sha256": "07826278246c62291642ade9e9452f2f8284481081bea73391b03dd37310f9a9",
+      "crop": null,
+      "derivation": {
+        "sha256": "20136ef29617175cb6c4e0f1db2b6207201d1d0e121a9f2497a26fec3221840c",
+        "timestamp_seconds": null,
+        "crop_xyxy": [
+          96,
+          570,
+          377,
+          870
+        ],
+        "source_dimensions": [
+          562,
+          1000
+        ],
+        "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
+      },
+      "notes": "Pale turkey-sausage patties on breakfast plate; caption explicitly names turkey sausage."
+    },
+    {
+      "item": "Side Apple Sauce",
+      "ids": [
+        "cd4d4bff-d1c4-463c-975b-77c2ec86c292",
+        "2f60a824-8139-40c4-979a-5b99d9ccc0e6"
+      ],
+      "source_sha256": "66d647c6dffdcc9187b2f0831f9b15c2f5621109f9c9427a53839d919e610b19",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=IqmKMaM1Jpb5lF4AIZZuQw"
+      ],
+      "rendered": "side-apple-sauce.webp",
+      "rendered_sha256": "8e9b94a657a025e51d38f70e86f80f3f7425e7bb438c9f5833368d71581d97d8",
+      "crop": null,
+      "derivation": {
+        "sha256": "62f9dc5a30914cb1aa64ea638ef34459b3d01d8d7a93f99594dfc8c9bceb07a1",
+        "timestamp_seconds": null,
+        "crop_xyxy": [
+          0,
+          262,
+          360,
+          600
+        ],
+        "source_dimensions": [
+          1000,
+          750
+        ],
+        "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
+      },
+      "notes": "Lower-left bowl of applesauce in captioned chipped-beef-and-applesauce photo."
+    },
+    {
+      "item": "Traditional Eggs Benedict",
+      "ids": [
+        "014d85ad-4d68-42c4-98c3-6635af8e98e6"
+      ],
+      "source_sha256": "35eae02650b89c9832e75afeee89dc1360a05d300b48a2149fd6b77a9eb5b351",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=CthEyX9-bCrsrxFPeQjKuA"
+      ],
+      "rendered": "traditional-eggs-benedict.webp",
+      "rendered_sha256": "4bebb140d03002f12854eef1366c802b6c18a4008ed0a980d7a0f2532434f7a7",
+      "crop": null,
+      "derivation": null,
+      "notes": "Popular menu-card name plus photo caption and visible ham, eggs, muffin and hollandaise."
+    },
+    {
+      "item": "Crab Benedict",
+      "ids": [
+        "f1129930-8480-45ba-8559-f859c5f17613"
+      ],
+      "source_sha256": "b339ab8fc520db97811fc5c2d7c8bc1176d7b7b76ff89b701e035d9afe56631c",
+      "confidence": "likely",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=qOZqw7dfGpQuXlDX1J54EQ"
+      ],
+      "rendered": "crab-benedict.webp",
+      "rendered_sha256": "11432620d1ecdd10fac37e926c2f163af4e06227ce37b05353b9465e733d593c",
+      "crop": null,
+      "derivation": null,
+      "notes": "Exact Crab Eggs Benedict caption, poached eggs and white crab pieces under hollandaise. Toast description appears shifted to turkey/avocado; photo follows the named dish and observed ingredients."
+    },
+    {
+      "item": "Spinach Florentine Benedict",
+      "ids": [
+        "30f09210-6f1d-4c55-b2ad-1ba035a0d178"
+      ],
+      "source_sha256": "36555d0cfe0b5227479dd812117fbe5f8661b4ef83bc4de73ace5df48d470645",
+      "confidence": "likely",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=vKmCELeJzPzB4pbGiGCmdg"
+      ],
+      "rendered": "spinach-florentine-benedict.webp",
+      "rendered_sha256": "260e37cec0e7852a408a0f916695857d7b92fd5615253c555ef2d74ecb7d054e",
+      "crop": null,
+      "derivation": null,
+      "notes": "Exact Florentine caption and spinach beneath poached eggs/hollandaise. Toast description mentions sausage, apparently a shifted description; photo follows the named dish."
+    },
+    {
+      "item": "Breakfast Burrito",
+      "ids": [
+        "f0c8ae25-5ea5-4bdf-beb4-861066e36d62"
+      ],
+      "source_sha256": "86cdfa05e34237d588e6af2b738b8c011178c716f338efdea8efef6c5bf1458a",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.instagram.com/towson_diner/p/B99QK0XlbbM/"
+      ],
+      "rendered": "breakfast-burrito.webp",
+      "rendered_sha256": "5f09ba5bc86008d5dda5ff62eb20f64f05d7c89abde8eda826fdbdcc24fda2b1",
+      "crop": null,
+      "derivation": null,
+      "notes": "Official caption; cut burrito shows scrambled egg, cheese, vegetables and browned meat with home fries."
+    },
+    {
+      "item": "Sausage Egg & Cheese",
+      "ids": [
+        "a02ae77a-a142-4c38-94c6-4e04d4b18de1"
+      ],
+      "source_sha256": "38af6f4389d6f912bd0cf886475c15c47f1a4de5cec0f93900110afd8a75239e",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=i8Dy0Lk2RyZu9Wg3hROXbw"
+      ],
+      "rendered": "sausage-egg-cheese.webp",
+      "rendered_sha256": "84e9efb12d50813c646705ec06178fc5c84306aecdf48e8fcb7d7790b0cb2cc1",
+      "crop": null,
+      "derivation": null,
+      "notes": "Exact caption and visible sausage, fried egg and yellow cheese; tomato is a photographed customization."
+    },
+    {
+      "item": "Toast (2)",
+      "ids": [
+        "cc4e23fb-3e20-45e3-a7eb-af372bf2bd95"
+      ],
+      "source_sha256": "3ed30a191b90d898774ae737ddb06523891f76b1b81a1103c1ac4fc7f4100f53",
+      "confidence": "likely",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=h950ekIifqkGFR1gRLQ6Kw"
+      ],
+      "rendered": "toast-2.webp",
+      "rendered_sha256": "1bea1e205e975457eb7e3d816385f53737cbd4a42690a6533654901b3c7a2045",
+      "crop": null,
+      "derivation": {
+        "sha256": "9798433b1f211876d39a606c78e2d3e6bd72fc9cea2bb1180352af49cd5e4784",
+        "timestamp_seconds": null,
+        "crop_xyxy": [
+          430,
+          180,
+          700,
+          405
+        ],
+        "source_dimensions": [
+          1000,
+          563
+        ],
+        "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
+      },
+      "notes": "Previously reviewed browned wheat-toast pieces; bread type is one Toast customization."
+    },
+    {
+      "item": "Bagel W lox",
+      "ids": [
+        "6f2318a2-329a-4bf7-9ad8-d2248f375af5"
+      ],
+      "source_sha256": "e578d2cc18b59eb7f832402d64a75682e88aa65048797b39f13d7c6e257dee1f",
+      "confidence": "likely",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=YJTJ8okIirJnrmfsONj3Ww"
+      ],
+      "rendered": "bagel-w-lox.webp",
+      "rendered_sha256": "e7eee1a7a77eeb6ee7921d1e5cf730734d9b1c547072c3ecef8ce3987e772eaf",
+      "crop": null,
+      "derivation": null,
+      "notes": "Translucent cured salmon slices and toasted bagel; cream-cheese serving is not clearly visible, so cream-cheese variant is not selected."
+    },
+    {
+      "item": "Crab Dip",
+      "ids": [
+        "57f4f508-e9a9-4df5-be2d-185bcbcf04af"
+      ],
+      "source_sha256": "0b85c0701e0db3b8c3846abeff835e79d94e616cbf23319bd8eaf6e0fe943443",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.instagram.com/towson_diner/reel/C0xONiwL-HG/"
+      ],
+      "rendered": "crab-dip.webp",
+      "rendered_sha256": "ab55ead1f88db4497f1bc28e037009a042813eaff33730cdb03de13e26844f59",
+      "crop": null,
+      "derivation": {
+        "sha256": "505ca82f53b22cbddb14130a4851f72854c7633c62c11819f65b89f77c0032b1",
+        "timestamp_seconds": 0,
+        "crop_xyxy": [
+          0,
+          390,
+          720,
+          990
+        ],
+        "source_dimensions": [
+          720,
+          1280
+        ],
+        "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
+      },
+      "notes": "Official crab-dip reel; real frame shows baked cheesy crab dip bowl with pita."
+    },
+    {
+      "item": "Quesadilla",
+      "ids": [
+        "6e4cf906-0868-48a1-9c03-a0f768636f73"
+      ],
+      "source_sha256": "9dc8eeb3eee9cbac6d68285ed9903bf768f4519012d6832077254ecf049c090c",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=FV5oM0HvmEQ_34HKIfFzXg"
+      ],
+      "rendered": "quesadilla.webp",
+      "rendered_sha256": "70c9f68f032532b9a1ffe1d7d80ab1bd477473a5188efb2631289759847f7436",
+      "crop": null,
+      "derivation": null,
+      "notes": "Caption Chicken quesadilla; menu Quesadilla description is Chicken."
+    },
+    {
+      "item": "Sampler Basket",
+      "ids": [
+        "e88b43f2-c1c0-4b4c-8e29-bb901ef61168"
+      ],
+      "source_sha256": "a99e2fda0942204c69086d174526cfd0a2f5f73c19fa170669fffa463983bb8f",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=0NrBV4py8i6Qnb3AeXkJ6A"
+      ],
+      "rendered": "sampler-basket.webp",
+      "rendered_sha256": "aafcb9c5d631bba4f315c45d2049e0a5de151d1c5dcac118ab226467cfe51b0f",
+      "crop": null,
+      "derivation": null,
+      "notes": "Exact caption and all three menu components visible."
+    },
+    {
+      "item": "Spanakopita (8)",
+      "ids": [
+        "f103fa5c-5494-4071-9673-c1e44a0a6621"
+      ],
+      "source_sha256": "a70491d61d976f690155d26cea158eb66ac160362901b7311d36657fe0427022",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.instagram.com/towson_diner/p/CrEOL7frJyY/"
+      ],
+      "rendered": "spanakopita-8.webp",
+      "rendered_sha256": "d4613f71a810ac8d3b79df81ee46bef138a2d194dd06b9377c61eabd4ac2fd8e",
+      "crop": null,
+      "derivation": {
+        "sha256": "741526456397a5facf07c46b5cf7080c5e314c44ca4c6a67582219bda86aa27b",
+        "timestamp_seconds": null,
+        "crop_xyxy": [
+          0,
+          80,
+          700,
+          954
+        ],
+        "source_dimensions": [
+          1440,
+          954
+        ],
+        "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
+      },
+      "notes": "Eight triangular spinach phyllo pastries around tzatziki on left plate of official group photo; separate from large spinach-pie entree."
+    },
+    {
+      "item": "Spinach & Artichoke Dip",
+      "ids": [
+        "f7083da4-fbe2-4605-8852-532f10fd267a"
+      ],
+      "source_sha256": "02ba041d3013c72efad77fb099ca249b06507a6fbc6cfdddea0b394365916179",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.instagram.com/towson_diner/p/B9R5gThl_BA/"
+      ],
+      "rendered": "spinach-artichoke-dip.webp",
+      "rendered_sha256": "9d503b911588bd58d057f0a436cadeb676f074fd5ded7501dae4888a142b4ab3",
+      "crop": null,
+      "derivation": null,
+      "notes": "Official caption and baked creamy green dip with toasted pita."
+    },
+    {
+      "item": "Curly Fries",
+      "ids": [
+        "8548ab94-42a8-47c0-abd9-cffa5510f1d1"
+      ],
+      "source_sha256": "c094fc4bdd03b7ee4c23b4a3f7c973623d88eb6dcbb042f3d3d0545dafb78620",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=i4XBvu1ca9LmYZxvCBSi8A"
+      ],
+      "rendered": "curly-fries.webp",
+      "rendered_sha256": "2db05019723edbab07eb30491fcd4ace8a832e132d2ed92bdfad2b2b1ffcd1a3",
+      "crop": null,
+      "derivation": {
+        "sha256": "7afb1a9d94e0d3dd70d4f677a18a44da9282a0d95766d92d6615072a7a456aa2",
+        "timestamp_seconds": null,
+        "crop_xyxy": [
+          410,
+          53,
+          960,
+          645
+        ],
+        "source_dimensions": [
+          1000,
+          750
+        ],
+        "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
+      },
+      "notes": "Clearly spiral-cut fried potatoes beside grilled cheese; exact curly-fries caption."
+    },
+    {
+      "item": "Greek Salad",
+      "ids": [
+        "2cc6adf8-d65b-4943-ada5-02fff51340ba"
+      ],
+      "source_sha256": "93304f0e278250e9eedca7da5791cff1e67f7ba5e2d439b62a12f9575d22ee0f",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=-ijssnDyBPxecEkrjqAvkQ"
+      ],
+      "rendered": "greek-salad.webp",
+      "rendered_sha256": "c37c0adfd0e623d7de9b5bee77442bac45705bf7c5f6ec15aa368cfaff3335a7",
+      "crop": null,
+      "derivation": null,
+      "notes": "Exact caption and feta, olives, cucumber, tomato and onion visible."
+    },
+    {
+      "item": "Southwest Salad",
+      "ids": [
+        "833b78d1-70e3-415f-9315-1b2262469017"
+      ],
+      "source_sha256": "045f3e53e9461ccdc46032f640fa84d533eaca35414e64a7df87e9dce18c1680",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.instagram.com/towson_diner/p/CkL7X_0L6cS/"
+      ],
+      "rendered": "southwest-salad.webp",
+      "rendered_sha256": "313f60871a69b60759d75fa5743a8fe9dccf8d630f97d2efff699d1e7b30043e",
+      "crop": null,
+      "derivation": null,
+      "notes": "Official caption and chicken, black beans, corn, tortilla strips and mixed greens."
+    },
+    {
+      "item": "Side Greek Salad",
+      "ids": [
+        "377ed207-b54f-45d9-96b6-c6b3f09c3d95"
+      ],
+      "source_sha256": "93304f0e278250e9eedca7da5791cff1e67f7ba5e2d439b62a12f9575d22ee0f",
+      "confidence": "likely",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=-ijssnDyBPxecEkrjqAvkQ"
+      ],
+      "rendered": "side-greek-salad.webp",
+      "rendered_sha256": "c37c0adfd0e623d7de9b5bee77442bac45705bf7c5f6ec15aa368cfaff3335a7",
+      "crop": null,
+      "derivation": null,
+      "notes": "Same Greek salad preparation as full salad: feta, olives, cucumber, tomato and lettuce. Side size is illustrative."
+    },
+    {
+      "item": "Breakfast Burger",
+      "ids": [
+        "7c060d82-d8cc-4f65-b7a5-fe94741ef1b7"
+      ],
+      "source_sha256": "9868b8a8e97d05f5e577e44197f8bd7a1d1abae2e0aa43d109ca311dbe837d10",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.instagram.com/towson_diner/reel/C1pr-swuWLc/"
+      ],
+      "rendered": "breakfast-burger.webp",
+      "rendered_sha256": "553cb20a088675650b455792f3c9faa430ad5db1e66ac4f6e115e8d07a3a3c2c",
+      "crop": null,
+      "derivation": {
+        "sha256": "0a393f928bf3ee7614e814668c332e988e31fd415b79732a98be13ad920299e8",
+        "timestamp_seconds": 0.7,
+        "crop_xyxy": [
+          0,
+          120,
+          720,
+          1120
+        ],
+        "source_dimensions": [
+          720,
+          1280
+        ],
+        "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
+      },
+      "notes": "Official breakfast-burger reel; beef patty, fried egg and cheese visible in real frame."
+    },
+    {
+      "item": "Brooklyn Burger",
+      "ids": [
+        "f5c0aee3-dff7-4bb4-adbc-b5b755de85e9"
+      ],
+      "source_sha256": "f734508c588a09d7c885343897fd27d4b98d747fb886356082ec8c3991f211ee",
+      "confidence": "likely",
+      "sources": [
+        "https://www.instagram.com/towson_diner/p/CPdt3yALbjl/"
+      ],
+      "rendered": "brooklyn-burger.webp",
+      "rendered_sha256": "a2972b23df194f9a28c3e96fca32807f9322bd5b33628333fdc1ef0f9ab495a2",
+      "crop": null,
+      "derivation": null,
+      "notes": "Beef patty on bun topped with pastrami, Swiss and sauerkraut matches Brooklyn Burger; distinguishes it from Reuben sandwich."
+    },
+    {
+      "item": "California Burger",
+      "ids": [
+        "4a3a97ac-735e-4524-bb21-64ea5b6f2fe8"
+      ],
+      "source_sha256": "e031be25a17c0909d7ec651287b2f7f5a0451e730341f72775f0bbfc5bc9557d",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=LXCQu4M93Jf1NQROZIyCLg"
+      ],
+      "rendered": "california-burger.webp",
+      "rendered_sha256": "c7c077ed0af29d3f837972e98a106276c21dabaae930a326966d4d094ccd7b4a",
+      "crop": null,
+      "derivation": null,
+      "notes": "Caption and review name California burger; avocado and cheese visible."
+    },
+    {
+      "item": "Cheeseburger",
+      "ids": [
+        "901d9b10-0d17-4c63-b072-30b09102e7de"
+      ],
+      "source_sha256": "2dfe5a78bfd9ea86c567c1c5f8b4fd5bc8cd9aa5ff7fad49365806c57bdb8a40",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.instagram.com/towson_diner/p/CEzUABdD0bi/"
+      ],
+      "rendered": "cheeseburger.webp",
+      "rendered_sha256": "9abf732b2049ce4ecf0f7305a00c523358222df1d522ac269bad5911b89f28b5",
+      "crop": null,
+      "derivation": null,
+      "notes": "Official Cheeseburger Deluxe caption, beef patty, yellow cheese, lettuce, tomato and fries."
+    },
+    {
+      "item": "Classic Burger Build your Own",
+      "ids": [
+        "56543431-0811-4b7e-8974-9af9d4405221"
+      ],
+      "source_sha256": "a087a3e63c31cf75fc4fe858a60f3a2a4dd11d843a59d38c31bd984358666b69",
+      "confidence": "likely",
+      "sources": [
+        "https://www.towsondiner.net/about"
+      ],
+      "rendered": "classic-burger-build-your-own.webp",
+      "rendered_sha256": "41141bd458e59cfe47965d499fc1632e743b9d8b38e6c4b2bd6f22305c31c7ac",
+      "crop": null,
+      "derivation": null,
+      "notes": "Real official beef burger with bacon and cheese represents one build-your-own customization. It is not used for a named burger requiring unverified toppings."
+    },
+    {
+      "item": "Grilled Cheese",
+      "ids": [
+        "4d274210-7aba-4a81-b6aa-a64ad72b2345",
+        "5f5f42f8-7059-49d3-bfee-d4aa81c25253"
+      ],
+      "source_sha256": "7afb1a9d94e0d3dd70d4f677a18a44da9282a0d95766d92d6615072a7a456aa2",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=i4XBvu1ca9LmYZxvCBSi8A"
+      ],
+      "rendered": "grilled-cheese.webp",
+      "rendered_sha256": "66f375449170b1ca3e4066a4af43fb283e39883676136d1abdacf042af7bb654",
+      "crop": null,
+      "derivation": null,
+      "notes": "Exact grilled-cheese caption and orange melted cheese between toasted bread. Kids row shares the preparation, not a portion promise."
+    },
+    {
+      "item": "Classic Po' Boy",
+      "ids": [
+        "a096bb04-95c3-4ac7-8849-319d90593d35"
+      ],
+      "source_sha256": "e597f1c926a19ddb282dbad50d4e3a900002c9118f70d9152533404ba3bc8c94",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.instagram.com/towson_diner/p/B-hb88wD2we/"
+      ],
+      "rendered": "classic-po-boy.webp",
+      "rendered_sha256": "79a32f7bc0f3995d9cee6f99ec44e899fc3f76ec499c10c3306f2f6e8c241d9e",
+      "crop": null,
+      "derivation": null,
+      "notes": "Official shrimp Po Boy caption and breaded shrimp, lettuce and sauce on long roll; historical sauce presentation documented."
+    },
+    {
+      "item": "Philly Cheese Steak Sub",
+      "ids": [
+        "a7ede41a-fc8f-4cda-b90f-8a303d9e2a6f"
+      ],
+      "source_sha256": "eb95f430c9c39b0519168892aaddc84101b0ea6076de3a883ced35c62bce05c3",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=7Mxv5bP6eeUVUbIqkt4ufQ"
+      ],
+      "rendered": "philly-cheese-steak-sub.webp",
+      "rendered_sha256": "86c6167ddaf4e0ba0e2412ad9ec2d63e439d310bea02a8e84b51bfae7e0cf138",
+      "crop": null,
+      "derivation": null,
+      "notes": "Caption and visible chopped beef with melted American cheese in split sub roll."
+    },
+    {
+      "item": "Reuben Sandwich",
+      "ids": [
+        "dbfb989a-f3eb-4977-8b83-3d0d22ad9b4b"
+      ],
+      "source_sha256": "612a8306d77f152036f3c2df1dcfc2799d1adb056713a35398a562840be6d275",
+      "confidence": "likely",
+      "sources": [
+        "https://www.instagram.com/towson_diner/p/B9rrdIWFXI_/"
+      ],
+      "rendered": "reuben-sandwich.webp",
+      "rendered_sha256": "8cf6add42c4ee9f14e951664002830cdf1cc028da4a3ddfd44c539103c0f5002",
+      "crop": null,
+      "derivation": null,
+      "notes": "Corned beef, sauerkraut and Swiss on toasted rye; supported by official post."
+    },
+    {
+      "item": "Chicken Salad Club",
+      "ids": [
+        "1dc5f45f-f4ee-42fa-a673-669bc41681f5"
+      ],
+      "source_sha256": "c0523d9a7aca97f5132d9287ba17b3e8e0646d8058d2ace3b004d1e7792188c9",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=WexwwXrLKmjm2RWBGSAW1g"
+      ],
+      "rendered": "chicken-salad-club.webp",
+      "rendered_sha256": "06fe20af5cd4ea8ca2fd9f5591214c5236a8ed083c140311411f4e45027f8e3a",
+      "crop": null,
+      "derivation": null,
+      "notes": "Full caption Chicken salad club, triple-decker bread and filling visible; do not map to ordinary Chicken Salad Sandwich."
+    },
+    {
+      "item": "Grilled Chicken Breast Club",
+      "ids": [
+        "17dd2f8e-fad2-4f39-ab19-f9eb256caace"
+      ],
+      "source_sha256": "b426bd7b547b06362bd250940fe56ac84c0ec4ff35c083a7264bd3265578bb7c",
+      "confidence": "likely",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=Ex7ISN541BG1H_zTY__2QA"
+      ],
+      "rendered": "grilled-chicken-breast-club.webp",
+      "rendered_sha256": "ea564bc327351391a9c029aa8d7cb5156d6c88a5eee5619c820f64f52073dd3f",
+      "crop": null,
+      "derivation": null,
+      "notes": "Triple-decker contains thick solid chicken-breast slabs, bacon, lettuce and tomato. Turkey alternative less consistent with grilled slab texture."
+    },
+    {
+      "item": "Ham & Swiss Club",
+      "ids": [
+        "219e425a-8760-4482-8620-5b0fe7d54016"
+      ],
+      "source_sha256": "b78e7beb737253e7fcc8a9d2777526bae6b5ebaaf3df086b17dd59201ae86fdd",
+      "confidence": "likely",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=Thf8GuFofmQEBjxo1xaa9g"
+      ],
+      "rendered": "ham-swiss-club.webp",
+      "rendered_sha256": "679be12e3a7e2383197cc2d847382f6a655db5e11f7fa2ef7ef376f0054a5137",
+      "crop": null,
+      "derivation": null,
+      "notes": "Triple-decker rye bread with thick pink ham and holey Swiss, lettuce and tomato. Other club meats considered less likely."
+    },
+    {
+      "item": "Chicken Breast Sandwich",
+      "ids": [
+        "68a4fb35-2085-4b48-aaa2-213bfd5eb3b5"
+      ],
+      "source_sha256": "db2a95364d46bb5b593c5096d422cf2d261ca527deb1165e45698e4049c7bdeb",
+      "confidence": "likely",
+      "sources": [
+        "https://www.instagram.com/towson_diner/p/C9QJG2KS7Zj/"
+      ],
+      "rendered": "chicken-breast-sandwich.webp",
+      "rendered_sha256": "4d02d2143eb2e0f8ae152a95e6e81974e4551b99b68dbd0f52bb2f2cd9daaad9",
+      "crop": null,
+      "derivation": null,
+      "notes": "Official grilled-chicken-sandwich caption; Swiss, tomato and coleslaw are historical toppings. Base and Deluxe share the main sandwich; side inclusion differs."
+    },
+    {
+      "item": "Chicken Breast Sandwich Delxue",
+      "ids": [
+        "dc420e4f-d21d-4a5f-8ab4-052efd27114e"
+      ],
+      "source_sha256": "db2a95364d46bb5b593c5096d422cf2d261ca527deb1165e45698e4049c7bdeb",
+      "confidence": "likely",
+      "sources": [
+        "https://www.instagram.com/towson_diner/p/C9QJG2KS7Zj/"
+      ],
+      "rendered": "chicken-breast-sandwich-delxue.webp",
+      "rendered_sha256": "4d02d2143eb2e0f8ae152a95e6e81974e4551b99b68dbd0f52bb2f2cd9daaad9",
+      "crop": null,
+      "derivation": null,
+      "notes": "Official grilled-chicken-sandwich caption; Swiss, tomato and coleslaw are historical toppings. Base and Deluxe share the main sandwich; side inclusion differs."
+    },
+    {
+      "item": "Fried Fillet of Flounder Sub",
+      "ids": [
+        "1afd2dc6-5559-4dbf-8368-5522e936e832"
+      ],
+      "source_sha256": "f886c39a82bc686812a0c087f38e5349fff564de3400204704c40cdab7ebf3d3",
+      "confidence": "likely",
+      "sources": [
+        "https://www.instagram.com/towson_diner/p/B8Mav9GlvKr/"
+      ],
+      "rendered": "fried-fillet-of-flounder-sub.webp",
+      "rendered_sha256": "823e5a0f6c071d78587196017a441d8ff7d4761a27ce35eea82d9920c8494904",
+      "crop": null,
+      "derivation": null,
+      "notes": "Official flounder-sandwich caption and golden breaded fillet. Historical photo uses a round bun while current name says sub; accurate fish/preparation with bread variation disclosed."
+    },
+    {
+      "item": "Broiled Salmon",
+      "ids": [
+        "e4d12ef5-6c52-4d73-9745-60fca17e1a14"
+      ],
+      "source_sha256": "318183f401c911fbfe706571132b0bb777a2c398414d46b404a302ebd36a515a",
+      "confidence": "likely",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=gCzwX9weZbw_XGsmhHjHPA"
+      ],
+      "rendered": "broiled-salmon.webp",
+      "rendered_sha256": "24b20bc34e0aebbbeae55b50e50673e90d03d76edb9f186e44e79060b48800e0",
+      "crop": null,
+      "derivation": null,
+      "notes": "Intact browned salmon fillet in lemon butter; broiled appearance, not poached dill-sauce preparation."
+    },
+    {
+      "item": "Jumbo Crab Cake (1)",
+      "ids": [
+        "c5d19a1a-6c71-4627-b139-c2dac9d0dce6"
+      ],
+      "source_sha256": "db7255a37c9a83b0e2b2bea8e5129051e112869fc22471e2006eb275c32848f6",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=SZjC32R4-terPKRQCedRcg"
+      ],
+      "rendered": "jumbo-crab-cake-1.webp",
+      "rendered_sha256": "c6ae275e734b529eb46d5aab03d953cb88549639a6adc34617ed8d716fd818f7",
+      "crop": null,
+      "derivation": null,
+      "notes": "Single broiled crab cake with visible lump crab; exact customer caption."
+    },
+    {
+      "item": "Jumbo Crab Cake (2)",
+      "ids": [
+        "f1a78223-4da5-4e4f-9b4f-071dc3483f11"
+      ],
+      "source_sha256": "c89f8254d1ac4526da9db5b4779020ce79af8bc2dc1c784ff73b892d68755215",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=ESM1CCzVA0AD0905N4fpkw"
+      ],
+      "rendered": "jumbo-crab-cake-2.webp",
+      "rendered_sha256": "ba215da120e99008a023b20e550df00df95eee8cab8fa8b7f74e3cdf62ca0ab5",
+      "crop": null,
+      "derivation": null,
+      "notes": "Two intact broiled lump-crab cakes; exact caption and counted serving."
+    },
+    {
+      "item": "Penne A la Vodka",
+      "ids": [
+        "9ea91fa1-b030-4fa7-9169-44687e37826b"
+      ],
+      "source_sha256": "bd2ffa1a671b25abce6b84b5debc5d868361f1c95da1fcf2c8defb3e18b5a0ea",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.instagram.com/towson_diner/reel/Cs_7PacpjBr/"
+      ],
+      "rendered": "penne-a-la-vodka.webp",
+      "rendered_sha256": "2295ae16a14099be9823a259e969296dd161e6d98c7322dc7fc8c40ee369c050",
+      "crop": null,
+      "derivation": {
+        "sha256": "e250247ef8684d2913d6e02cffd7fe99011ddf06899f9ff900cc43e0a4468707",
+        "timestamp_seconds": 9.13,
+        "crop_xyxy": [
+          0,
+          240,
+          720,
+          900
+        ],
+        "source_dimensions": [
+          720,
+          1280
+        ],
+        "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
+      },
+      "notes": "Official Penne Vodka reel; orange tomato-cream sauce on penne. Chicken and broccoli are photographed additions."
+    },
+    {
+      "item": "Spinach Pie",
+      "ids": [
+        "a538badc-dc3c-4522-b386-d72eab901912"
+      ],
+      "source_sha256": "23332ad9c53445efea32534d6e4795a166a1294a448fabf89b8eee19c3b685c8",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=GlGbk6lfkbulZRS2E7UmtA"
+      ],
+      "rendered": "spinach-pie.webp",
+      "rendered_sha256": "ae9380597507291d1c5c59201570771203c253b6120197826a3479ce4c0f1ddf",
+      "crop": null,
+      "derivation": null,
+      "notes": "Caption and large spinach-feta phyllo pie slice. Platter photo includes fries and Greek salad; Spinach Pie uses the same main preparation."
+    },
+    {
+      "item": "Ziti Ala Brocolli",
+      "ids": [
+        "b8dcd282-9f3f-454e-adec-dc6d2b5a50ca"
+      ],
+      "source_sha256": "eb9231be5c3917985e033a4e0c7ea0826a27030f18ec21735f5c0774e9cefa46",
+      "confidence": "likely",
+      "sources": [
+        "https://www.instagram.com/towson_diner/p/B8r2Gnql57q/"
+      ],
+      "rendered": "ziti-ala-brocolli.webp",
+      "rendered_sha256": "6cdee3f63a6be5530f79e604507519d441a73bed8d2c1e189cdfac9f02197887",
+      "crop": null,
+      "derivation": null,
+      "notes": "Official penne-broccoli-with-chicken caption and tubular pasta, broccoli and light creamy sauce support the menu broccoli pasta family. Penne versus ziti and chicken addition documented; Alfredo with chicken is a competing interpretation."
+    },
+    {
+      "item": "Kids Grilled Cheese",
+      "ids": [
+        "9fb1bace-ffe8-424b-a00f-3f7dbff5387f"
+      ],
+      "source_sha256": "7afb1a9d94e0d3dd70d4f677a18a44da9282a0d95766d92d6615072a7a456aa2",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=i4XBvu1ca9LmYZxvCBSi8A"
+      ],
+      "rendered": "kids-grilled-cheese.webp",
+      "rendered_sha256": "66f375449170b1ca3e4066a4af43fb283e39883676136d1abdacf042af7bb654",
+      "crop": null,
+      "derivation": null,
+      "notes": "Exact grilled-cheese caption and orange melted cheese between toasted bread. Kids row shares the preparation, not a portion promise."
+    },
+    {
+      "item": "Kids One Egg Breakfast",
+      "ids": [
+        "d9d6505b-0721-4d6d-b554-a778cab6ef4b"
+      ],
+      "source_sha256": "feeffa239535819b073be98c0e1b57b3165578d7f1561f861d55f8e8b2b360e7",
+      "confidence": "likely",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=Eq5ECO5ID1uzExB29Wfzww"
+      ],
+      "rendered": "kids-one-egg-breakfast.webp",
+      "rendered_sha256": "292efe2d20cd33a8077e7356d176be11892fa222042a51bd92a31a2c35892dbb",
+      "crop": null,
+      "derivation": null,
+      "notes": "Exact one-egg breakfast caption. The kids row shares the dish illustration; photographed bacon/potato sides are historical and are not a portion promise."
+    },
+    {
+      "item": "Kids Pancake (1)",
+      "ids": [
+        "b4063e43-ca13-4663-8537-f50516c3baed"
+      ],
+      "source_sha256": "d3016f25fc12c41d294f77889edbf100c89c01127531f090840b07b578fd101c",
+      "confidence": "likely",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=vwQwjLJybBTc_XP-u5UwTA"
+      ],
+      "rendered": "kids-pancake-1.webp",
+      "rendered_sha256": "f2f37eca0c681344d9caf8161ad2c264d03ea665b0eb766809aa92fd235e0fee",
+      "crop": null,
+      "derivation": null,
+      "notes": "Plain pancakes are the same preparation as the existing Pancakes (3) image. Photo illustrates food appearance; photographed quantity is not the one/two-pancake portion."
+    },
+    {
+      "item": "Kids Waffle",
+      "ids": [
+        "e95c909b-db66-4463-b090-d84c202e16d1"
+      ],
+      "source_sha256": "1005b443d8ae9ebd1e2e1bde60130c418a6826b9039229249d1eb94bfe4508c5",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=pqCUo1FjQKtsjBOsoyCUmA"
+      ],
+      "rendered": "kids-waffle.webp",
+      "rendered_sha256": "505ab348f1f5d067f744e1a652b2403bcc931df5a0adef9d277d68f3c3edb6f9",
+      "crop": null,
+      "derivation": null,
+      "notes": "Plain four-quadrant Belgian waffle. Kids row uses the same dish illustration; size/portion is not inferred."
+    },
+    {
+      "item": "Gyro Platter",
+      "ids": [
+        "1f57bb16-2b36-46db-ac39-4f0ea1faf528"
+      ],
+      "source_sha256": "ad419e3b619adab95d39b6c8dddf44118e304644809f40d8d445e6b6cfd33969",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=jkV4w047zcChprdtJ759Xw"
+      ],
+      "rendered": "gyro-platter.webp",
+      "rendered_sha256": "d666d7ba6df48c9eacfbe91356e7ba568014118fffbf196365ff3520580e8089",
+      "crop": null,
+      "derivation": null,
+      "notes": "Gyro meat in pita with tzatziki, tomato, fries and Greek salad. Current menu only promises mini Greek salad; historical fries are not a new inclusion."
+    },
+    {
+      "item": "Chicken Souvlaki",
+      "ids": [
+        "7bd5f388-4d4e-4f5a-9188-48d8d3bc45cf"
+      ],
+      "source_sha256": "49cd284eb83da378f02e9248f0330f4b0bd9bee2b44a78c4a422bc47ed2f3d2a",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.instagram.com/towson_diner/p/CLhnT8PL5ZQ/"
+      ],
+      "rendered": "chicken-souvlaki.webp",
+      "rendered_sha256": "df12e54462edadff3efd567e12d4074d7741ee510e12ed36b6992d229601fd64",
+      "crop": null,
+      "derivation": null,
+      "notes": "Official caption and browned chicken chunks in pita with tomato and tzatziki."
+    },
+    {
+      "item": "Spanakopita Platter",
+      "ids": [
+        "05d3d108-6edb-43a7-a957-b03f412f2b97"
+      ],
+      "source_sha256": "23332ad9c53445efea32534d6e4795a166a1294a448fabf89b8eee19c3b685c8",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=GlGbk6lfkbulZRS2E7UmtA"
+      ],
+      "rendered": "spanakopita-platter.webp",
+      "rendered_sha256": "ae9380597507291d1c5c59201570771203c253b6120197826a3479ce4c0f1ddf",
+      "crop": null,
+      "derivation": null,
+      "notes": "Caption and large spinach-feta phyllo pie slice. Platter photo includes fries and Greek salad; Spinach Pie uses the same main preparation."
+    },
+    {
+      "item": "Chocolate Mousse",
+      "ids": [
+        "c934e002-274f-44e1-b4ab-bd9891d5a4f3"
+      ],
+      "source_sha256": "dcc4c2bc85d23c75ffca6cf38dfc8e298a2b8875d4d09b6c090fa0de3f859576",
+      "confidence": "likely",
+      "sources": [
+        "https://www.instagram.com/towson_diner/p/CGnXP73DLMI/"
+      ],
+      "rendered": "chocolate-mousse.webp",
+      "rendered_sha256": "888dd9654996b77b2ea4a9a610654310c2ce8a374381f431ce679f2e5a3a4e4c",
+      "crop": null,
+      "derivation": null,
+      "notes": "Dark chocolate sponge and pale chocolate mousse layers with glaze. Whole-cake row uses an interior slice illustration, not the whole ordered size."
+    },
+    {
+      "item": "Oero Cheesecake",
+      "ids": [
+        "db4de9a8-00ec-48f3-84d8-17834fd1a650"
+      ],
+      "source_sha256": "9a82f24dba15693afe193eece2e069fbfe25e36f65f481a4250111731563863b",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.instagram.com/towson_diner/p/CX_eLmdru3i/"
+      ],
+      "rendered": "oero-cheesecake.webp",
+      "rendered_sha256": "0753f122c1e9fca43f4f8d6a859dfb8071f7cd64f48475246f43036452dda906",
+      "crop": null,
+      "derivation": null,
+      "notes": "Official Oreo cheesecake slice with cookie pieces, dark crust and cream garnish. Menu spelling Oero preserved."
+    },
+    {
+      "item": "Strawberry Shortcake",
+      "ids": [
+        "0ed1fe4a-7e39-4f27-838b-4cd4d3f294ee"
+      ],
+      "source_sha256": "bbba466be8306298a82b4b739a17403920b066e58e34fd71c694f1629ca9e120",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.instagram.com/towson_diner/reel/CP55gvgnKOY/"
+      ],
+      "rendered": "strawberry-shortcake.webp",
+      "rendered_sha256": "427028ec5d2d3154a161d6e12f5f7ca70388c6f81eff8ec19a22427a328c6d71",
+      "crop": null,
+      "derivation": {
+        "sha256": "721f95dc947a0f8c8bfb41e925fa46cd86e5c348e38499f93d17cb69e2dabde1",
+        "timestamp_seconds": 0,
+        "crop_xyxy": [
+          30,
+          170,
+          605,
+          555
+        ],
+        "source_dimensions": [
+          720,
+          720
+        ],
+        "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
+      },
+      "notes": "Official labelled Strawberry Shortcake real frame. Whole-cake row uses a slice to illustrate the interior, not a whole-size serving."
+    },
+    {
+      "item": "Fresh Fruit Salad",
+      "ids": [
+        "88585231-b4ff-402b-85c9-6a5ecd2778b5"
+      ],
+      "source_sha256": "5ca496353ff5a7794fbcc95772e2db85a27c73776fc3a319de6e4fa082b771e5",
+      "confidence": "likely",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=h950ekIifqkGFR1gRLQ6Kw"
+      ],
+      "rendered": "fresh-fruit-salad.webp",
+      "rendered_sha256": "b38a5d348545953e323708a9ee317deb057c9dfb85a7b8586f86edd255847f78",
+      "crop": null,
+      "derivation": {
+        "sha256": "9798433b1f211876d39a606c78e2d3e6bd72fc9cea2bb1180352af49cd5e4784",
+        "timestamp_seconds": null,
+        "crop_xyxy": [
+          750,
+          45,
+          1000,
+          366
+        ],
+        "source_dimensions": [
+          1000,
+          563
+        ],
+        "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
+      },
+      "notes": "Previously reviewed mixed-fruit cup beside Italian omelette; fruit salad shares the same fruit preparation, with portion caveat."
+    },
+    {
+      "item": "Rice Pudding",
+      "ids": [
+        "765dedea-306a-4020-a6e1-e567ec625b2b"
+      ],
+      "source_sha256": "94c0b71d10695e73465cb41a0f5ce16622a934de859d866d450d2406d2c80a29",
+      "confidence": "likely",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=tSeXD06wykTQiO2_mbj4zQ"
+      ],
+      "rendered": "rice-pudding.webp",
+      "rendered_sha256": "e7e241867f9063d0da38b466bbaa228921deddc2933a33c0c71c4d2ffc443445",
+      "crop": null,
+      "derivation": null,
+      "notes": "Visible rice-like grains in pale pudding with cinnamon and cream; ice cream is less likely because no rounded scoops and grain texture visible."
+    },
+    {
+      "item": "Boston Cream Slice",
+      "ids": [
+        "97ff111d-8ca7-4dac-b7de-0bfdbe2c2d4f"
+      ],
+      "source_sha256": "d6863a86d1998d1022a8a90b251857ab61e79677b5880d330403222b736c6f6d",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=YUoBsnQ9LmAt77cJbNSK7A"
+      ],
+      "rendered": "boston-cream-slice.webp",
+      "rendered_sha256": "e763eee0acf7a751d44b1f0e886d7fc9e1fc6f9a721a77bbccac88e473e18b2c",
+      "crop": null,
+      "derivation": null,
+      "notes": "Caption Boston Cream; visible yellow custard and chocolate topping. Disturbed/partly eaten, documentary quality only."
+    },
+    {
+      "item": "Cherry Pie Slice",
+      "ids": [
+        "e223c861-115a-450e-a22b-7de16e29a598"
+      ],
+      "source_sha256": "bdf1182d9d65947f074c72152fd1e03eaf54db8bfa27d024a0f029d903ec720e",
+      "confidence": "likely",
+      "sources": [
+        "https://www.instagram.com/towson_diner/reel/CpxsSpbjUcW/"
+      ],
+      "rendered": "cherry-pie-slice.webp",
+      "rendered_sha256": "e6f9bd70a16d5fb809e230bae2de37b2ac2511dcdddeff9e8fbb1f02151a2373",
+      "crop": null,
+      "derivation": {
+        "sha256": "a13b78ad8b3c06b7038b02b8c4946f2891fb0249208246242a86d4bc632e0a9c",
+        "timestamp_seconds": 1.61,
+        "crop_xyxy": [
+          0,
+          160,
+          720,
+          810
+        ],
+        "source_dimensions": [
+          720,
+          1280
+        ],
+        "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
+      },
+      "notes": "Official real pie-counter frame with cherry garnish, corroborated by downloaded cherry-pie slicing reel. Slice uses whole-pie appearance; generic Whole Pie illustrates the cherry option."
+    },
+    {
+      "item": "Lemon Meringue Slice",
+      "ids": [
+        "722c8010-3248-48c0-9a0c-c65ac2bb742c"
+      ],
+      "source_sha256": "d6997cd80e97cf66aa81c1bc8c5b16607607cee460e6ed2c77c9b7159acba43a",
+      "confidence": "likely",
+      "sources": [
+        "https://www.yelp.com/biz_photos/towson-diner-towson?select=-fNQer0ULiHVOsw-VJloUg"
+      ],
+      "rendered": "lemon-meringue-slice.webp",
+      "rendered_sha256": "1cea7cd8654de26a327ced226811923dfe031725cc2d757d2aeba29a28692a75",
+      "crop": null,
+      "derivation": null,
+      "notes": "Yellow lemon custard and tall browned meringue on crust; caption tentative but visible construction is distinctive. Bite missing is retained honestly."
+    },
+    {
+      "item": "Pumpkin Pie Slice",
+      "ids": [
+        "8335807e-96ac-4f89-ac8f-d12f9a639ee5"
+      ],
+      "source_sha256": "eadb8596eccc8e6769c5a286bacc10f46eda420111b52fc421088d0b1f293aa9",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.instagram.com/towson_diner/p/Cj8a9Jwrefd/"
+      ],
+      "rendered": "pumpkin-pie-slice.webp",
+      "rendered_sha256": "20932f5d514993be4227426b523db8a95d911325a1fffc6acc130c6956fb7dad",
+      "crop": null,
+      "derivation": null,
+      "notes": "Official pumpkin-pie caption and smooth orange-brown custard slice."
+    },
+    {
+      "item": "Chocolate Mousse",
+      "ids": [
+        "561aac7c-8635-47d0-aeb8-133ea488f331"
+      ],
+      "source_sha256": "dcc4c2bc85d23c75ffca6cf38dfc8e298a2b8875d4d09b6c090fa0de3f859576",
+      "confidence": "likely",
+      "sources": [
+        "https://www.instagram.com/towson_diner/p/CGnXP73DLMI/"
+      ],
+      "rendered": "chocolate-mousse-whole-cake.webp",
+      "rendered_sha256": "888dd9654996b77b2ea4a9a610654310c2ce8a374381f431ce679f2e5a3a4e4c",
+      "crop": null,
+      "derivation": null,
+      "notes": "Dark chocolate sponge and pale chocolate mousse layers with glaze. Whole-cake row uses an interior slice illustration, not the whole ordered size."
+    },
+    {
+      "item": "Oreo Cheesecake",
+      "ids": [
+        "04fda919-f4db-44a6-894c-8232f49a80ff"
+      ],
+      "source_sha256": "0e588b57bd2893022355dc36c9bf25241a799776f7f43348a1c277038c6f7408",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.instagram.com/towson_diner/p/CkL7X_0L6cS/"
+      ],
+      "rendered": "oreo-cheesecake-whole-cake.webp",
+      "rendered_sha256": "3c7d36095091854898576bf0d2e7a42dba3000efe4032b3c2e0a10dea26edc55",
+      "crop": null,
+      "derivation": null,
+      "notes": "Whole Oreo-decorated cheesecake in official carousel; original collection label said slice but visual review confirms whole cake."
+    },
+    {
+      "item": "Strawberry Shortcake",
+      "ids": [
+        "64961702-5586-4490-8535-d23a0f969774"
+      ],
+      "source_sha256": "bbba466be8306298a82b4b739a17403920b066e58e34fd71c694f1629ca9e120",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.instagram.com/towson_diner/reel/CP55gvgnKOY/"
+      ],
+      "rendered": "strawberry-shortcake-whole-cake.webp",
+      "rendered_sha256": "427028ec5d2d3154a161d6e12f5f7ca70388c6f81eff8ec19a22427a328c6d71",
+      "crop": null,
+      "derivation": {
+        "sha256": "721f95dc947a0f8c8bfb41e925fa46cd86e5c348e38499f93d17cb69e2dabde1",
+        "timestamp_seconds": 0,
+        "crop_xyxy": [
+          30,
+          170,
+          605,
+          555
+        ],
+        "source_dimensions": [
+          720,
+          720
+        ],
+        "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
+      },
+      "notes": "Official labelled Strawberry Shortcake real frame. Whole-cake row uses a slice to illustrate the interior, not a whole-size serving."
+    },
+    {
+      "item": "Whole Pie",
+      "ids": [
+        "73920b71-ac92-40f1-b2e7-3dee61188002"
+      ],
+      "source_sha256": "bdf1182d9d65947f074c72152fd1e03eaf54db8bfa27d024a0f029d903ec720e",
+      "confidence": "likely",
+      "sources": [
+        "https://www.instagram.com/towson_diner/reel/CpxsSpbjUcW/"
+      ],
+      "rendered": "whole-pie.webp",
+      "rendered_sha256": "e6f9bd70a16d5fb809e230bae2de37b2ac2511dcdddeff9e8fbb1f02151a2373",
+      "crop": null,
+      "derivation": {
+        "sha256": "a13b78ad8b3c06b7038b02b8c4946f2891fb0249208246242a86d4bc632e0a9c",
+        "timestamp_seconds": 1.61,
+        "crop_xyxy": [
+          0,
+          160,
+          720,
+          810
+        ],
+        "source_dimensions": [
+          720,
+          1280
+        ],
+        "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
+      },
+      "notes": "Official real pie-counter frame with cherry garnish, corroborated by downloaded cherry-pie slicing reel. Slice uses whole-pie appearance; generic Whole Pie illustrates the cherry option."
+    },
+    {
+      "item": "Ice Cream Sundae",
+      "ids": [
+        "337e2102-f17d-4546-869f-216dcb94c6b9"
+      ],
+      "source_sha256": "d1affae684a16fefd77a4bda7ab19af2475655a8a9c58e04a1853bf9f54608f8",
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.instagram.com/towson_diner/p/B9e4zwtlHDH/"
+      ],
+      "rendered": "ice-cream-sundae.webp",
+      "rendered_sha256": "6a55292de738ce2ebdcdcf4bf739b478147ce3dfca1e0a7fe274f7911927d187",
+      "crop": null,
+      "derivation": null,
+      "notes": "Vanilla ice cream in sundae glass with chocolate sauce, whipped cream and cherries; exact sundae presentation."
+    }
+  ]
+}

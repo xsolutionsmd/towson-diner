@@ -64,3 +64,16 @@ Final Sol also compared the actual desktop and 390px live food crops with the ex
 Limits: Chromium desktop-user-agent viewport simulation, not physical-phone/Safari/native-touch testing; 200% uses a root-font override. Native OS reduced-motion activation and continuous frame-perfect motion are not claimed. External checkout/payment/inquiry internals were not exercised; no order, transaction, inquiry, call or email was submitted. REA was unavailable and was not retried; accepted browser/devtools evidence was used. Claude's actual API rate limit led to the stopped-task Astra refinement fallback.
 
 Exact dining hours still conflict across sources, so seven-days/call-for-hours copy remains. Published 1994 family history is attributed, not a current-owner guarantee. Media coverage is bounded: 18 matched, 402 missing-photo and 3 uncertain among 423 distinct products; all nine required source families were checked with honest partial/unavailable results. Photo gaps do not remove the complete 432-row text menu. Final delivery and environment revision receipts are maintained privately; the initial publish receipt remains historical.
+
+## Derek-only menu photos, October 18, 2026
+
+Local npm run check passed: four pages, 432 exact source rows, 14 mapped photo rows and 13 existing real image derivatives. Checked desktop 1440x900, phone 390x844 and 320x740 with root text enlarged to 200%; no page or menu-control overflow. Search for waffle returns four entries with two mapped photos; no-result query hides photos and reset restores all 432. Main and Abdul must retain their text-only item menus. Independent live review and exact deployed revision are recorded after publication.
+
+Independent photo review at `f3068c0af01e30ab058395f2074720780bda7382` passed 18 of 19 cases. All 432 source tuples and 14 photo placements matched, all images decoded, and all 13 dish identities/crops passed. F1 found a narrower text-level issue missed by the earlier element-box check: the final word of the fallback price label exceeded the padded row by 17.54px at 320px/root 200%.
+
+Astra's local correction lets fallback text wrap and scales its maximum width with font size. The corrected production build passes all static checks; actual 320x740/root 32px measurement across every menu name/price text range finds zero row-bound violations and a 320px document width. The Quesadilla label wraps at word boundaries. This fix and the newly requested expanded photo coverage await publication and fresh independent verification; the original photo review is historical evidence, not acceptance of the expanded result.
+
+
+## Accepted expanded photos, October 18, 2026
+
+Owner stopped further research and accepted the existing matches. Integrated 99 matched products across 102 menu rows; all 432 menu tuples retained. `npm run check` passed (116 built files). All 102 images decoded. Actual 1440x900 desktop and 390x844 mobile checks found no page or photo-card overflow; mobile crab search returned the expected seven rows/four photos. Contact sheet reviewed; confidence and source evidence retained in photo provenance. Prior unchanged interaction checks and the verified F1 wrapping correction are reused. Live release and focused independent acceptance follow in the scoped update receipt.

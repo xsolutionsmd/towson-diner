@@ -34,6 +34,8 @@ Warm diner identity, restrained cream/red accents, original company photography 
 ## Accepted decisions and corrections
 <!-- Dated feedback from Derek, Abdul or the client. Newer explicit corrections win. -->
 
+October 18 menu-photo correction: Derek's preview should show a real business photo for every menu item where a usable matching photo can be found. The initial bounded shortlist is insufficient for this expanded request. Revisit partial source coverage and existing unmatched candidates. Exact item captions are not required: use confident visual/contextual associations as `likely`, documenting ingredients, preparation and other supporting clues. Leave genuinely ambiguous associations unmatched. Preserve all menu items and the accepted layout; production and Abdul retain their text-only menus.
+
 ## X Solutions standing design rules
 
 - Thoughtful, distinctive, professional and clean: strong typography, authentic
@@ -66,3 +68,6 @@ Warm diner identity, restrained cream/red accents, original company photography 
 | 4d1cbd658513 | About interior | 1024x771; retain chrome and booths, avoid top TV/patrons when practical. |
 | af85a193d1f3 | Sitewide logo if crop remains clean | 640x480 official Toast mark; preserve full badge proportions; thin white edge fragments need conservative crop. Clean text identity is acceptable. |
 All originals resolve through the private manifest; public media.md keeps provenance. Source history is partial, not exhaustive. 18 of 423 distinct products have defensible photo matches, 402 lack photos, three remain uncertain. Main/Abdul item menu remains text-only; final Derek-only variation uses confirmed associations only.
+
+
+Owner correction, October 18, 2026: the current matched-photo amount is sufficient. Stop further research; integrate the existing selections, visually check the changed result and deploy Derek preview. Reuse completed checks.
