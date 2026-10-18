@@ -138,7 +138,26 @@
       "status": "pending"
     },
     "build": {
-      "status": "pending"
+      "status": "done",
+      "recorded": "2026-10-18T16:15:37.195480+00:00",
+      "workflow_version": 2,
+      "owner": "astra-xhigh",
+      "task_id": null,
+      "prerequisites": {
+        "refine": "2026-10-18T16:14:39.279604+00:00"
+      },
+      "fallback_task_id": null,
+      "quota_evidence": null,
+      "quota_exhausted": false,
+      "evidence": [
+        "Refined populated source passed npm/public checks, actual desktop/mobile/320px enlarged-text checks, and app.py check production container health/source/exact revision. Existing provider integrations verified; ready for authorized first production release."
+      ],
+      "revision": "558c8e9d74a6b963e3419376754fc3e220f8e966",
+      "inputs_sha256": {
+        "kb/features.md": "affc853fbf81088a2cf8109abe0a0c95873772701e41f156c0cb1d83585c864e",
+        "kb/design-brief.md": "36d5e989dd4c760de016d8f3021f7f6cf1dffaafc21b306e4ca30a8f39c08bab"
+      },
+      "content_recorded": "2026-10-18T15:33:22.871420+00:00"
     },
     "first-publish": {
       "status": "pending"
@@ -168,5 +187,5 @@
       "status": "pending"
     }
   },
-  "updated": "2026-10-18T15:33:22.599259+00:00"
+  "updated": "2026-10-18T16:15:37.279260+00:00"
 }
