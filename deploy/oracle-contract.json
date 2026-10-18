@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "repo": "xsolutionsmd/towson-diner",
+  "slug": "towson-diner",
+  "hostname": "towsondiner.xsolutionsmd.com",
+  "port": 8080,
+  "image": "ghcr.io/xsolutionsmd/towson-diner",
+  "mode": "stateless",
+  "architecture": "arm64",
+  "network": "xsolutions-proxy",
+  "environments": [
+    {
+      "name": "production",
+      "branch": "main",
+      "slug": "towson-diner",
+      "hostname": "towsondiner.xsolutionsmd.com",
+      "image": "ghcr.io/xsolutionsmd/towson-diner"
+    },
+    {
+      "name": "derek-dev",
+      "branch": "derek-dev",
+      "slug": "towson-diner-derek-dev",
+      "hostname": "d-towsondiner.xsolutionsmd.com",
+      "image": "ghcr.io/xsolutionsmd/towson-diner-derek-dev"
+    },
+    {
+      "name": "abdul-dev",
+      "branch": "abdul-dev",
+      "slug": "towson-diner-abdul-dev",
+      "hostname": "a-towsondiner.xsolutionsmd.com",
+      "image": "ghcr.io/xsolutionsmd/towson-diner-abdul-dev"
+    }
+  ]
+}

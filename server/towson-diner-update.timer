@@ -1,0 +1,11 @@
+[Unit]
+Description=Check towson-diner approved releases
+
+[Timer]
+OnBootSec=45s
+OnUnitInactiveSec=60s
+AccuracySec=5s
+Unit=towson-diner-update.service
+
+[Install]
+WantedBy=timers.target

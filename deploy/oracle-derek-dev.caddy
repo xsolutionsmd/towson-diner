@@ -1,0 +1,3 @@
+d-towsondiner.xsolutionsmd.com {
+    reverse_proxy towson-diner-derek-dev:8080
+}
