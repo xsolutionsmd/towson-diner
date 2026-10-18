@@ -56,6 +56,7 @@ The full library is in the private company folder (`private/assets/originals/`, 
 | app/public/images/burger.webp | image | https://www.towsondiner.net/about | business-official |
 | app/public/images/facade.webp | image | https://www.facebook.com/photo/?fbid=603386068461193&set=a.497825442350590 | business-official |
 | app/public/images/neon.webp | image | https://www.google.com/maps/place/Towson+Diner/data=!4m2!3m1!1s0x0:0x24fe6586cb843c89 | public-unverified |
+| app/public/images/rooftop-sign.jpg | image | https://www.towsondiner.net/about | business-official |
 | app/public/images/interior.webp | image | https://www.google.com/maps/place/Towson+Diner/@39.4053029,-76.6058436,3a,75y,90t/data=!3m8!1e2!3m6!1sCIHM0ogKEICAgID_ltPwaw!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FANWiy9RCsoCZJgg3hnMbzDr0lzfV5eVw1rf7UU-wk_tsceajwGzPvFscEwC-OoawJs5ttEMMQalPtckDjIyjJkJDAW55d58kCfJBFWgBZvzifzGlhXsP2dWWIOZB13mfAUAZdzmENvl-%3Dw203-h152-k-no!7i4080!8i3072!4m9!3m8!1s0x89c80fad8d3419bb:0x24fe6586cb843c89!8m2!3d39.4053029!4d-76.6058436!10e5!14m1!1BCgIYIg!16s%2Fg%2F1tkkvvlw | public-unverified |
 
 All collected media of the business may be used in every environment, including production,
@@ -70,3 +71,7 @@ Prefer the business's own originals and the largest, best renditions.
 Published application revision `970042805ad3cea2c572bc220ec270ce4c0a81c8` shows 99 matched products on 102 of 432 rows. The remaining 324 distinct products / 330 rows have no selected photo. Derek stopped further research and accepted this amount. A compact independent contact-sheet/source-note comparison covered every selected mapping; no concrete wrong-dish association was found. The 36 likely associations retain their confidence and documented preparation/portion caveats. Optimized local derivatives and exact mappings are recorded in [menu-photo-provenance.json](menu-photo-provenance.json). Main and Abdul retain text-only item menus.
 
 Current private delivery package: `towson-diner-assets-6a83494243ff8a74.zip`, 106,882,490 bytes, SHA-256 `2c99aaba46476deeca26e7c61196631b543a3b1894bbb19b57e12ae9d4d250ce`. It contains the current 152-file source library and provenance; delivery links and reload verification are retained in private receipts. Source-history coverage remains bounded as recorded above; do not restart collection without a new request.
+
+## Our story historical photo - October 18, 2026
+
+At Derek's request, `/about/` shows the restaurant's own historical rooftop-sign exterior, `6f357223847ab161c297c6d41066adadffb654b54a87e111e2d33cc7d8767c44` (291x183, 17,724 bytes, official Wix media `431b8f_028e3c032145426182a38404df4c408b.jpg` on [S2]). `app/public/images/rooftop-sign.jpg` is a byte-identical copy of the original: no re-encode, upscale, retouching or generation. It displays no larger than its native 291x183 CSS size as a framed documentary inset. Its date is not recorded, so the caption says only "An earlier look at Towson Diner." Larger placements keep the high-resolution current neon and interior photos.

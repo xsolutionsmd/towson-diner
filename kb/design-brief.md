@@ -65,6 +65,7 @@ October 18 menu-photo correction: Derek's preview should show a real business ph
 | a087a3e63c31 | Home/menu gallery | 4000x3000 official burger/fries; generic food scene, no exact named burger assertion. |
 | 225aa3dddd04 | Home atmosphere / About | 2048x1152 neon exterior; left-biased crop avoids lower-right pedestrian. |
 | ca3e3ddaa72e | Visit hero | 2048x1358 official daylight facade; trim foreground, keep entrance/flag. |
+| 6f357223847a | About story inset | 291x183 official historical rooftop-sign exterior; byte-identical original at native size or smaller, never a hero. |
 | 4d1cbd658513 | About interior | 1024x771; retain chrome and booths, avoid top TV/patrons when practical. |
 | af85a193d1f3 | Sitewide logo if crop remains clean | 640x480 official Toast mark; preserve full badge proportions; thin white edge fragments need conservative crop. Clean text identity is acceptable. |
 All originals resolve through the private manifest; public media.md keeps provenance. Source history is partial, not exhaustive. 99 of 423 distinct products have selected photos covering 102 rendered IDs; 324 products/330 IDs remain without selected photos. Main/Abdul item menu remains text-only; Derek uses confirmed and well-supported likely associations.
@@ -73,3 +74,5 @@ All originals resolve through the private manifest; public media.md keeps proven
 Owner correction, October 18, 2026: the current matched-photo amount is sufficient. Stop further research; integrate the existing selections, visually check the changed result and deploy Derek preview. Reuse completed checks.
 
 Owner visual correction: natural landscape photo framing, photos left of names, prices consistently right-aligned. Use restrained spacing and responsive sizes; preserve genuine imagery and recorded inference confidence.
+
+Owner content correction, October 18, 2026: incorporate the restaurant's published Our Story note and its historical rooftop-sign photo into `/about/` naturally, without copying the screenshot's dated typography or adding disclaimers. Implemented inside the existing centered editorial story: Baltimore-area recognition and since-1957 staple, a modest framed historical inset, the 1994 father-and-son purchase by Sam and Nick Kourtsounis as a family-friendly place, and finest ingredients with on-premises desserts. Neon hero, interior figure and visit block remain.

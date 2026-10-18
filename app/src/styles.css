@@ -25,3 +25,9 @@
 @media(max-width:760px){.price{max-width:max(90px,8ch)}}
 @media(max-width:760px){.menu-item:has(.menu-item-photo){grid-template-columns:104px minmax(0,1fr);gap:16px;padding:16px 0}.menu-item:has(.menu-item-photo) a{gap:10px;flex-wrap:wrap}.menu-item:has(.menu-item-photo) a>span:first-child{max-width:100%;flex:1 1 105px}.menu-item:has(.menu-item-photo) .price{margin-left:auto;max-width:9ch}}
 @media(max-width:360px){.menu-item:has(.menu-item-photo){grid-template-columns:88px minmax(0,1fr);gap:14px}}
+
+/* Our story: the restaurant's own low-resolution historical photo, shown no larger than its native size. */
+.history-photo{width:fit-content;max-width:100%;margin:46px auto 44px}
+.history-photo img{width:311px;max-width:100%;height:auto;padding:9px;background:#fffdf7;border:1px solid var(--line)}
+.history-photo figcaption{max-width:311px;margin:14px auto 0;font-size:.78rem;line-height:1.5;color:var(--green)}
+@media(max-width:760px){.history-photo{margin:38px auto 36px}}

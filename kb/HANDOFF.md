@@ -1,5 +1,9 @@
 # Handoff
 
+## Our story update - October 18, 2026 (local, awaiting publication)
+
+Derek asked to work the restaurant's published history note and its historical rooftop-sign photo naturally into `/about/`. Claude updated the existing centered editorial story only: Baltimore-area recognition and since-1957 staple; the 1994 father-and-son purchase by Sam and Nick Kourtsounis as a family-run, family-friendly place; finest ingredients and on-premises desserts; breakfast all day. The restaurant's own 291x183 photo is a byte-identical framed inset shown no larger than native size, captioned "An earlier look at Towson Diner." Neon hero, interior figure, visit block, other pages, all 432 menu rows, 102 menu photos, prices and Toast ordering are unchanged; regenerated home/menu/visit HTML is byte-identical. Local check and desktop/mobile inspection passed; see [validation](../docs/VALIDATION.md). Next: coordinator commit/publish to derek-dev, then independent Sol visual review; Astra fixes only concrete confident findings.
+
 ## Current Derek preview - October 18, 2026
 
 [Derek menu](https://d-towsondiner.xsolutionsmd.com/menu/) is live at `e652b2167c75f97e276d3a5daa0c1d15b3abe9de`. Derek's requested photo orientation/sizing correction is published: natural food subjects in consistent landscape 4:3 frames, photos left of names, and aligned price edges. Frames are 156x117 desktop, 104x78 mobile and 88x66 narrow mobile. Selected overhead plate rotations and targeted dessert/drink focal positions preserve recognizable subjects. Original photo bytes and all 102 placements remain unchanged.

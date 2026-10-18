@@ -105,3 +105,13 @@ The changed media ZIP and final Slack URL message remain **pending**, with no fi
 
 
 Coordinator cleanup recycled the completed photo-checkout app/dist and app/node_modules (27,548,500 bytes, 347 files); recovery hashes were verified. Disk space freed: 0 bytes. Originals, provenance, required evidence, active source and the pending delivery package remain retained; recheck delivery resources after Slack delivery/acceptance. No Recycle Bin emptying or broad cleanup occurred.
+
+## Our story history update - local, October 18, 2026
+
+Scope: Derek's request to incorporate the restaurant's published Our Story note [S2] and its historical rooftop-sign photo into `/about/`, from source `2720cd8917bc6493fddd35faf825a2301c4cb257` (live application `e652b21`). Changed: `app/scripts/generate.mjs` (about content/meta description), scoped `.history-photo` rules in `app/src/styles.css`, generated `app/about/index.html`, new `app/public/images/rooftop-sign.jpg`.
+
+- Photo: SHA-256 `6f357223847ab161c297c6d41066adadffb654b54a87e111e2d33cc7d8767c44`, identical to the private original (291x183, 17,724 bytes). No re-encode, upscale or generation. Rendered content box is 291x183 CSS px at 1440 and 390 widths and scales down to 250px content at 320px; aspect ratio 1.590 preserved.
+- `npm ci --no-audit --no-fund` (14 packages) and `npm run check`: passed, 117 built files, including the 432-row/102-photo menu contract, noindex, unsupported-claim, decorative-numbering and external-resource checks.
+- Regeneration parity: `index.html`, `menu/index.html` and `visit/index.html` SHA-256 identical to the pre-change files; only `about/index.html` changed.
+- Local Vite preview, T3 Chromium tab: 1440x900 and 390x844 (DPR 2) inspected visually; image decoded, all page requests 200, no console entries, 0px horizontal overflow. 320x740 at 16px and 32px root text: figure, frame and caption stay inside the section content box (25-295px); 0px overflow.
+- Not covered: physical devices/Safari, live deployment and independent review (pending coordinator publication and Sol review). Browser tab and local server were closed.
