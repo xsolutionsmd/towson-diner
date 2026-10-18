@@ -3,7 +3,7 @@ Observed October 18, 2026; historical dates below are not current guarantees.
 | ID | URL | Supports / limits |
 |---|---|---|
 | S1 | https://www.towsondiner.net/ | Browser confirms identity/contact, breakfast all day, seven days, since 1957. No exact hours. |
-| S2 | https://www.towsondiner.net/about | Business-published history, family operation since 1994, on-premises baking. Current ownership not independently verified. |
+| S2 | https://www.towsondiner.net/about | Business-published history: since 1957, a Towson staple since the 1950s; father and son Sam and Nick Kourtsounis bought the diner in 1994 and run it as a family business; finest ingredients in cooking/baking; all desserts baked on premises. Historical rooftop-sign photo. Derek supplied a screenshot of this note October 18, 2026. Current ownership not independently verified. |
 | S3 | https://www.towsondiner.net/nemu | Fresh visual inspection: PDF viewers blank in this session. Not a universal broken-site claim. |
 | S4 | https://order.toasttab.com/online/towson-diner-718-york-rd | Live rendered menu and structured hierarchy: 432 unique URLs, six top-level menus; address/phone; active pickup interface. Schedule is ordering, not verified dine-in hours. |
 | S5 | https://www.towsondiner.net/locate | Address, phone/email, existing hosted inquiry form. |
