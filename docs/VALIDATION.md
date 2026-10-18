@@ -1,5 +1,7 @@
 # Reconstruction validation — October 18, 2026
 
+Current Derek preview application: `5588348d0e3d2f7463d07d3e3d7d1db371c4e35c`. The accepted Our Story live release/review is recorded at the end of this file. Earlier sections are dated implementation and release evidence; the current menu-photo framing remains preserved. Final Slack package/message delivery is pending and final-handoff delivery is not accepted.
+
 Frontend reconstruction on `derek-dev`, from `161df1c760dfecadd1092eed7a65ba72659992a3`. Coordinator acceptance, backend/runtime integration, refinement and deployment remain separate stages.
 
 - `npm ci --no-audit --no-fund`: passed (14 packages).
@@ -89,9 +91,9 @@ Previously completed tuple/navigation/order tests, the current 116-file check, a
 These documentation drafts were paused before publication when Derek requested new image orientation/sizing. No docs-only commit or application-tree parity is claimed for that paused handoff. The accepted framing release below supersedes this earlier application revision. Chromium viewport and root-font simulation limits apply; no physical-device, Safari or transaction coverage is claimed.
 
 
-## Accepted natural photo framing - current release
+## Accepted natural photo framing - prior release, preserved
 
-Current reviewed application: `e652b2167c75f97e276d3a5daa0c1d15b3abe9de` at https://d-towsondiner.xsolutionsmd.com/menu/. Application CI and Oracle release completed successfully; saved live checks returned HTTP 200 for the home page, health and exact version, with no-store runtime endpoints and intentional noindex. No additional live sweep was run for this documentation handoff.
+Reviewed framing application: `e652b2167c75f97e276d3a5daa0c1d15b3abe9de` at https://d-towsondiner.xsolutionsmd.com/menu/. Application CI and Oracle release completed successfully; saved live checks returned HTTP 200 for the home page, health and exact version, with no-store runtime endpoints and intentional noindex. No additional live sweep was run for that documentation handoff. The subsequent Our Story application preserves this menu result.
 
 The requested natural, consistently sized left-photo layout retains all 102 placements / 99 products. Landscape frames measure 156x117 desktop, 104x78 mobile and 88x66 narrow. Selected overhead rotations and targeted focal positions preserve food subjects; source photo bytes and identity mappings are unchanged.
 
@@ -106,7 +108,7 @@ The changed media ZIP and final Slack URL message remain **pending**, with no fi
 
 Coordinator cleanup recycled the completed photo-checkout app/dist and app/node_modules (27,548,500 bytes, 347 files); recovery hashes were verified. Disk space freed: 0 bytes. Originals, provenance, required evidence, active source and the pending delivery package remain retained; recheck delivery resources after Slack delivery/acceptance. No Recycle Bin emptying or broad cleanup occurred.
 
-## Our story history update - local, October 18, 2026
+## Our Story history implementation - October 18, 2026
 
 Scope: Derek's request to incorporate the restaurant's published Our Story note [S2] and its historical rooftop-sign photo into `/about/`, from source `2720cd8917bc6493fddd35faf825a2301c4cb257` (live application `e652b21`). Changed: `app/scripts/generate.mjs` (about content/meta description), scoped `.history-photo` rules in `app/src/styles.css`, generated `app/about/index.html`, new `app/public/images/rooftop-sign.jpg`.
 
@@ -114,4 +116,22 @@ Scope: Derek's request to incorporate the restaurant's published Our Story note 
 - `npm ci --no-audit --no-fund` (14 packages) and `npm run check`: passed, 117 built files, including the 432-row/102-photo menu contract, noindex, unsupported-claim, decorative-numbering and external-resource checks.
 - Regeneration parity: `index.html`, `menu/index.html` and `visit/index.html` SHA-256 identical to the pre-change files; only `about/index.html` changed.
 - Local Vite preview, T3 Chromium tab: 1440x900 and 390x844 (DPR 2) inspected visually; image decoded, all page requests 200, no console entries, 0px horizontal overflow. 320x740 at 16px and 32px root text: figure, frame and caption stay inside the section content box (25-295px); 0px overflow.
-- Not covered: physical devices/Safari, live deployment and independent review (pending coordinator publication and Sol review). Browser tab and local server were closed.
+- This implementation check covered no physical devices/Safari. Browser tab and local server were closed. Subsequent publication and independent live review are recorded below.
+
+## Accepted Our Story live release and review
+
+Current application `5588348d0e3d2f7463d07d3e3d7d1db371c4e35c` is published only to Derek's preview, including https://d-towsondiner.xsolutionsmd.com/about/. Oracle workflow `39166429108` and application CI `39166429150` completed successfully. The saved first-live receipt records HTTP 200 for the story page and exact historical photo. No additional live probe or application test was initiated for this documentation finalization.
+
+Independent Sol review passed **6/6 focused actual live cases, high confidence, zero findings**: uncached exact version; 1440x900 desktop story/photo composition; 390x844 mobile hero/story/interior/visit composition; story link to Menu and actual mobile-navigation return to Our Story; 320x740 with 32px root text; and live photo SHA-256 identity. Astra accepted the review and no-change fixes/same-SHA recheck/deploy. No corrective product change or redeployment was warranted.
+
+The exact 291x183 original is shown at 291x183 CSS pixels on desktop and 390px mobile, reduced to 250x157.21 at 320px. Its modest framed presentation reads naturally as a historical print, with full composition and no distortion or meaningful crop. Live bytes total 17,724 and hash to `6f357223847ab161c297c6d41066adadffb654b54a87e111e2d33cc7d8767c44`. The browser confirmed decode success. Intrinsic original softness is acknowledged; it is not used as an enlarged hero.
+
+At 320x740/root32, actual story text measures 30.4px and wraps cleanly. Client/scroll width is 320/320px; the photo frame and both visit controls fit x25-295px within their containing areas. The 390px page client/scroll width is 390/390px. No console errors appeared in inspected snapshots. Existing menu rows/photos and Toast ordering destinations remain intact; prior 432-row/102-photo identity, association and regression evidence was reused without additional research or a broad menu test sweep.
+
+Limits: Chromium viewport/root-font simulation, not physical-phone, Safari or native-touch coverage. Toast checkout/payment internals were not exercised. Review tab closed, text override removed and viewport reset. No local server/container was started by this independent review or documentation finalization.
+
+This task did not write main or Abdul's branch; separate authorized Abdul work is outside scope. The 152-asset delivery package is unchanged and remains pending, along with the final Slack URL message. Existing evidence records failed Chrome control attachment and connector reauthentication requirement; no new Slack/browser attempt, upload URL, file bytes or duplicate message was made here. Reuse the prior persisted directory readback: the three Towson URLs are unchanged and no directory write is needed. Retry delivery only when the recorded access condition changes, then capture real persisted delivery evidence; final-handoff delivery is not accepted.
+
+Only kb/HANDOFF.md and this record are published with `[skip ci]`. The private final receipt records the separate documentation source SHA, exact two-file diff and unchanged app/runtime/release Git objects against live `5588348d0e3d2f7463d07d3e3d7d1db371c4e35c`. This documentation update initiates no application release.
+
+After this story review, the coordinator recycled the photo checkout's completed reinstalled app/dist and app/node_modules: 27,567,139 bytes in 348 files, recoverability/hashes verified. Disk bytes freed: 0; the Recycle Bin was not emptied. No task-local services remain. Source, media library, provenance, required evidence and unchanged current pending delivery ZIP are retained for delivery/recovery; recheck after Slack delivery/acceptance. The prior framing cleanup accounting above is historical and separate.
