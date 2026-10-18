@@ -110,7 +110,7 @@
     },
     "template": {
       "status": "done",
-      "recorded": "2026-10-18T15:02:27.889213+00:00",
+      "recorded": "2026-10-18T15:33:22.553437+00:00",
       "workflow_version": 2,
       "owner": "astra-xhigh",
       "task_id": null,
@@ -121,7 +121,8 @@
       "quota_evidence": null,
       "quota_exhausted": false,
       "evidence": [
-        "Astra inspected sundayinbrooklyn.com home, menus, about at desktop/mobile; actual mobile navigation and breakfast tab/hash state checked. private/runs/reference-r1.md and reference screenshots; reference menu is text-only."
+        "Astra inspected sundayinbrooklyn.com home, menus, about at desktop/mobile; actual mobile navigation and breakfast tab/hash state checked. private/runs/reference-r1.md and reference screenshots; reference menu is text-only.",
+        "Same inspected Sunday in Brooklyn reference and matching desktop/mobile evidence; Derek explicitly authorized browser-only reconstruction on October 18 after REA helper rejection. No reference/scope change."
       ]
     },
     "content": {
@@ -167,5 +168,5 @@
       "status": "pending"
     }
   },
-  "updated": "2026-10-18T15:02:27.923837+00:00"
+  "updated": "2026-10-18T15:33:22.599259+00:00"
 }

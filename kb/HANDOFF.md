@@ -1,7 +1,7 @@
 # Handoff
 
 <!-- xs-status:start -->
-Pipeline status (generated 2026-10-18T15:08:09.874283+00:00):
+Pipeline status (generated 2026-10-18T15:36:14.042795+00:00):
 
 - **identity**: done
 - **research**: done
@@ -32,10 +32,10 @@ Full landing endpoint: first production release plus independent Derek and Abdul
 Content gate has full page/offering/source/media mapping at private/runs/content-r1.json. Sol High owns next reconstruction using REA and actual company assets, then Astra verifies static integrations, Claude High refines existing source. First publication/Slack precedes Sol xhigh infrastructure and independent Sol review. No Stitch; no custom ordering system; no duplicate business.
 
 ## Next step
-Derek explicitly authorized "Continue with browser evidence" on October 18. Resume with new Sol High reconstruction task R2 on derek-dev, using actual browser reference inspection without REA. R1 remains revoked; no retry or bypass of its rejected helper launch. All later refinement, first-live, infrastructure, review, delivery and Derek-only menu variation stages remain required.
+Derek authorized browser evidence and then made it the standard nonblocking fallback on October 18. Sol High reconstruction R2 is active on derek-dev using actual browser/devtools reference inspection. Updated canonical policy was steered into its active run; no repair/waiver wait. R1 remains revoked; no retry or bypass of its rejected helper launch. All later refinement, first-live, infrastructure, review, delivery and Derek-only menu variation stages remain required.
 
 ## Blockers / waiting on
-REA requirement waived for this build only. No current content/access blocker; exact dining hours remain a published-content unknown. Slack Chrome route is signed in; no message sent yet. Static contract docs/API.md is prepared but not yet validated against implemented source.
+REA is preferred, not an acceptance gate when unavailable. No current content/access blocker; exact dining hours remain a published-content unknown. Slack Chrome route is signed in; no message sent yet. Static contract docs/API.md is prepared but not yet validated against implemented source.
 
 ## Cleanup and retention
 R1 closed its own browser tab and confirmed no helper session. No dev server or Docker resources were created. Retain current factual KB, 31-file asset library, package and reference/blocker evidence for the resumed build and final delivery. Recheck temporary package/inspection helpers after delivery.

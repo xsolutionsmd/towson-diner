@@ -32,3 +32,7 @@ The skill and instructions ship with this repository. Verify actual browser/REA/
 The workflow returns editable source, a real local preview and checks of visual coherence, mobile layout, accessibility and important actions. Existing product/design decisions, source branch and deployment controls remain authoritative. Developer tools and evidence stay outside production images. Keep third-party image evidence under ignored `.design-evidence/` and source citations in appropriate design docs.
 
 Visual quality, speed and usage must be judged on actual outputs. Setup does not redesign or deploy the current application, guarantee subjective beauty or prove a five-minute build. Existing release authorization is separate from permission to create a local preview.
+
+## October 18 fallback correction
+
+REA is preferred tooling, not a required gate (Derek, October 18, 2026). If unavailable or unsuccessful after bounded recovery, continue with ordinary supported browser/developer-tools inspection of rendered pages, DOM/computed styles/layout, public client assets and browser-visible behavior. Do not repeat known failed/rejected helper attempts, wait for repair or ask for a waiver. Record the actual browser method and limitation; never label it REA. Desktop/mobile captures, relevant flow checks, populated reconstruction and reference fidelity remain required.
