@@ -1,5 +1,13 @@
 # Handoff
 
+## Abdul preview update — October 18, 2026
+
+About now includes the official since-1957 history, father-and-son purchase in 1994, on-site baking and the original exterior photograph. The menu search and section picker have matching light fields, clear SVG icons, readable text and a quieter Reset action. Source: [official About](https://www.towsondiner.net/about), inspected for this update; details in sources/media. The existing cream/red visual system and 432 text-only menu rows are preserved.
+
+Scoped to `abdul-dev` and https://a-towsondiner.xsolutionsmd.com . Local production build/static checks and desktop/mobile layout inspection passed, including 320px with enlarged text. Publication and independent live acceptance are pending and will be recorded below. Main and Derek are outside this update.
+
+## Prior normal-build handoff (historical)
+
 Normal build stages through independent recheck are accepted. Final-record publication, current media delivery and persisted Slack/directory receipts are owned by the transferred final handoff task. Overall acceptance belongs to the coordinator; the separate Derek-only variation has not begun.
 
 ## Current state

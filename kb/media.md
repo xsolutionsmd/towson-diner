@@ -80,3 +80,8 @@ Reconstruction preserves all 432 source IDs as separate text rows, including nin
 ## Final food-photo identity check
 
 Final Sol checked the live desktop and 390px mobile waffle/burger crops against the existing manifest and item index on October 18, 2026. The waffle retains strawberries, whipped cream and the waffle surface; the association with Belgian Waffle W Straw&Whip (47bd8a05-4df0-4464-bc39-be091c0808a7) remains likely, not a labelled exact-product confirmation. The burger retains bun, patty, bacon/vegetables and fries; it is correctly presented as a generic burger scene. Classic Burger Build your Own (56543431-0811-4b7e-8974-9af9d4405221) remains uncertain, with no exact product assignment or new photo added. No mismatch was found in the displayed associations. Main and Abdul retain text-only menu items; the separate Derek-only variation follows normal handoff acceptance.
+
+
+## About history photograph, October 18, 2026
+
+Added `diner-history.webp`, adapted from the original exterior photograph on the official About page [S2]. Original URL: https://static.wixstatic.com/media/431b8f_028e3c032145426182a38404df4c408b.jpg . Native size 291 × 183 is preserved; this small archival-style placement avoids enlarging the source into a hero. No date is asserted. Public WebP SHA-256: `93d2ef0b128f7559249cf035f80d015160d7baa72ff823c71930f9f2b7d7a898`. Standing business-asset permission applies.

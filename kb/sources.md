@@ -17,3 +17,5 @@ Observed October 18, 2026; historical dates below are not current guarantees.
 | S13 | https://www.yelp.com/biz/towson-diner-towson | Matching identity and partial food/gallery inspection; hours differ from Google. |
 
 Full item-level source URLs: [menu.json](menu.json). Media provenance summarized in [media.md](media.md).
+
+October 18 About update: re-read S2 in the rendered official site. It explicitly identifies father and son Sam and Nick Kourtsounis as buying the diner in 1994, describes its place in local family history, and states that desserts are baked on the premises. The About copy adapts those business-published claims. The original exterior image is served at https://static.wixstatic.com/media/431b8f_028e3c032145426182a38404df4c408b.jpg (291 × 183); its age is unspecified.
