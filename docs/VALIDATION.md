@@ -38,3 +38,11 @@ Checked revision `9e6b3e4b14e7ffa9340f8d2a79c799b77ebf3a67` with `python scripts
 Actual T3 browser at 390x844 verified contained controls, correct colors, decoded imagery and menu All (432), cheesecake search (6), reset (432) with focus returned to search. Live Toast shows Towson Diner, 718 York Rd and pickup/menu controls; the original inquiry page shows its existing forms and matching contact information. No transaction, inquiry, call or email was submitted. This is local runtime evidence, not an HTTPS deployment claim.
 
 The isolated rehearsal container/network and owned browser tab were removed after checking. The company builder/cache and current image remain only for the imminent refinement/release checks; recheck retention after first release. Detailed receipt is private. Refinement and all publication/live review stages remain pending.
+
+## Refinement acceptance checks
+
+Astra xhigh completed the authorized fallback after Claude's terminal API rate-limit response; Claude made no source changes and its task was stopped/revoked. Existing Sol source was refined with a persistent mobile Order link and concise menu availability copy. No menu data, photos, external destination or runtime behavior changed.
+
+`npm run check` and public check passed. Actual T3 views of all four routes at 1440x900 and 390x844 retain the reference composition and authentic imagery. The new mobile action is 44px high, uses the verified Toast destination and is absent on desktop. At 320px with 200% root text, header elements do not overlap and search/select/reset stay within the menu's padded container. Search returns six cheesecake entries; an unmatched query exposes no-results; reset restores all 432 entries and search focus. Navigation hides the duplicate quick action, makes background content inert and restores toggle focus on Escape. Gallery next/previous decodes burger/waffle images and retains its 0.2s fade; reduced-motion CSS remains unchanged. Source menu identity checks still pass.
+
+The owned browser tab and Vite process were closed. Formal independent live review remains pending; this local check is not a production claim.
