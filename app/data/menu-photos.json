@@ -1,15 +1,165 @@
 {
+  "4b1560b3-f3f3-48c5-8108-1c4c1c935be6": {
+    "src": "/images/menu/coffee.webp",
+    "alt": "Coffee and decaf coffee",
+    "width": 560,
+    "height": 560
+  },
+  "68e80c5f-1f36-4237-a47f-0db6af6643c8": {
+    "src": "/images/menu/decaf-coffee.webp",
+    "alt": "Coffee and decaf coffee",
+    "width": 560,
+    "height": 560
+  },
+  "cd2dd756-1dcd-4aa6-bef0-e7aae3730b32": {
+    "src": "/images/menu/hot-tea.webp",
+    "alt": "Tea",
+    "width": 420,
+    "height": 560
+  },
+  "6f0e0058-a776-4dce-b7f1-96813901a624": {
+    "src": "/images/menu/hot-chocolate.webp",
+    "alt": "Hot chocolate",
+    "width": 560,
+    "height": 560
+  },
+  "904f4350-0099-421f-9bd3-537b5830994e": {
+    "src": "/images/menu/cappuccino.webp",
+    "alt": "Cappuccino",
+    "width": 560,
+    "height": 474
+  },
+  "f62e7eb8-4c85-48ed-a2b6-3d89eaf612ba": {
+    "src": "/images/menu/orange-juice.webp",
+    "alt": "Fresh Orange Juice",
+    "width": 420,
+    "height": 560
+  },
+  "c8d4ed0f-6b16-4a78-9e86-1455e1ea274c": {
+    "src": "/images/menu/strawberry-milkshakes.webp",
+    "alt": "Strawberry milkshake",
+    "width": 429,
+    "height": 560
+  },
+  "bcd2ce76-a815-4725-b73b-2b23c6e5430a": {
+    "src": "/images/menu/one-egg-breakfast.webp",
+    "alt": "One 1 Egg Any Style",
+    "width": 420,
+    "height": 560
+  },
+  "1c56bb7e-1b84-47ba-b711-79504d378960": {
+    "src": "/images/menu/two-egg-breakfast.webp",
+    "alt": "2 Eggs Any Style",
+    "width": 420,
+    "height": 560
+  },
+  "f201c06e-b8bd-4e09-9d87-1899aca12401": {
+    "src": "/images/menu/corned-beef-hash-and-eggs.webp",
+    "alt": "Corn beef hash with over medium eggs and home fries",
+    "width": 560,
+    "height": 420
+  },
+  "c9c0e291-24a0-421a-9c6d-be1fbef73cb2": {
+    "src": "/images/menu/chipped-beef-platter.webp",
+    "alt": "Cream chipped beef and home fries with onions",
+    "width": 560,
+    "height": 420
+  },
+  "933d74c5-91c1-4160-9af4-530ef92e0e3b": {
+    "src": "/images/menu/avocado-toast.webp",
+    "alt": "Avocado toast",
+    "width": 560,
+    "height": 371
+  },
+  "bd234f1b-2cd9-499d-8c4f-da952c230226": {
+    "src": "/images/menu/avocado-toast.webp",
+    "alt": "Avocado toast",
+    "width": 560,
+    "height": 371
+  },
+  "b44e6726-3302-4bac-9d33-eae703843328": {
+    "src": "/images/menu/steak-and-eggs.webp",
+    "alt": "Steak and eggs- came with home fries and toast.",
+    "width": 560,
+    "height": 420
+  },
+  "d71becdb-d548-4107-9ed4-2a6638fc092a": {
+    "src": "/images/menu/virginia-ham-steak.webp",
+    "alt": "The ham was everything!",
+    "width": 420,
+    "height": 560
+  },
+  "02184940-ebae-45df-aa15-65f1a25a7411": {
+    "src": "/images/menu/create-your-own-omelette.webp",
+    "alt": "Made my own veggie omelet",
+    "width": 560,
+    "height": 420
+  },
+  "e27ddd54-2f5a-446c-9614-72dfa1158a3d": {
+    "src": "/images/menu/garden-omelette.webp",
+    "alt": "Vegetable omelette with visible tomato, green pepper, onion and mushrooms in a takeout container",
+    "width": 560,
+    "height": 560
+  },
+  "dac1765b-e4dc-4e69-815a-f46c723a7f15": {
+    "src": "/images/menu/greek-omelette.webp",
+    "alt": "Greek Omelette. Comes with fried potatoes and toast.",
+    "width": 560,
+    "height": 420
+  },
+  "c9310674-35e0-4822-bb91-b8f6326e286f": {
+    "src": "/images/menu/italian-omelette.webp",
+    "alt": "Italian omelette",
+    "width": 560,
+    "height": 560
+  },
+  "493960b7-e373-4d35-962b-5737449e03ab": {
+    "src": "/images/menu/meat-lovers-omelette.webp",
+    "alt": "3 meat omelet !!!",
+    "width": 420,
+    "height": 560
+  },
+  "09e557f4-740c-4d40-863e-a30cc32dec69": {
+    "src": "/images/menu/spanish-omelette.webp",
+    "alt": "The Spanish omelette!",
+    "width": 560,
+    "height": 315
+  },
   "1a37790a-6ea7-4761-94b1-a0c5f6227086": {
     "src": "/images/menu/western-omelette.webp",
     "alt": "Western omelette with toast and home fries",
     "width": 560,
     "height": 420
   },
+  "006582a6-01ce-46f9-a843-00ad02cf947f": {
+    "src": "/images/menu/pancakes-3.webp",
+    "alt": "Plain pancakes on a white plate",
+    "width": 420,
+    "height": 560
+  },
   "91eb3aca-7271-4274-8694-e08079f436e6": {
     "src": "/images/menu/belgian-waffle.webp",
-    "alt": "Plain Belgian waffle at Towson Diner",
-    "width": 350,
-    "height": 232
+    "alt": "Belgian waffle",
+    "width": 420,
+    "height": 560
+  },
+  "e90aa12e-620f-4881-8919-22f8f2b9b636": {
+    "src": "/images/menu/blueberry-pancakes-3.webp",
+    "alt": "Blueberry pancakes",
+    "width": 420,
+    "height": 560
+  },
+  "b875e29e-3bcc-4ccc-98b5-13618c0915dd": {
+    "src": "/images/menu/challah-bread-french-toast.webp",
+    "alt": "Massive French toast",
+    "width": 560,
+    "height": 420
+  },
+  "1aa5911c-0e67-49b1-9966-bee75554ac37": {
+    "src": "/images/menu/elvis-stack.webp",
+    "alt": "Elvis Stack",
+    "width": 560,
+    "height": 365
   },
   "ba7dd731-ed75-4c00-9752-2aac53efc9f1": {
     "src": "/images/menu/french-toast-bites.webp",
@@ -17,11 +167,47 @@
     "width": 560,
     "height": 420
   },
+  "67c10efc-52d0-4901-938c-0533fcba6097": {
+    "src": "/images/menu/monte-cristo.webp",
+    "alt": "Monte Cristo",
+    "width": 560,
+    "height": 560
+  },
+  "44c9505e-1a03-44f8-bd50-20c7225ea1d9": {
+    "src": "/images/menu/short-stack-2.webp",
+    "alt": "Plain pancakes on a white plate",
+    "width": 420,
+    "height": 560
+  },
+  "7c9a79bd-e1e8-4023-a1c3-7f0e3fcfb6b0": {
+    "src": "/images/menu/hungry-man-special.webp",
+    "alt": "Hungry man breakfast special on a table with eggs, bacon and pancakes",
+    "width": 420,
+    "height": 560
+  },
   "47bd8a05-4df0-4464-bc39-be091c0808a7": {
     "src": "/images/menu/belgian-waffle-w-straw-whip.webp",
     "alt": "Belgian waffle with fresh strawberries, whipped cream and powdered sugar",
     "width": 560,
     "height": 384
+  },
+  "924c80ac-170d-439d-b475-cc79d260add0": {
+    "src": "/images/menu/pancake-1.webp",
+    "alt": "Plain pancakes on a white plate",
+    "width": 420,
+    "height": 560
+  },
+  "69d7bea7-a309-444c-b196-f6c23a00df0d": {
+    "src": "/images/menu/fruit-cup.webp",
+    "alt": "Mixed fresh fruit cup",
+    "width": 250,
+    "height": 321
+  },
+  "b8333c39-97e5-4956-bf92-47b01be970ea": {
+    "src": "/images/menu/grits-bowl.webp",
+    "alt": "Bowl of grits",
+    "width": 420,
+    "height": 560
   },
   "63da29a2-609c-440b-8f6a-f42bdb0c5795": {
     "src": "/images/menu/side-bacon.webp",
@@ -29,11 +215,95 @@
     "width": 560,
     "height": 367
   },
+  "e9806c79-9383-4bee-b5a6-0369844aa9dd": {
+    "src": "/images/menu/side-corn-beef-hash.webp",
+    "alt": "Side corned beef hash",
+    "width": 560,
+    "height": 291
+  },
+  "49f416e5-8cb1-4c4c-8dff-830edbd35ee8": {
+    "src": "/images/menu/side-creamed-chipped-beef.webp",
+    "alt": "Cream chipped beef",
+    "width": 560,
+    "height": 420
+  },
+  "65dde1e5-2d82-473e-888f-d28d35e5d793": {
+    "src": "/images/menu/side-home-fries.webp",
+    "alt": "Side home fries",
+    "width": 560,
+    "height": 464
+  },
+  "74aa6b5c-d3ea-4d48-818c-23bff3a1fe48": {
+    "src": "/images/menu/side-scrapple.webp",
+    "alt": "Side scrapple",
+    "width": 390,
+    "height": 270
+  },
+  "ed5f34f1-7dee-4f35-baf1-dfbda6af2a7e": {
+    "src": "/images/menu/side-turkey-sausage.webp",
+    "alt": "Side turkey sausage",
+    "width": 281,
+    "height": 300
+  },
+  "cd4d4bff-d1c4-463c-975b-77c2ec86c292": {
+    "src": "/images/menu/side-apple-sauce.webp",
+    "alt": "Side apple sauce",
+    "width": 360,
+    "height": 338
+  },
+  "2f60a824-8139-40c4-979a-5b99d9ccc0e6": {
+    "src": "/images/menu/side-apple-sauce.webp",
+    "alt": "Side apple sauce",
+    "width": 360,
+    "height": 338
+  },
   "014d85ad-4d68-42c4-98c3-6635af8e98e6": {
     "src": "/images/menu/traditional-eggs-benedict.webp",
     "alt": "Traditional eggs Benedict with hollandaise and home fries",
     "width": 560,
     "height": 315
+  },
+  "f1129930-8480-45ba-8559-f859c5f17613": {
+    "src": "/images/menu/crab-benedict.webp",
+    "alt": "Crab Eggs Benedict",
+    "width": 560,
+    "height": 420
+  },
+  "30f09210-6f1d-4c55-b2ad-1ba035a0d178": {
+    "src": "/images/menu/spinach-florentine-benedict.webp",
+    "alt": "Eggs Benedict Florentine",
+    "width": 420,
+    "height": 560
+  },
+  "f0c8ae25-5ea5-4bdf-beb4-861066e36d62": {
+    "src": "/images/menu/breakfast-burrito.webp",
+    "alt": "Breakfast burrito",
+    "width": 560,
+    "height": 560
+  },
+  "a02ae77a-a142-4c38-94c6-4e04d4b18de1": {
+    "src": "/images/menu/sausage-egg-cheese.webp",
+    "alt": "Breakfast sausage egg and cheese sandwich",
+    "width": 560,
+    "height": 420
+  },
+  "cc4e23fb-3e20-45e3-a7eb-af372bf2bd95": {
+    "src": "/images/menu/toast-2.webp",
+    "alt": "Wheat toast",
+    "width": 270,
+    "height": 225
+  },
+  "6f2318a2-329a-4bf7-9ad8-d2248f375af5": {
+    "src": "/images/menu/bagel-w-lox.webp",
+    "alt": "Salmon",
+    "width": 420,
+    "height": 560
+  },
+  "57f4f508-e9a9-4df5-be2d-185bcbcf04af": {
+    "src": "/images/menu/crab-dip.webp",
+    "alt": "Crab Dip",
+    "width": 560,
+    "height": 467
   },
   "6e4cf906-0868-48a1-9c03-a0f768636f73": {
     "src": "/images/menu/quesadilla.webp",
@@ -47,10 +317,52 @@
     "width": 560,
     "height": 252
   },
+  "f103fa5c-5494-4071-9673-c1e44a0a6621": {
+    "src": "/images/menu/spanakopita-8.webp",
+    "alt": "Spanakopita appetizer",
+    "width": 449,
+    "height": 560
+  },
+  "f7083da4-fbe2-4605-8852-532f10fd267a": {
+    "src": "/images/menu/spinach-artichoke-dip.webp",
+    "alt": "Spinach and artichoke dip",
+    "width": 560,
+    "height": 560
+  },
+  "8548ab94-42a8-47c0-abd9-cffa5510f1d1": {
+    "src": "/images/menu/curly-fries.webp",
+    "alt": "Curly fries",
+    "width": 520,
+    "height": 560
+  },
   "2cc6adf8-d65b-4943-ada5-02fff51340ba": {
     "src": "/images/menu/greek-salad.webp",
     "alt": "Greek salad with lettuce, tomato, cucumber, onion, feta and olives",
     "width": 420,
+    "height": 560
+  },
+  "833b78d1-70e3-415f-9315-1b2262469017": {
+    "src": "/images/menu/southwest-salad.webp",
+    "alt": "Southwestern salad with chicken black beans corn tortilla strips",
+    "width": 448,
+    "height": 560
+  },
+  "377ed207-b54f-45d9-96b6-c6b3f09c3d95": {
+    "src": "/images/menu/side-greek-salad.webp",
+    "alt": "Greek salad with lettuce, tomato, cucumber, onion, feta and olives",
+    "width": 420,
+    "height": 560
+  },
+  "7c060d82-d8cc-4f65-b7a5-fe94741ef1b7": {
+    "src": "/images/menu/breakfast-burger.webp",
+    "alt": "Breakfast Burger",
+    "width": 403,
+    "height": 560
+  },
+  "f5c0aee3-dff7-4bb4-adbc-b5b755de85e9": {
+    "src": "/images/menu/brooklyn-burger.webp",
+    "alt": "Brooklyn burger",
+    "width": 560,
     "height": 560
   },
   "4a3a97ac-735e-4524-bb21-64ea5b6f2fe8": {
@@ -59,17 +371,47 @@
     "width": 420,
     "height": 560
   },
+  "901d9b10-0d17-4c63-b072-30b09102e7de": {
+    "src": "/images/menu/cheeseburger.webp",
+    "alt": "Cheeseburger Deluxe",
+    "width": 560,
+    "height": 426
+  },
+  "56543431-0811-4b7e-8974-9af9d4405221": {
+    "src": "/images/menu/classic-burger-build-your-own.webp",
+    "alt": "Beef burger with cheese, bacon, lettuce, tomato and onion, with fries and pickle",
+    "width": 560,
+    "height": 420
+  },
   "4d274210-7aba-4a81-b6aa-a64ad72b2345": {
     "src": "/images/menu/grilled-cheese.webp",
-    "alt": "Grilled cheese sandwich with french fries and ketchup",
+    "alt": "Grilled cheese and curly fries",
     "width": 560,
-    "height": 315
+    "height": 420
   },
   "5f5f42f8-7059-49d3-bfee-d4aa81c25253": {
     "src": "/images/menu/grilled-cheese.webp",
-    "alt": "Grilled cheese sandwich with french fries and ketchup",
+    "alt": "Grilled cheese and curly fries",
     "width": 560,
-    "height": 315
+    "height": 420
+  },
+  "a096bb04-95c3-4ac7-8849-319d90593d35": {
+    "src": "/images/menu/classic-po-boy.webp",
+    "alt": "Shrimp Po Boy with lettuce tomato pickle Sriracha aioli",
+    "width": 560,
+    "height": 510
+  },
+  "a7ede41a-fc8f-4cda-b90f-8a303d9e2a6f": {
+    "src": "/images/menu/philly-cheese-steak-sub.webp",
+    "alt": "Cheesesteak sub and French fries",
+    "width": 420,
+    "height": 560
+  },
+  "dbfb989a-f3eb-4977-8b83-3d0d22ad9b4b": {
+    "src": "/images/menu/reuben-sandwich.webp",
+    "alt": "Reuben sandwich",
+    "width": 552,
+    "height": 560
   },
   "1dc5f45f-f4ee-42fa-a673-669bc41681f5": {
     "src": "/images/menu/chicken-salad-club.webp",
@@ -77,10 +419,196 @@
     "width": 420,
     "height": 560
   },
+  "17dd2f8e-fad2-4f39-ab19-f9eb256caace": {
+    "src": "/images/menu/grilled-chicken-breast-club.webp",
+    "alt": "Uncaptioned sandwich",
+    "width": 315,
+    "height": 560
+  },
+  "219e425a-8760-4482-8620-5b0fe7d54016": {
+    "src": "/images/menu/ham-swiss-club.webp",
+    "alt": "Really good triple-decker sandwiches!",
+    "width": 560,
+    "height": 560
+  },
+  "68a4fb35-2085-4b48-aaa2-213bfd5eb3b5": {
+    "src": "/images/menu/chicken-breast-sandwich.webp",
+    "alt": "Grilled chicken sandwich with Swiss, tomato and coleslaw, cut in half",
+    "width": 448,
+    "height": 560
+  },
+  "dc420e4f-d21d-4a5f-8ab4-052efd27114e": {
+    "src": "/images/menu/chicken-breast-sandwich-delxue.webp",
+    "alt": "Grilled chicken sandwich with Swiss, tomato and coleslaw, cut in half",
+    "width": 448,
+    "height": 560
+  },
+  "1afd2dc6-5559-4dbf-8368-5522e936e832": {
+    "src": "/images/menu/fried-fillet-of-flounder-sub.webp",
+    "alt": "Filet of Flounder sandwich",
+    "width": 560,
+    "height": 558
+  },
+  "e4d12ef5-6c52-4d73-9745-60fca17e1a14": {
+    "src": "/images/menu/broiled-salmon.webp",
+    "alt": "Salmon was delicious",
+    "width": 560,
+    "height": 420
+  },
+  "c5d19a1a-6c71-4627-b139-c2dac9d0dce6": {
+    "src": "/images/menu/jumbo-crab-cake-1.webp",
+    "alt": "Crabcake is awesome",
+    "width": 560,
+    "height": 315
+  },
+  "f1a78223-4da5-4e4f-9b4f-071dc3483f11": {
+    "src": "/images/menu/jumbo-crab-cake-2.webp",
+    "alt": "Huge Delicious Crabcakes",
+    "width": 420,
+    "height": 560
+  },
+  "9ea91fa1-b030-4fa7-9169-44687e37826b": {
+    "src": "/images/menu/penne-a-la-vodka.webp",
+    "alt": "Penne A la Vodka",
+    "width": 560,
+    "height": 513
+  },
+  "a538badc-dc3c-4522-b386-d72eab901912": {
+    "src": "/images/menu/spinach-pie.webp",
+    "alt": "Spanokopita Entree platter",
+    "width": 560,
+    "height": 420
+  },
+  "b8dcd282-9f3f-454e-adec-dc6d2b5a50ca": {
+    "src": "/images/menu/ziti-ala-brocolli.webp",
+    "alt": "Penne broccoli with chicken",
+    "width": 560,
+    "height": 560
+  },
+  "9fb1bace-ffe8-424b-a00f-3f7dbff5387f": {
+    "src": "/images/menu/kids-grilled-cheese.webp",
+    "alt": "Grilled cheese and curly fries",
+    "width": 560,
+    "height": 420
+  },
+  "d9d6505b-0721-4d6d-b554-a778cab6ef4b": {
+    "src": "/images/menu/kids-one-egg-breakfast.webp",
+    "alt": "One 1 Egg Any Style",
+    "width": 420,
+    "height": 560
+  },
+  "b4063e43-ca13-4663-8537-f50516c3baed": {
+    "src": "/images/menu/kids-pancake-1.webp",
+    "alt": "Plain pancakes on a white plate",
+    "width": 420,
+    "height": 560
+  },
+  "e95c909b-db66-4463-b090-d84c202e16d1": {
+    "src": "/images/menu/kids-waffle.webp",
+    "alt": "Belgian waffle",
+    "width": 420,
+    "height": 560
+  },
   "1f57bb16-2b36-46db-ac39-4f0ea1faf528": {
     "src": "/images/menu/gyro-platter.webp",
-    "alt": "Gyro in pita with tomato, onion and tzatziki at Towson Diner",
-    "width": 315,
+    "alt": "Gyro Sandwich",
+    "width": 560,
+    "height": 420
+  },
+  "7bd5f388-4d4e-4f5a-9188-48d8d3bc45cf": {
+    "src": "/images/menu/chicken-souvlaki.webp",
+    "alt": "Chicken souvlaki",
+    "width": 560,
+    "height": 557
+  },
+  "05d3d108-6edb-43a7-a957-b03f412f2b97": {
+    "src": "/images/menu/spanakopita-platter.webp",
+    "alt": "Spanokopita Entree platter",
+    "width": 560,
+    "height": 420
+  },
+  "c934e002-274f-44e1-b4ab-bd9891d5a4f3": {
+    "src": "/images/menu/chocolate-mousse.webp",
+    "alt": "Fresh dessert display",
+    "width": 560,
+    "height": 380
+  },
+  "db4de9a8-00ec-48f3-84d8-17834fd1a650": {
+    "src": "/images/menu/oero-cheesecake.webp",
+    "alt": "Oreo cheesecake",
+    "width": 560,
+    "height": 560
+  },
+  "0ed1fe4a-7e39-4f27-838b-4cd4d3f294ee": {
+    "src": "/images/menu/strawberry-shortcake.webp",
+    "alt": "Strawberry Shortcake",
+    "width": 560,
+    "height": 375
+  },
+  "88585231-b4ff-402b-85c9-6a5ecd2778b5": {
+    "src": "/images/menu/fresh-fruit-salad.webp",
+    "alt": "Mixed fresh fruit cup",
+    "width": 250,
+    "height": 321
+  },
+  "765dedea-306a-4020-a6e1-e567ec625b2b": {
+    "src": "/images/menu/rice-pudding.webp",
+    "alt": "Uncaptioned dessert",
+    "width": 420,
+    "height": 560
+  },
+  "97ff111d-8ca7-4dac-b7de-0bfdbe2c2d4f": {
+    "src": "/images/menu/boston-cream-slice.webp",
+    "alt": "Boston cream slice, yellow custard and dark chocolate topping",
+    "width": 420,
+    "height": 560
+  },
+  "e223c861-115a-450e-a22b-7de16e29a598": {
+    "src": "/images/menu/cherry-pie-slice.webp",
+    "alt": "Cherry Pie",
+    "width": 560,
+    "height": 506
+  },
+  "722c8010-3248-48c0-9a0c-c65ac2bb742c": {
+    "src": "/images/menu/lemon-meringue-slice.webp",
+    "alt": "Lemon Meringue(?)",
+    "width": 420,
+    "height": 560
+  },
+  "8335807e-96ac-4f89-ac8f-d12f9a639ee5": {
+    "src": "/images/menu/pumpkin-pie-slice.webp",
+    "alt": "Pumpkin pie",
+    "width": 560,
+    "height": 420
+  },
+  "561aac7c-8635-47d0-aeb8-133ea488f331": {
+    "src": "/images/menu/chocolate-mousse-whole-cake.webp",
+    "alt": "Fresh dessert display",
+    "width": 560,
+    "height": 380
+  },
+  "04fda919-f4db-44a6-894c-8232f49a80ff": {
+    "src": "/images/menu/oreo-cheesecake-whole-cake.webp",
+    "alt": "Oreo cheesecake slice carousel second slide",
+    "width": 448,
+    "height": 560
+  },
+  "64961702-5586-4490-8535-d23a0f969774": {
+    "src": "/images/menu/strawberry-shortcake-whole-cake.webp",
+    "alt": "Strawberry Shortcake",
+    "width": 560,
+    "height": 375
+  },
+  "73920b71-ac92-40f1-b2e7-3dee61188002": {
+    "src": "/images/menu/whole-pie.webp",
+    "alt": "Cherry Pie",
+    "width": 560,
+    "height": 506
+  },
+  "337e2102-f17d-4546-869f-216dcb94c6b9": {
+    "src": "/images/menu/ice-cream-sundae.webp",
+    "alt": "Ice cream sundae",
+    "width": 560,
     "height": 560
   }
 }

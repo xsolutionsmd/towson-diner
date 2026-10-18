@@ -4,11 +4,11 @@
 
 Derek requested a photo for every menu item wherever a usable actual business photo exists, then clarified that confident visual/contextual associations are welcome without exact captions. Record inferred matches as likely, with their supporting clues; leave genuinely ambiguous cases unmatched. The first bounded collection is not evidence that other photos do not exist.
 
-The expanded asset pass is active. It reuses the original library, item index and source checks, revisits partial galleries/menu details and reconciles every one of the 432 rendered IDs (423 distinct products). The asset specialist exclusively owns the private library/index; Astra owns frontend integration and the accepted F1 correction. Detailed tasks, source evidence and receipts remain private.
+Derek accepted the current number of matches and explicitly stopped further research. The saved collection has 99 matched products covering 102 of the 432 rendered rows (423 distinct products). Integrate this accepted set, preserving honest confidence and the remaining photo gaps; do not restart collection or repeat completed checks. Detailed source evidence and receipts remain private.
 
 ## Published preview and branch boundary
 
-[Derek preview](https://d-towsondiner.xsolutionsmd.com/menu/) is currently published at `f3068c0af01e30ab058395f2074720780bda7382`: 13 authentic dish photos on 14 rows. Its application CI and release workflow succeeded; exact live version and loaded images were verified. The expanded collection and local F1 fix are not yet published.
+[Derek preview](https://d-towsondiner.xsolutionsmd.com/menu/) is currently published at `f3068c0af01e30ab058395f2074720780bda7382`: 13 authentic dish photos on 14 rows. Its application CI and release workflow succeeded; exact live version and loaded images were verified. This update adds the accepted 102 photo placements and the verified F1 wrapping fix; its exact release result is recorded in the private scoped-update receipt.
 
 [Production](https://towsondiner.xsolutionsmd.com) and [Abdul preview](https://a-towsondiner.xsolutionsmd.com) remain at `b5cbe4abde152e4a820253e8630853f4c556d761`, with text-only item menus. Their latest scoped preservation receipt confirmed HTTP 200, exact revisions and unchanged menu bytes. Do not merge or synchronize the deliberate Derek-only photo variation into either branch. Source: https://github.com/xsolutionsmd/towson-diner.
 
@@ -22,7 +22,7 @@ Photos use optimized local WebP files and accurate framing; public [photo proven
 
 ## Next action
 
-Finish the existing asset pass, integrate all usable matched photos, run focused desktop/mobile/search/containment checks, and publish only derek-dev through existing CI. Fresh Sol review must check new associations/crops and F1. Complete the scoped update's required verification, changed media package delivery and final URL message, reusing unchanged URL-directory entries and prior receipts. The old batch-dispatcher message/grant loop is retired; no routine coordination messages or shared recovery changes are needed.
+Integrate the already matched photos, run focused desktop/mobile checks, and publish only derek-dev through existing CI. Reuse completed regression checks; one compact Sol check covers new associations/crops and the corrected F1 spot. Complete the scoped update's required verification, changed media package delivery and final URL message, reusing unchanged URL-directory entries and prior receipts. The old batch-dispatcher message/grant loop is retired; no routine coordination messages or shared recovery changes are needed.
 
 ## Factual and tooling limits
 

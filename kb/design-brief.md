@@ -68,3 +68,6 @@ October 18 menu-photo correction: Derek's preview should show a real business ph
 | 4d1cbd658513 | About interior | 1024x771; retain chrome and booths, avoid top TV/patrons when practical. |
 | af85a193d1f3 | Sitewide logo if crop remains clean | 640x480 official Toast mark; preserve full badge proportions; thin white edge fragments need conservative crop. Clean text identity is acceptable. |
 All originals resolve through the private manifest; public media.md keeps provenance. Source history is partial, not exhaustive. 18 of 423 distinct products have defensible photo matches, 402 lack photos, three remain uncertain. Main/Abdul item menu remains text-only; final Derek-only variation uses confirmed associations only.
+
+
+Owner correction, October 18, 2026: the current matched-photo amount is sufficient. Stop further research; integrate the existing selections, visually check the changed result and deploy Derek preview. Reuse completed checks.
