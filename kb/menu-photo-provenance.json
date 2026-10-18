@@ -17,7 +17,13 @@
       "rendered_sha256": "5c36e5f745126e365467e4054e2a8ef1d5a5bc55baa969a8feb8c5c7da5431a0",
       "crop": null,
       "derivation": null,
-      "notes": "Official post explicitly offers regular and decaf coffee; both share the photographed black-coffee appearance. The image does not distinguish caffeine content."
+      "notes": "Official post explicitly offers regular and decaf coffee; both share the photographed black-coffee appearance. The image does not distinguish caffeine content.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Decaf Coffee",
@@ -33,7 +39,13 @@
       "rendered_sha256": "5c36e5f745126e365467e4054e2a8ef1d5a5bc55baa969a8feb8c5c7da5431a0",
       "crop": null,
       "derivation": null,
-      "notes": "Official post explicitly offers regular and decaf coffee; both share the photographed black-coffee appearance. The image does not distinguish caffeine content."
+      "notes": "Official post explicitly offers regular and decaf coffee; both share the photographed black-coffee appearance. The image does not distinguish caffeine content.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Hot Tea",
@@ -49,7 +61,13 @@
       "rendered_sha256": "be76a63ed46e8c344d4b8c734dc0762e132eff7c8a1439abea50c6cda2ebd461",
       "crop": null,
       "derivation": null,
-      "notes": "Caption and visible tea bag in hot water identify hot tea; specific tea variety is not claimed."
+      "notes": "Caption and visible tea bag in hot water identify hot tea; specific tea variety is not claimed.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 68%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Hot Chocolate",
@@ -65,7 +83,13 @@
       "rendered_sha256": "9d65c6ef5ac55a1ce11967743d6ef099aec2a66bd04e857dfa259098867de3aa",
       "crop": null,
       "derivation": null,
-      "notes": "Official caption plus whipped-cream-topped chocolate drink identifies hot chocolate; toppings are historical presentation."
+      "notes": "Official caption plus whipped-cream-topped chocolate drink identifies hot chocolate; toppings are historical presentation.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Cappuccino",
@@ -95,7 +119,13 @@
         ],
         "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
       },
-      "notes": "Real frame from official cappuccino preparation video; espresso and steamed milk foam visible."
+      "notes": "Real frame from official cappuccino preparation video; espresso and steamed milk foam visible.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Orange Juice",
@@ -111,7 +141,13 @@
       "rendered_sha256": "b8cb843848f50340c85aafd38a333fb02033269ec0f0e5a2f5495e37f64c8e82",
       "crop": null,
       "derivation": null,
-      "notes": "Customer caption and opaque orange liquid support orange juice; glass size is illustrative."
+      "notes": "Customer caption and opaque orange liquid support orange juice; glass size is illustrative.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Strawberry Milkshakes",
@@ -141,7 +177,13 @@
         ],
         "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
       },
-      "notes": "Pink shake with strawberry syrup, fresh strawberries and whipped cream; customer comment names strawberry. Crop removes the face; hand and straw remain."
+      "notes": "Pink shake with strawberry syrup, fresh strawberries and whipped cream; customer comment names strawberry. Crop removes the face; hand and straw remain.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 30%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "One Egg Breakfast",
@@ -157,7 +199,13 @@
       "rendered_sha256": "292efe2d20cd33a8077e7356d176be11892fa222042a51bd92a31a2c35892dbb",
       "crop": null,
       "derivation": null,
-      "notes": "Exact one-egg breakfast caption. The kids row shares the dish illustration; photographed bacon/potato sides are historical and are not a portion promise."
+      "notes": "Exact one-egg breakfast caption. The kids row shares the dish illustration; photographed bacon/potato sides are historical and are not a portion promise.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": -90
+      }
     },
     {
       "item": "Two Egg Breakfast",
@@ -173,7 +221,13 @@
       "rendered_sha256": "feae1bffff276cbe32c995f9e042902ee953d974262604fdc0a3d7d28c874150",
       "crop": null,
       "derivation": null,
-      "notes": "Exact two-eggs caption and two fried eggs with home fries visible."
+      "notes": "Exact two-eggs caption and two fried eggs with home fries visible.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": -90
+      }
     },
     {
       "item": "Corned Beef Hash and Eggs",
@@ -189,7 +243,13 @@
       "rendered_sha256": "6fabf25a6a4f18cdb4818bb7e03228764d638e93fbed23433c99e8f2c47b0b4e",
       "crop": null,
       "derivation": null,
-      "notes": "Caption and visible two fried eggs over corned beef hash; no Benedict muffin or hollandaise."
+      "notes": "Caption and visible two fried eggs over corned beef hash; no Benedict muffin or hollandaise.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Chipped Beef Platter",
@@ -205,7 +265,13 @@
       "rendered_sha256": "96e08202969527f15bc693e94cacafa4dec5f1810ec576f420134bb26e274413",
       "crop": null,
       "derivation": null,
-      "notes": "Creamed chopped beef over toast with browned potatoes and onions; exact caption."
+      "notes": "Creamed chopped beef over toast with browned potatoes and onions; exact caption.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Avocado Toast",
@@ -222,7 +288,13 @@
       "rendered_sha256": "0391c8cc56d12589d6852f9278cec4f83a51de0d2f02e10764fd695f5013c26b",
       "crop": null,
       "derivation": null,
-      "notes": "Mashed avocado on two toast slices, one egg-topped and one tomato/onion-topped; official post supports avocado toast with photographed topping variations."
+      "notes": "Mashed avocado on two toast slices, one egg-topped and one tomato/onion-topped; official post supports avocado toast with photographed topping variations.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Steak and Eggs",
@@ -238,7 +310,13 @@
       "rendered_sha256": "453d5453073f06c256b79b329a60789d4b4e570bf38c9ba76f42e637880e2966",
       "crop": null,
       "derivation": null,
-      "notes": "Caption plus intact steak and two fried eggs; this does not establish a separate steak-entree cut/weight."
+      "notes": "Caption plus intact steak and two fried eggs; this does not establish a separate steak-entree cut/weight.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Virginia Ham Steak",
@@ -254,7 +332,13 @@
       "rendered_sha256": "4860e4dd9d488c97490d08327c42c70e88f1084d7ddac54e4b492de4a6ab7a01",
       "crop": null,
       "derivation": null,
-      "notes": "Thick griddled ham steak below fried eggs, supported by ham-specific customer caption."
+      "notes": "Thick griddled ham steak below fried eggs, supported by ham-specific customer caption.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 70%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Create your own Omelette",
@@ -270,7 +354,13 @@
       "rendered_sha256": "0e40df8eb22fcccd028e76d4b5b9c45b8dfe0747f1feb146bcdb229027ab0979",
       "crop": null,
       "derivation": null,
-      "notes": "Customer identifies a custom vegetable omelette; visible peppers, tomato and onion. This is one available customization, not every filling."
+      "notes": "Customer identifies a custom vegetable omelette; visible peppers, tomato and onion. This is one available customization, not every filling.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Garden Omelette",
@@ -286,7 +376,13 @@
       "rendered_sha256": "ff3c8c6148f1d5ddbc322ecba9091cb9ee87ff02343aacfbaf966e32f616ad47",
       "crop": null,
       "derivation": null,
-      "notes": "Exact DoorDash item detail; visible tomato, peppers, onion and mushrooms. Public item response had shouldDisplayAiDisclaimer=false. Mushroom variation retained."
+      "notes": "Exact DoorDash item detail; visible tomato, peppers, onion and mushrooms. Public item response had shouldDisplayAiDisclaimer=false. Mushroom variation retained.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Greek Omelette",
@@ -302,7 +398,13 @@
       "rendered_sha256": "4037a216e161456925b454ebc4469a2f4b5386238f212921953db93bba3d28c8",
       "crop": null,
       "derivation": null,
-      "notes": "Exact caption and visible feta, tomato and omelette preparation."
+      "notes": "Exact caption and visible feta, tomato and omelette preparation.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Italian Omelette",
@@ -318,7 +420,13 @@
       "rendered_sha256": "68fb945c9b3a5eaf0020335347163cdc6da7b6ce4fdfd9a7db69e9ea044cbba0",
       "crop": null,
       "derivation": null,
-      "notes": "Official Italian omelette caption; mozzarella and vegetables visible. Historical vegetable mix differs from current text but dish identity is supported."
+      "notes": "Official Italian omelette caption; mozzarella and vegetables visible. Historical vegetable mix differs from current text but dish identity is supported.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Meat Lovers Omelette",
@@ -334,7 +442,13 @@
       "rendered_sha256": "524ecb2da55b6ea0ffb2152d535c117cc5a7e3fb1a5840ea0016265785981caa",
       "crop": null,
       "derivation": null,
-      "notes": "Three-meat caption and visible ham plus browned bacon/sausage pieces support Meat Lovers. Alternative: customer-created three-meat omelette."
+      "notes": "Three-meat caption and visible ham plus browned bacon/sausage pieces support Meat Lovers. Alternative: customer-created three-meat omelette.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": -90
+      }
     },
     {
       "item": "Spanish Omelette",
@@ -350,7 +464,13 @@
       "rendered_sha256": "870a9684aa932d1e207c4d18d30e63d9dbb33d1373b76255024869cea522d3b6",
       "crop": null,
       "derivation": null,
-      "notes": "Exact Spanish omelette caption and tomato/pepper/onion sauce. Current Toast description appears inconsistent; retain the source-labelled historical preparation rather than claiming identical ingredients."
+      "notes": "Exact Spanish omelette caption and tomato/pepper/onion sauce. Current Toast description appears inconsistent; retain the source-labelled historical preparation rather than claiming identical ingredients.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Western Omelette",
@@ -366,7 +486,13 @@
       "rendered_sha256": "14b877c20e902244f880397f03877b92e1755988fe1105dcc38c301b57852a4a",
       "crop": null,
       "derivation": null,
-      "notes": "Exact customer caption, visually consistent omelette with ham/vegetable filling."
+      "notes": "Exact customer caption, visually consistent omelette with ham/vegetable filling.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Pancakes (3)",
@@ -382,7 +508,13 @@
       "rendered_sha256": "f2f37eca0c681344d9caf8161ad2c264d03ea665b0eb766809aa92fd235e0fee",
       "crop": null,
       "derivation": null,
-      "notes": "Caption Pancakes; plain pancakes visible. Portion quantity is not verified; current three-piece serving not guaranteed by this photo."
+      "notes": "Caption Pancakes; plain pancakes visible. Portion quantity is not verified; current three-piece serving not guaranteed by this photo.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Belgian Waffle",
@@ -398,7 +530,13 @@
       "rendered_sha256": "505ab348f1f5d067f744e1a652b2403bcc931df5a0adef9d277d68f3c3edb6f9",
       "crop": null,
       "derivation": null,
-      "notes": "Plain four-quadrant Belgian waffle. Kids row uses the same dish illustration; size/portion is not inferred."
+      "notes": "Plain four-quadrant Belgian waffle. Kids row uses the same dish illustration; size/portion is not inferred.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Blueberry Pancakes (3)",
@@ -414,7 +552,13 @@
       "rendered_sha256": "6cc4ce24f9082b12741ec3e89bda5400946465de5a562c91efb75823ea1f8292",
       "crop": null,
       "derivation": null,
-      "notes": "Three pancakes with berries visible in edges; exact blueberry caption."
+      "notes": "Three pancakes with berries visible in edges; exact blueberry caption.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Challah Bread French Toast",
@@ -430,7 +574,13 @@
       "rendered_sha256": "0defa3e1e606755a0103ac190275ee8f01fcbefe64db49b2927f598d69d02aab",
       "crop": null,
       "derivation": null,
-      "notes": "Very thick golden French-toast pieces and powdered sugar support challah-style French toast. Alternative thick white bread considered; caption only says French toast."
+      "notes": "Very thick golden French-toast pieces and powdered sugar support challah-style French toast. Alternative thick white bread considered; caption only says French toast.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Elvis Stack",
@@ -460,7 +610,13 @@
         ],
         "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
       },
-      "notes": "Official Elvis Stack preparation video shows peanut-butter chips, banana, bacon and finished pancakes; real frame at 115 seconds."
+      "notes": "Official Elvis Stack preparation video shows peanut-butter chips, banana, bacon and finished pancakes; real frame at 115 seconds.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "French Toast Bites",
@@ -476,7 +632,13 @@
       "rendered_sha256": "b983ac4f4e1bdd8cef6a451f3255e8f6329bc8d3b6b09d898bae0ab2e51d5783",
       "crop": null,
       "derivation": null,
-      "notes": "Exact caption and bite-size pieces; pictured with fruit/cream toppings."
+      "notes": "Exact caption and bite-size pieces; pictured with fruit/cream toppings.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Monte Cristo",
@@ -492,7 +654,13 @@
       "rendered_sha256": "321a303e0cd7d7654ba80705d2d88d54de2d6b2ad3fb07d27a5030d7fd49c159",
       "crop": null,
       "derivation": null,
-      "notes": "Official caption and thick French toast enclosing turkey, ham and melted Swiss."
+      "notes": "Official caption and thick French toast enclosing turkey, ham and melted Swiss.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Short Stack (2)",
@@ -508,7 +676,13 @@
       "rendered_sha256": "f2f37eca0c681344d9caf8161ad2c264d03ea665b0eb766809aa92fd235e0fee",
       "crop": null,
       "derivation": null,
-      "notes": "Plain pancakes are the same preparation as the existing Pancakes (3) image. Photo illustrates food appearance; photographed quantity is not the one/two-pancake portion."
+      "notes": "Plain pancakes are the same preparation as the existing Pancakes (3) image. Photo illustrates food appearance; photographed quantity is not the one/two-pancake portion.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Hungry man Special",
@@ -524,7 +698,13 @@
       "rendered_sha256": "a951fd6be127744310ad2c1514df196301c8caea4999882307fd911368e8b859",
       "crop": null,
       "derivation": null,
-      "notes": "Exact caption and breakfast components. Multiple plates on group table; do not promise every visible pancake plate is one order."
+      "notes": "Exact caption and breakfast components. Multiple plates on group table; do not promise every visible pancake plate is one order.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Belgian Waffle W Straw&Whip",
@@ -540,7 +720,13 @@
       "rendered_sha256": "20823f8cb81b1afd999b28cfd56dd43dcf7391175e97a399c380442eeb9062aa",
       "crop": null,
       "derivation": null,
-      "notes": "Official website photo shows exact named combination: Belgian waffle, strawberries and whipped cream. No baked-in label, so visual match is likely."
+      "notes": "Official website photo shows exact named combination: Belgian waffle, strawberries and whipped cream. No baked-in label, so visual match is likely.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Pancake (1)",
@@ -556,7 +742,13 @@
       "rendered_sha256": "f2f37eca0c681344d9caf8161ad2c264d03ea665b0eb766809aa92fd235e0fee",
       "crop": null,
       "derivation": null,
-      "notes": "Plain pancakes are the same preparation as the existing Pancakes (3) image. Photo illustrates food appearance; photographed quantity is not the one/two-pancake portion."
+      "notes": "Plain pancakes are the same preparation as the existing Pancakes (3) image. Photo illustrates food appearance; photographed quantity is not the one/two-pancake portion.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Fruit Cup",
@@ -586,7 +778,13 @@
         ],
         "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
       },
-      "notes": "Previously reviewed mixed-fruit cup beside Italian omelette; fruit salad shares the same fruit preparation, with portion caveat."
+      "notes": "Previously reviewed mixed-fruit cup beside Italian omelette; fruit salad shares the same fruit preparation, with portion caveat.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 20%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Grits (Bowl)",
@@ -602,7 +800,13 @@
       "rendered_sha256": "abf9487046fd3ea2b43513f2055cea8f5759937fe58b626e093652c632635b0d",
       "crop": null,
       "derivation": null,
-      "notes": "White coarse grits with butter and pepper in full bowl; exact customer caption."
+      "notes": "White coarse grits with butter and pepper in full bowl; exact customer caption.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Side Bacon",
@@ -618,7 +822,13 @@
       "rendered_sha256": "87e4a4f941f9a45f866135a6aa3769a0c7e8e8bb372a59cb6a2d670247d1aa90",
       "crop": null,
       "derivation": null,
-      "notes": "Exact side-of-bacon caption and visible pork bacon."
+      "notes": "Exact side-of-bacon caption and visible pork bacon.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Side Corn Beef Hash",
@@ -648,7 +858,13 @@
         ],
         "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
       },
-      "notes": "Previously reviewed browned corned-beef hash on upper plate; caption confirms."
+      "notes": "Previously reviewed browned corned-beef hash on upper plate; caption confirms.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Side Creamed Chipped Beef",
@@ -664,7 +880,13 @@
       "rendered_sha256": "2fedc0b8e13010eda15605695b9e458de08444ac32af50acdbe1e39397c5a99c",
       "crop": null,
       "derivation": null,
-      "notes": "Caption and bowl of creamed chipped beef without bread establish the side."
+      "notes": "Caption and bowl of creamed chipped beef without bread establish the side.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Side Home Fries",
@@ -694,7 +916,13 @@
         ],
         "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
       },
-      "notes": "Previously reviewed side plate of browned diced potatoes; exact home-fries caption."
+      "notes": "Previously reviewed side plate of browned diced potatoes; exact home-fries caption.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Side Scrapple",
@@ -724,7 +952,13 @@
         ],
         "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
       },
-      "notes": "Two dark rectangular scrapple slices; caption and characteristic shape/texture support identification."
+      "notes": "Two dark rectangular scrapple slices; caption and characteristic shape/texture support identification.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Side Turkey Sausage",
@@ -754,7 +988,13 @@
         ],
         "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
       },
-      "notes": "Pale turkey-sausage patties on breakfast plate; caption explicitly names turkey sausage."
+      "notes": "Pale turkey-sausage patties on breakfast plate; caption explicitly names turkey sausage.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Side Apple Sauce",
@@ -785,7 +1025,13 @@
         ],
         "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
       },
-      "notes": "Lower-left bowl of applesauce in captioned chipped-beef-and-applesauce photo."
+      "notes": "Lower-left bowl of applesauce in captioned chipped-beef-and-applesauce photo.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Traditional Eggs Benedict",
@@ -801,7 +1047,13 @@
       "rendered_sha256": "4bebb140d03002f12854eef1366c802b6c18a4008ed0a980d7a0f2532434f7a7",
       "crop": null,
       "derivation": null,
-      "notes": "Popular menu-card name plus photo caption and visible ham, eggs, muffin and hollandaise."
+      "notes": "Popular menu-card name plus photo caption and visible ham, eggs, muffin and hollandaise.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Crab Benedict",
@@ -817,7 +1069,13 @@
       "rendered_sha256": "11432620d1ecdd10fac37e926c2f163af4e06227ce37b05353b9465e733d593c",
       "crop": null,
       "derivation": null,
-      "notes": "Exact Crab Eggs Benedict caption, poached eggs and white crab pieces under hollandaise. Toast description appears shifted to turkey/avocado; photo follows the named dish and observed ingredients."
+      "notes": "Exact Crab Eggs Benedict caption, poached eggs and white crab pieces under hollandaise. Toast description appears shifted to turkey/avocado; photo follows the named dish and observed ingredients.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Spinach Florentine Benedict",
@@ -833,7 +1091,13 @@
       "rendered_sha256": "260e37cec0e7852a408a0f916695857d7b92fd5615253c555ef2d74ecb7d054e",
       "crop": null,
       "derivation": null,
-      "notes": "Exact Florentine caption and spinach beneath poached eggs/hollandaise. Toast description mentions sausage, apparently a shifted description; photo follows the named dish."
+      "notes": "Exact Florentine caption and spinach beneath poached eggs/hollandaise. Toast description mentions sausage, apparently a shifted description; photo follows the named dish.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Breakfast Burrito",
@@ -849,7 +1113,13 @@
       "rendered_sha256": "5f09ba5bc86008d5dda5ff62eb20f64f05d7c89abde8eda826fdbdcc24fda2b1",
       "crop": null,
       "derivation": null,
-      "notes": "Official caption; cut burrito shows scrambled egg, cheese, vegetables and browned meat with home fries."
+      "notes": "Official caption; cut burrito shows scrambled egg, cheese, vegetables and browned meat with home fries.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Sausage Egg & Cheese",
@@ -865,7 +1135,13 @@
       "rendered_sha256": "84e9efb12d50813c646705ec06178fc5c84306aecdf48e8fcb7d7790b0cb2cc1",
       "crop": null,
       "derivation": null,
-      "notes": "Exact caption and visible sausage, fried egg and yellow cheese; tomato is a photographed customization."
+      "notes": "Exact caption and visible sausage, fried egg and yellow cheese; tomato is a photographed customization.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Toast (2)",
@@ -895,7 +1171,13 @@
         ],
         "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
       },
-      "notes": "Previously reviewed browned wheat-toast pieces; bread type is one Toast customization."
+      "notes": "Previously reviewed browned wheat-toast pieces; bread type is one Toast customization.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Bagel W lox",
@@ -911,7 +1193,13 @@
       "rendered_sha256": "e7eee1a7a77eeb6ee7921d1e5cf730734d9b1c547072c3ecef8ce3987e772eaf",
       "crop": null,
       "derivation": null,
-      "notes": "Translucent cured salmon slices and toasted bagel; cream-cheese serving is not clearly visible, so cream-cheese variant is not selected."
+      "notes": "Translucent cured salmon slices and toasted bagel; cream-cheese serving is not clearly visible, so cream-cheese variant is not selected.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Crab Dip",
@@ -941,7 +1229,13 @@
         ],
         "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
       },
-      "notes": "Official crab-dip reel; real frame shows baked cheesy crab dip bowl with pita."
+      "notes": "Official crab-dip reel; real frame shows baked cheesy crab dip bowl with pita.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Quesadilla",
@@ -957,7 +1251,13 @@
       "rendered_sha256": "70c9f68f032532b9a1ffe1d7d80ab1bd477473a5188efb2631289759847f7436",
       "crop": null,
       "derivation": null,
-      "notes": "Caption Chicken quesadilla; menu Quesadilla description is Chicken."
+      "notes": "Caption Chicken quesadilla; menu Quesadilla description is Chicken.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Sampler Basket",
@@ -973,7 +1273,13 @@
       "rendered_sha256": "aafcb9c5d631bba4f315c45d2049e0a5de151d1c5dcac118ab226467cfe51b0f",
       "crop": null,
       "derivation": null,
-      "notes": "Exact caption and all three menu components visible."
+      "notes": "Exact caption and all three menu components visible.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Spanakopita (8)",
@@ -1003,7 +1309,13 @@
         ],
         "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
       },
-      "notes": "Eight triangular spinach phyllo pastries around tzatziki on left plate of official group photo; separate from large spinach-pie entree."
+      "notes": "Eight triangular spinach phyllo pastries around tzatziki on left plate of official group photo; separate from large spinach-pie entree.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Spinach & Artichoke Dip",
@@ -1019,7 +1331,13 @@
       "rendered_sha256": "9d503b911588bd58d057f0a436cadeb676f074fd5ded7501dae4888a142b4ab3",
       "crop": null,
       "derivation": null,
-      "notes": "Official caption and baked creamy green dip with toasted pita."
+      "notes": "Official caption and baked creamy green dip with toasted pita.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Curly Fries",
@@ -1049,7 +1367,13 @@
         ],
         "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
       },
-      "notes": "Clearly spiral-cut fried potatoes beside grilled cheese; exact curly-fries caption."
+      "notes": "Clearly spiral-cut fried potatoes beside grilled cheese; exact curly-fries caption.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Greek Salad",
@@ -1065,7 +1389,13 @@
       "rendered_sha256": "c37c0adfd0e623d7de9b5bee77442bac45705bf7c5f6ec15aa368cfaff3335a7",
       "crop": null,
       "derivation": null,
-      "notes": "Exact caption and feta, olives, cucumber, tomato and onion visible."
+      "notes": "Exact caption and feta, olives, cucumber, tomato and onion visible.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Southwest Salad",
@@ -1081,7 +1411,13 @@
       "rendered_sha256": "313f60871a69b60759d75fa5743a8fe9dccf8d630f97d2efff699d1e7b30043e",
       "crop": null,
       "derivation": null,
-      "notes": "Official caption and chicken, black beans, corn, tortilla strips and mixed greens."
+      "notes": "Official caption and chicken, black beans, corn, tortilla strips and mixed greens.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Side Greek Salad",
@@ -1097,7 +1433,13 @@
       "rendered_sha256": "c37c0adfd0e623d7de9b5bee77442bac45705bf7c5f6ec15aa368cfaff3335a7",
       "crop": null,
       "derivation": null,
-      "notes": "Same Greek salad preparation as full salad: feta, olives, cucumber, tomato and lettuce. Side size is illustrative."
+      "notes": "Same Greek salad preparation as full salad: feta, olives, cucumber, tomato and lettuce. Side size is illustrative.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Breakfast Burger",
@@ -1127,7 +1469,13 @@
         ],
         "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
       },
-      "notes": "Official breakfast-burger reel; beef patty, fried egg and cheese visible in real frame."
+      "notes": "Official breakfast-burger reel; beef patty, fried egg and cheese visible in real frame.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Brooklyn Burger",
@@ -1143,7 +1491,13 @@
       "rendered_sha256": "a2972b23df194f9a28c3e96fca32807f9322bd5b33628333fdc1ef0f9ab495a2",
       "crop": null,
       "derivation": null,
-      "notes": "Beef patty on bun topped with pastrami, Swiss and sauerkraut matches Brooklyn Burger; distinguishes it from Reuben sandwich."
+      "notes": "Beef patty on bun topped with pastrami, Swiss and sauerkraut matches Brooklyn Burger; distinguishes it from Reuben sandwich.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "California Burger",
@@ -1159,7 +1513,13 @@
       "rendered_sha256": "c7c077ed0af29d3f837972e98a106276c21dabaae930a326966d4d094ccd7b4a",
       "crop": null,
       "derivation": null,
-      "notes": "Caption and review name California burger; avocado and cheese visible."
+      "notes": "Caption and review name California burger; avocado and cheese visible.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Cheeseburger",
@@ -1175,7 +1535,13 @@
       "rendered_sha256": "9abf732b2049ce4ecf0f7305a00c523358222df1d522ac269bad5911b89f28b5",
       "crop": null,
       "derivation": null,
-      "notes": "Official Cheeseburger Deluxe caption, beef patty, yellow cheese, lettuce, tomato and fries."
+      "notes": "Official Cheeseburger Deluxe caption, beef patty, yellow cheese, lettuce, tomato and fries.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Classic Burger Build your Own",
@@ -1191,7 +1557,13 @@
       "rendered_sha256": "41141bd458e59cfe47965d499fc1632e743b9d8b38e6c4b2bd6f22305c31c7ac",
       "crop": null,
       "derivation": null,
-      "notes": "Real official beef burger with bacon and cheese represents one build-your-own customization. It is not used for a named burger requiring unverified toppings."
+      "notes": "Real official beef burger with bacon and cheese represents one build-your-own customization. It is not used for a named burger requiring unverified toppings.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Grilled Cheese",
@@ -1208,7 +1580,13 @@
       "rendered_sha256": "66f375449170b1ca3e4066a4af43fb283e39883676136d1abdacf042af7bb654",
       "crop": null,
       "derivation": null,
-      "notes": "Exact grilled-cheese caption and orange melted cheese between toasted bread. Kids row shares the preparation, not a portion promise."
+      "notes": "Exact grilled-cheese caption and orange melted cheese between toasted bread. Kids row shares the preparation, not a portion promise.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Classic Po' Boy",
@@ -1224,7 +1602,13 @@
       "rendered_sha256": "79a32f7bc0f3995d9cee6f99ec44e899fc3f76ec499c10c3306f2f6e8c241d9e",
       "crop": null,
       "derivation": null,
-      "notes": "Official shrimp Po Boy caption and breaded shrimp, lettuce and sauce on long roll; historical sauce presentation documented."
+      "notes": "Official shrimp Po Boy caption and breaded shrimp, lettuce and sauce on long roll; historical sauce presentation documented.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Philly Cheese Steak Sub",
@@ -1240,7 +1624,13 @@
       "rendered_sha256": "86c6167ddaf4e0ba0e2412ad9ec2d63e439d310bea02a8e84b51bfae7e0cf138",
       "crop": null,
       "derivation": null,
-      "notes": "Caption and visible chopped beef with melted American cheese in split sub roll."
+      "notes": "Caption and visible chopped beef with melted American cheese in split sub roll.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Reuben Sandwich",
@@ -1256,7 +1646,13 @@
       "rendered_sha256": "8cf6add42c4ee9f14e951664002830cdf1cc028da4a3ddfd44c539103c0f5002",
       "crop": null,
       "derivation": null,
-      "notes": "Corned beef, sauerkraut and Swiss on toasted rye; supported by official post."
+      "notes": "Corned beef, sauerkraut and Swiss on toasted rye; supported by official post.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Chicken Salad Club",
@@ -1272,7 +1668,13 @@
       "rendered_sha256": "06fe20af5cd4ea8ca2fd9f5591214c5236a8ed083c140311411f4e45027f8e3a",
       "crop": null,
       "derivation": null,
-      "notes": "Full caption Chicken salad club, triple-decker bread and filling visible; do not map to ordinary Chicken Salad Sandwich."
+      "notes": "Full caption Chicken salad club, triple-decker bread and filling visible; do not map to ordinary Chicken Salad Sandwich.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 55%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Grilled Chicken Breast Club",
@@ -1288,7 +1690,13 @@
       "rendered_sha256": "ea564bc327351391a9c029aa8d7cb5156d6c88a5eee5619c820f64f52073dd3f",
       "crop": null,
       "derivation": null,
-      "notes": "Triple-decker contains thick solid chicken-breast slabs, bacon, lettuce and tomato. Turkey alternative less consistent with grilled slab texture."
+      "notes": "Triple-decker contains thick solid chicken-breast slabs, bacon, lettuce and tomato. Turkey alternative less consistent with grilled slab texture.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Ham & Swiss Club",
@@ -1304,7 +1712,13 @@
       "rendered_sha256": "679be12e3a7e2383197cc2d847382f6a655db5e11f7fa2ef7ef376f0054a5137",
       "crop": null,
       "derivation": null,
-      "notes": "Triple-decker rye bread with thick pink ham and holey Swiss, lettuce and tomato. Other club meats considered less likely."
+      "notes": "Triple-decker rye bread with thick pink ham and holey Swiss, lettuce and tomato. Other club meats considered less likely.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Chicken Breast Sandwich",
@@ -1320,7 +1734,13 @@
       "rendered_sha256": "4d02d2143eb2e0f8ae152a95e6e81974e4551b99b68dbd0f52bb2f2cd9daaad9",
       "crop": null,
       "derivation": null,
-      "notes": "Official grilled-chicken-sandwich caption; Swiss, tomato and coleslaw are historical toppings. Base and Deluxe share the main sandwich; side inclusion differs."
+      "notes": "Official grilled-chicken-sandwich caption; Swiss, tomato and coleslaw are historical toppings. Base and Deluxe share the main sandwich; side inclusion differs.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Chicken Breast Sandwich Delxue",
@@ -1336,7 +1756,13 @@
       "rendered_sha256": "4d02d2143eb2e0f8ae152a95e6e81974e4551b99b68dbd0f52bb2f2cd9daaad9",
       "crop": null,
       "derivation": null,
-      "notes": "Official grilled-chicken-sandwich caption; Swiss, tomato and coleslaw are historical toppings. Base and Deluxe share the main sandwich; side inclusion differs."
+      "notes": "Official grilled-chicken-sandwich caption; Swiss, tomato and coleslaw are historical toppings. Base and Deluxe share the main sandwich; side inclusion differs.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Fried Fillet of Flounder Sub",
@@ -1352,7 +1778,13 @@
       "rendered_sha256": "823e5a0f6c071d78587196017a441d8ff7d4761a27ce35eea82d9920c8494904",
       "crop": null,
       "derivation": null,
-      "notes": "Official flounder-sandwich caption and golden breaded fillet. Historical photo uses a round bun while current name says sub; accurate fish/preparation with bread variation disclosed."
+      "notes": "Official flounder-sandwich caption and golden breaded fillet. Historical photo uses a round bun while current name says sub; accurate fish/preparation with bread variation disclosed.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Broiled Salmon",
@@ -1368,7 +1800,13 @@
       "rendered_sha256": "24b20bc34e0aebbbeae55b50e50673e90d03d76edb9f186e44e79060b48800e0",
       "crop": null,
       "derivation": null,
-      "notes": "Intact browned salmon fillet in lemon butter; broiled appearance, not poached dill-sauce preparation."
+      "notes": "Intact browned salmon fillet in lemon butter; broiled appearance, not poached dill-sauce preparation.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Jumbo Crab Cake (1)",
@@ -1384,7 +1822,13 @@
       "rendered_sha256": "c6ae275e734b529eb46d5aab03d953cb88549639a6adc34617ed8d716fd818f7",
       "crop": null,
       "derivation": null,
-      "notes": "Single broiled crab cake with visible lump crab; exact customer caption."
+      "notes": "Single broiled crab cake with visible lump crab; exact customer caption.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Jumbo Crab Cake (2)",
@@ -1400,7 +1844,13 @@
       "rendered_sha256": "ba215da120e99008a023b20e550df00df95eee8cab8fa8b7f74e3cdf62ca0ab5",
       "crop": null,
       "derivation": null,
-      "notes": "Two intact broiled lump-crab cakes; exact caption and counted serving."
+      "notes": "Two intact broiled lump-crab cakes; exact caption and counted serving.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Penne A la Vodka",
@@ -1430,7 +1880,13 @@
         ],
         "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
       },
-      "notes": "Official Penne Vodka reel; orange tomato-cream sauce on penne. Chicken and broccoli are photographed additions."
+      "notes": "Official Penne Vodka reel; orange tomato-cream sauce on penne. Chicken and broccoli are photographed additions.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Spinach Pie",
@@ -1446,7 +1902,13 @@
       "rendered_sha256": "ae9380597507291d1c5c59201570771203c253b6120197826a3479ce4c0f1ddf",
       "crop": null,
       "derivation": null,
-      "notes": "Caption and large spinach-feta phyllo pie slice. Platter photo includes fries and Greek salad; Spinach Pie uses the same main preparation."
+      "notes": "Caption and large spinach-feta phyllo pie slice. Platter photo includes fries and Greek salad; Spinach Pie uses the same main preparation.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Ziti Ala Brocolli",
@@ -1462,7 +1924,13 @@
       "rendered_sha256": "6cdee3f63a6be5530f79e604507519d441a73bed8d2c1e189cdfac9f02197887",
       "crop": null,
       "derivation": null,
-      "notes": "Official penne-broccoli-with-chicken caption and tubular pasta, broccoli and light creamy sauce support the menu broccoli pasta family. Penne versus ziti and chicken addition documented; Alfredo with chicken is a competing interpretation."
+      "notes": "Official penne-broccoli-with-chicken caption and tubular pasta, broccoli and light creamy sauce support the menu broccoli pasta family. Penne versus ziti and chicken addition documented; Alfredo with chicken is a competing interpretation.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Kids Grilled Cheese",
@@ -1478,7 +1946,13 @@
       "rendered_sha256": "66f375449170b1ca3e4066a4af43fb283e39883676136d1abdacf042af7bb654",
       "crop": null,
       "derivation": null,
-      "notes": "Exact grilled-cheese caption and orange melted cheese between toasted bread. Kids row shares the preparation, not a portion promise."
+      "notes": "Exact grilled-cheese caption and orange melted cheese between toasted bread. Kids row shares the preparation, not a portion promise.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Kids One Egg Breakfast",
@@ -1494,7 +1968,13 @@
       "rendered_sha256": "292efe2d20cd33a8077e7356d176be11892fa222042a51bd92a31a2c35892dbb",
       "crop": null,
       "derivation": null,
-      "notes": "Exact one-egg breakfast caption. The kids row shares the dish illustration; photographed bacon/potato sides are historical and are not a portion promise."
+      "notes": "Exact one-egg breakfast caption. The kids row shares the dish illustration; photographed bacon/potato sides are historical and are not a portion promise.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": -90
+      }
     },
     {
       "item": "Kids Pancake (1)",
@@ -1510,7 +1990,13 @@
       "rendered_sha256": "f2f37eca0c681344d9caf8161ad2c264d03ea665b0eb766809aa92fd235e0fee",
       "crop": null,
       "derivation": null,
-      "notes": "Plain pancakes are the same preparation as the existing Pancakes (3) image. Photo illustrates food appearance; photographed quantity is not the one/two-pancake portion."
+      "notes": "Plain pancakes are the same preparation as the existing Pancakes (3) image. Photo illustrates food appearance; photographed quantity is not the one/two-pancake portion.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Kids Waffle",
@@ -1526,7 +2012,13 @@
       "rendered_sha256": "505ab348f1f5d067f744e1a652b2403bcc931df5a0adef9d277d68f3c3edb6f9",
       "crop": null,
       "derivation": null,
-      "notes": "Plain four-quadrant Belgian waffle. Kids row uses the same dish illustration; size/portion is not inferred."
+      "notes": "Plain four-quadrant Belgian waffle. Kids row uses the same dish illustration; size/portion is not inferred.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Gyro Platter",
@@ -1542,7 +2034,13 @@
       "rendered_sha256": "d666d7ba6df48c9eacfbe91356e7ba568014118fffbf196365ff3520580e8089",
       "crop": null,
       "derivation": null,
-      "notes": "Gyro meat in pita with tzatziki, tomato, fries and Greek salad. Current menu only promises mini Greek salad; historical fries are not a new inclusion."
+      "notes": "Gyro meat in pita with tzatziki, tomato, fries and Greek salad. Current menu only promises mini Greek salad; historical fries are not a new inclusion.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Chicken Souvlaki",
@@ -1558,7 +2056,13 @@
       "rendered_sha256": "df12e54462edadff3efd567e12d4074d7741ee510e12ed36b6992d229601fd64",
       "crop": null,
       "derivation": null,
-      "notes": "Official caption and browned chicken chunks in pita with tomato and tzatziki."
+      "notes": "Official caption and browned chicken chunks in pita with tomato and tzatziki.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Spanakopita Platter",
@@ -1574,7 +2078,13 @@
       "rendered_sha256": "ae9380597507291d1c5c59201570771203c253b6120197826a3479ce4c0f1ddf",
       "crop": null,
       "derivation": null,
-      "notes": "Caption and large spinach-feta phyllo pie slice. Platter photo includes fries and Greek salad; Spinach Pie uses the same main preparation."
+      "notes": "Caption and large spinach-feta phyllo pie slice. Platter photo includes fries and Greek salad; Spinach Pie uses the same main preparation.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Chocolate Mousse",
@@ -1590,7 +2100,13 @@
       "rendered_sha256": "888dd9654996b77b2ea4a9a610654310c2ce8a374381f431ce679f2e5a3a4e4c",
       "crop": null,
       "derivation": null,
-      "notes": "Dark chocolate sponge and pale chocolate mousse layers with glaze. Whole-cake row uses an interior slice illustration, not the whole ordered size."
+      "notes": "Dark chocolate sponge and pale chocolate mousse layers with glaze. Whole-cake row uses an interior slice illustration, not the whole ordered size.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 65%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Oero Cheesecake",
@@ -1606,7 +2122,13 @@
       "rendered_sha256": "0753f122c1e9fca43f4f8d6a859dfb8071f7cd64f48475246f43036452dda906",
       "crop": null,
       "derivation": null,
-      "notes": "Official Oreo cheesecake slice with cookie pieces, dark crust and cream garnish. Menu spelling Oero preserved."
+      "notes": "Official Oreo cheesecake slice with cookie pieces, dark crust and cream garnish. Menu spelling Oero preserved.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 100%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Strawberry Shortcake",
@@ -1636,7 +2158,13 @@
         ],
         "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
       },
-      "notes": "Official labelled Strawberry Shortcake real frame. Whole-cake row uses a slice to illustrate the interior, not a whole-size serving."
+      "notes": "Official labelled Strawberry Shortcake real frame. Whole-cake row uses a slice to illustrate the interior, not a whole-size serving.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 65%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Fresh Fruit Salad",
@@ -1666,7 +2194,13 @@
         ],
         "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
       },
-      "notes": "Previously reviewed mixed-fruit cup beside Italian omelette; fruit salad shares the same fruit preparation, with portion caveat."
+      "notes": "Previously reviewed mixed-fruit cup beside Italian omelette; fruit salad shares the same fruit preparation, with portion caveat.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 20%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Rice Pudding",
@@ -1682,7 +2216,13 @@
       "rendered_sha256": "e7e241867f9063d0da38b466bbaa228921deddc2933a33c0c71c4d2ffc443445",
       "crop": null,
       "derivation": null,
-      "notes": "Visible rice-like grains in pale pudding with cinnamon and cream; ice cream is less likely because no rounded scoops and grain texture visible."
+      "notes": "Visible rice-like grains in pale pudding with cinnamon and cream; ice cream is less likely because no rounded scoops and grain texture visible.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Boston Cream Slice",
@@ -1698,7 +2238,13 @@
       "rendered_sha256": "e763eee0acf7a751d44b1f0e886d7fc9e1fc6f9a721a77bbccac88e473e18b2c",
       "crop": null,
       "derivation": null,
-      "notes": "Caption Boston Cream; visible yellow custard and chocolate topping. Disturbed/partly eaten, documentary quality only."
+      "notes": "Caption Boston Cream; visible yellow custard and chocolate topping. Disturbed/partly eaten, documentary quality only.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Cherry Pie Slice",
@@ -1728,7 +2274,13 @@
         ],
         "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
       },
-      "notes": "Official real pie-counter frame with cherry garnish, corroborated by downloaded cherry-pie slicing reel. Slice uses whole-pie appearance; generic Whole Pie illustrates the cherry option."
+      "notes": "Official real pie-counter frame with cherry garnish, corroborated by downloaded cherry-pie slicing reel. Slice uses whole-pie appearance; generic Whole Pie illustrates the cherry option.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Lemon Meringue Slice",
@@ -1744,7 +2296,13 @@
       "rendered_sha256": "1cea7cd8654de26a327ced226811923dfe031725cc2d757d2aeba29a28692a75",
       "crop": null,
       "derivation": null,
-      "notes": "Yellow lemon custard and tall browned meringue on crust; caption tentative but visible construction is distinctive. Bite missing is retained honestly."
+      "notes": "Yellow lemon custard and tall browned meringue on crust; caption tentative but visible construction is distinctive. Bite missing is retained honestly.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Pumpkin Pie Slice",
@@ -1760,7 +2318,13 @@
       "rendered_sha256": "20932f5d514993be4227426b523db8a95d911325a1fffc6acc130c6956fb7dad",
       "crop": null,
       "derivation": null,
-      "notes": "Official pumpkin-pie caption and smooth orange-brown custard slice."
+      "notes": "Official pumpkin-pie caption and smooth orange-brown custard slice.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Chocolate Mousse",
@@ -1776,7 +2340,13 @@
       "rendered_sha256": "888dd9654996b77b2ea4a9a610654310c2ce8a374381f431ce679f2e5a3a4e4c",
       "crop": null,
       "derivation": null,
-      "notes": "Dark chocolate sponge and pale chocolate mousse layers with glaze. Whole-cake row uses an interior slice illustration, not the whole ordered size."
+      "notes": "Dark chocolate sponge and pale chocolate mousse layers with glaze. Whole-cake row uses an interior slice illustration, not the whole ordered size.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 65%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Oreo Cheesecake",
@@ -1792,7 +2362,13 @@
       "rendered_sha256": "3c7d36095091854898576bf0d2e7a42dba3000efe4032b3c2e0a10dea26edc55",
       "crop": null,
       "derivation": null,
-      "notes": "Whole Oreo-decorated cheesecake in official carousel; original collection label said slice but visual review confirms whole cake."
+      "notes": "Whole Oreo-decorated cheesecake in official carousel; original collection label said slice but visual review confirms whole cake.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Strawberry Shortcake",
@@ -1822,7 +2398,13 @@
         ],
         "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
       },
-      "notes": "Official labelled Strawberry Shortcake real frame. Whole-cake row uses a slice to illustrate the interior, not a whole-size serving."
+      "notes": "Official labelled Strawberry Shortcake real frame. Whole-cake row uses a slice to illustrate the interior, not a whole-size serving.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 65%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Whole Pie",
@@ -1852,7 +2434,13 @@
         ],
         "method": "ffmpeg real frame and/or exact rectangular crop; no generated content or retouching"
       },
-      "notes": "Official real pie-counter frame with cherry garnish, corroborated by downloaded cherry-pie slicing reel. Slice uses whole-pie appearance; generic Whole Pie illustrates the cherry option."
+      "notes": "Official real pie-counter frame with cherry garnish, corroborated by downloaded cherry-pie slicing reel. Slice uses whole-pie appearance; generic Whole Pie illustrates the cherry option.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 50%",
+        "rotation_degrees": 0
+      }
     },
     {
       "item": "Ice Cream Sundae",
@@ -1868,7 +2456,14 @@
       "rendered_sha256": "6a55292de738ce2ebdcdcf4bf739b478147ce3dfca1e0a7fe274f7911927d187",
       "crop": null,
       "derivation": null,
-      "notes": "Vanilla ice cream in sundae glass with chocolate sauce, whipped cream and cherries; exact sundae presentation."
+      "notes": "Vanilla ice cream in sundae glass with chocolate sauce, whipped cream and cherries; exact sundae presentation.",
+      "presentation": {
+        "frame": "4:3 landscape; responsive left column",
+        "fit": "cover",
+        "position": "50% 25%",
+        "rotation_degrees": 0
+      }
     }
-  ]
+  ],
+  "presentation_note": "Owner requested natural consistent photo sizing/orientation, images left of names and aligned right-hand prices. Original image bytes preserved; layout framing and four overhead plate rotations only."
 }

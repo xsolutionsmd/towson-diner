@@ -1,33 +1,35 @@
 # Handoff
 
-## Current update ? October 18, 2026
+## Photo framing correction
 
-Derek requested a photo for every menu item wherever a usable actual business photo exists, then clarified that confident visual/contextual associations are welcome without exact captions. Record inferred matches as likely, with their supporting clues; leave genuinely ambiguous cases unmatched. The first bounded collection is not evidence that other photos do not exist.
+Derek requested natural image orientation/sizing and photos to the left of food names so prices align. The current correction uses consistent 4:3 frames (156x117 desktop,104x78 mobile,88x66 narrow mobile), fixed left photo placement, selected overhead plate rotations and targeted dessert/drink focal positions. Original photo bytes and all102 mappings remain unchanged. This correction supersedes the prior sizing; final runtime/review receipts identify the corrected live revision.
 
-Derek accepted the current number of matches and explicitly stopped further research. The saved collection has 99 matched products covering 102 of the 432 rendered rows (423 distinct products). Integrate this accepted set, preserving honest confidence and the remaining photo gaps; do not restart collection or repeat completed checks. Detailed source evidence and receipts remain private.
+## Current state ? October 18, 2026
 
-## Published preview and branch boundary
+[Derek preview](https://d-towsondiner.xsolutionsmd.com/menu/) is published at `970042805ad3cea2c572bc220ec270ce4c0a81c8`. The accepted Derek-only variation shows real business photos for 99 matched products across 102 of the 432 rendered menu rows (423 distinct products). All menu entries remain available. Derek accepted the current collection and explicitly stopped research; 324 distinct products / 330 rendered rows remain without selected photos. This is a coverage limit, not evidence that no other photos exist.
 
-[Derek preview](https://d-towsondiner.xsolutionsmd.com/menu/) is currently published at `f3068c0af01e30ab058395f2074720780bda7382`: 13 authentic dish photos on 14 rows. Its application CI and release workflow succeeded; exact live version and loaded images were verified. This update adds the accepted 102 photo placements and the verified F1 wrapping fix; its exact release result is recorded in the private scoped-update receipt.
+Derek permits confident visual/contextual matches without exact captions. Public [photo provenance](menu-photo-provenance.json) preserves item IDs, source hashes/URLs, crops and confidence, including 36 likely matches. Historical preparation, customization and portion aliases illustrate the documented food; do not infer current stock, identical toppings or serving-size guarantees. Standing owner permission covers the gathered business assets without per-file approval.
 
-[Production](https://towsondiner.xsolutionsmd.com) and [Abdul preview](https://a-towsondiner.xsolutionsmd.com) remain at `b5cbe4abde152e4a820253e8630853f4c556d761`, with text-only item menus. Their latest scoped preservation receipt confirmed HTTP 200, exact revisions and unchanged menu bytes. Do not merge or synchronize the deliberate Derek-only photo variation into either branch. Source: https://github.com/xsolutionsmd/towson-diner.
+## Accepted review and release
 
-## Accepted baseline and current review
+Application CI and Oracle release succeeded for `970042805ad3cea2c572bc220ec270ce4c0a81c8`. The independent compact live review passed all four scoped cases with no findings: exact live revision; desktop 1440x900 breakfast photo rows; mobile 390x844 Quesadilla search; and the prior F1 price-wrapping case at 320x740 with 32px root text. ?See online options? wraps across three lines with zero text overhang; document width stays 320px. The contact sheet and saved evidence were compared across all 99 product mappings / 102 IDs without a concrete wrong-dish finding.
 
-The normal four-page landing build, infrastructure, independent review/corrections and final delivery are complete and accepted. It preserves the full sourced menu, real company imagery and external Toast ordering, inquiry, phone and Maps destinations. No custom checkout/payment platform or customer transaction was added.
+Completed evidence was reused without repeating regression sweeps: all 432 source tuples and navigation/search/order checks; current 116-file application check; all 102 photo decodes and mobile crab search (seven rows / four photos); all 152 original hashes. The coordinator accepted review, no-change fixes, recheck and deployment at the same application revision. Detailed checks and receipts remain private. These subsequent documentation changes preserve the exact reviewed application, runtime and release inputs; no new application release is needed.
 
-The first photo review passed 18/19 cases at f3068c0: all 432 menu tuples, 14 photo placements and 13 dish identities/crops passed. F1 identified fallback-price text extending 17.54px into row padding at 320px with 200% root text. Astra corrected wrapping locally and verified every menu name/price text range stays inside its row. New photo scope requires publication and a fresh independent review; the prior review is retained as historical evidence.
+## Branch boundary
 
-Photos use optimized local WebP files and accurate framing; public [photo provenance](menu-photo-provenance.json) records source URLs/hashes, exact item IDs, confidence and crops. Standing permission covers the gathered business assets. Do not request per-photo permission or require an exact caption for a well-supported visual match.
+[Production](https://towsondiner.xsolutionsmd.com) and [Abdul preview](https://a-towsondiner.xsolutionsmd.com) retain text-only item menus at `b5cbe4abde152e4a820253e8630853f4c556d761`. Their prior scoped preservation receipt confirmed HTTP 200, exact revisions and unchanged menu bytes; no new sweep or change was made during final photo checking. Do not merge or synchronize the deliberate Derek-only photo variation into either branch. Source: https://github.com/xsolutionsmd/towson-diner.
 
-## Next action
+The normal four-page build, infrastructure, independent review/corrections and delivery are complete and accepted. The complete sourced menu, authentic company imagery and existing Toast ordering, inquiry, phone and Maps destinations remain. No custom checkout/payment platform or customer transaction was added.
 
-Integrate the already matched photos, run focused desktop/mobile checks, and publish only derek-dev through existing CI. Reuse completed regression checks; one compact Sol check covers new associations/crops and the corrected F1 spot. Complete the scoped update's required verification, changed media package delivery and final URL message, reusing unchanged URL-directory entries and prior receipts. The old batch-dispatcher message/grant loop is retired; no routine coordination messages or shared recovery changes are needed.
+## Delivery and next action
+
+The updated 152-asset media package and final Derek-preview message are being delivered to the established Slack thread; private delivery receipts retain the verified links. Final delivery acceptance belongs to the coordinator. The URL directory already has all three correct Towson URLs and was visibly read back during this update; preserve other businesses and existing links. Further collection or a production promotion requires its own authorized task. The retired batch-dispatcher/grant loop must not resume.
 
 ## Factual and tooling limits
 
-Exact dining hours conflict: retain seven-days/call-for-hours copy. Attribute restaurant-published history; do not infer current ownership, stock, recipe/portion guarantees or a sale. No Stitch. REA did not run; accepted browser/devtools evidence was used. Claude's actual rate-limit failure led to the stopped-task Astra refinement fallback. Browser evidence uses Chromium viewport simulation and root-font enlargement, not physical-phone/Safari/native-touch coverage.
+Exact dining hours conflict: retain seven-days/call-for-hours copy. Attribute restaurant-published history; do not infer current ownership or a sale. No Stitch. REA did not run; accepted browser/devtools evidence was used. Claude's actual rate-limit failure led to the stopped-task Astra refinement fallback. Browser evidence uses Chromium viewport simulation and root-font enlargement, not physical-phone/Safari/native-touch coverage. External checkout/payment/inquiry internals were not exercised.
 
 ## Retention
 
-Keep the existing originals, provenance, required review evidence and current delivered package. The separate photo checkout and its local build output are actively needed for this update; reconcile/recycle disposable output after final verification. Preserve managed current/history server images under established retention. No global prune, unrelated cleanup, gateway replacement or host recovery is part of this update.
+Retain the original library, provenance, required review evidence and current media package as delivery/recovery resources. The canonical source and separate photo checkout remain active for final handoff; recheck disposable checkout/build output after coordinator acceptance. No local server or Docker environment was spawned by this final task; the coordinator stopped its Vite process. Preserve managed current/history server images under existing retention. No broad deletion or unrelated cleanup was performed.

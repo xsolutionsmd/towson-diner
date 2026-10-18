@@ -67,7 +67,9 @@ October 18 menu-photo correction: Derek's preview should show a real business ph
 | ca3e3ddaa72e | Visit hero | 2048x1358 official daylight facade; trim foreground, keep entrance/flag. |
 | 4d1cbd658513 | About interior | 1024x771; retain chrome and booths, avoid top TV/patrons when practical. |
 | af85a193d1f3 | Sitewide logo if crop remains clean | 640x480 official Toast mark; preserve full badge proportions; thin white edge fragments need conservative crop. Clean text identity is acceptable. |
-All originals resolve through the private manifest; public media.md keeps provenance. Source history is partial, not exhaustive. 18 of 423 distinct products have defensible photo matches, 402 lack photos, three remain uncertain. Main/Abdul item menu remains text-only; final Derek-only variation uses confirmed associations only.
+All originals resolve through the private manifest; public media.md keeps provenance. Source history is partial, not exhaustive. 99 of 423 distinct products have selected photos covering 102 rendered IDs; 324 products/330 IDs remain without selected photos. Main/Abdul item menu remains text-only; Derek uses confirmed and well-supported likely associations.
 
 
 Owner correction, October 18, 2026: the current matched-photo amount is sufficient. Stop further research; integrate the existing selections, visually check the changed result and deploy Derek preview. Reuse completed checks.
+
+Owner visual correction: natural landscape photo framing, photos left of names, prices consistently right-aligned. Use restrained spacing and responsive sizes; preserve genuine imagery and recorded inference confidence.

@@ -102,7 +102,7 @@ for (const name of files) {
   // Permit dollars only inside validated source-menu price spans. Keep the generic
   // unsupported-claim check everywhere else; never allow arbitrary dollar claims.
   if (name === 'menu/index.html') {
-    const rows = [...visible.matchAll(/<li class="menu-item" data-source-id="([^"]+)"[^>]*><a href="([^"]+)"><span>(.*?)<\/span><span class="price">(.*?)<\/span><\/a>(<img\b[^>]*>)?<\/li>/g)];
+    const rows = [...visible.matchAll(/<li class="menu-item" data-source-id="([^"]+)"[^>]*><a href="([^"]+)"><span>(.*?)<\/span><span class="price">(.*?)<\/span><\/a>(?:<span class="menu-photo-frame">(<img\b[^>]*>)<\/span>)?<\/li>/g)];
     check(rows.length === 432 && new Set(rows.map(r => r[1])).size === 432, 'rendered menu must preserve 432 unique source IDs');
     for (const row of rows) {
       const item = menu.items.find(i => i.id === row[1]);

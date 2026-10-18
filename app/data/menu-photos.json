@@ -15,7 +15,8 @@
     "src": "/images/menu/hot-tea.webp",
     "alt": "Tea",
     "width": 420,
-    "height": 560
+    "height": 560,
+    "position": "50% 68%"
   },
   "6f0e0058-a776-4dce-b7f1-96813901a624": {
     "src": "/images/menu/hot-chocolate.webp",
@@ -39,19 +40,22 @@
     "src": "/images/menu/strawberry-milkshakes.webp",
     "alt": "Strawberry milkshake",
     "width": 429,
-    "height": 560
+    "height": 560,
+    "position": "50% 30%"
   },
   "bcd2ce76-a815-4725-b73b-2b23c6e5430a": {
     "src": "/images/menu/one-egg-breakfast.webp",
     "alt": "One 1 Egg Any Style",
     "width": 420,
-    "height": 560
+    "height": 560,
+    "rotation": -90
   },
   "1c56bb7e-1b84-47ba-b711-79504d378960": {
     "src": "/images/menu/two-egg-breakfast.webp",
     "alt": "2 Eggs Any Style",
     "width": 420,
-    "height": 560
+    "height": 560,
+    "rotation": -90
   },
   "f201c06e-b8bd-4e09-9d87-1899aca12401": {
     "src": "/images/menu/corned-beef-hash-and-eggs.webp",
@@ -87,7 +91,8 @@
     "src": "/images/menu/virginia-ham-steak.webp",
     "alt": "The ham was everything!",
     "width": 420,
-    "height": 560
+    "height": 560,
+    "position": "50% 70%"
   },
   "02184940-ebae-45df-aa15-65f1a25a7411": {
     "src": "/images/menu/create-your-own-omelette.webp",
@@ -117,7 +122,8 @@
     "src": "/images/menu/meat-lovers-omelette.webp",
     "alt": "3 meat omelet !!!",
     "width": 420,
-    "height": 560
+    "height": 560,
+    "rotation": -90
   },
   "09e557f4-740c-4d40-863e-a30cc32dec69": {
     "src": "/images/menu/spanish-omelette.webp",
@@ -201,7 +207,8 @@
     "src": "/images/menu/fruit-cup.webp",
     "alt": "Mixed fresh fruit cup",
     "width": 250,
-    "height": 321
+    "height": 321,
+    "position": "50% 20%"
   },
   "b8333c39-97e5-4956-bf92-47b01be970ea": {
     "src": "/images/menu/grits-bowl.webp",
@@ -417,7 +424,8 @@
     "src": "/images/menu/chicken-salad-club.webp",
     "alt": "Chicken salad triple-decker club with lettuce, tomato and fries",
     "width": 420,
-    "height": 560
+    "height": 560,
+    "position": "50% 55%"
   },
   "17dd2f8e-fad2-4f39-ab19-f9eb256caace": {
     "src": "/images/menu/grilled-chicken-breast-club.webp",
@@ -495,7 +503,8 @@
     "src": "/images/menu/kids-one-egg-breakfast.webp",
     "alt": "One 1 Egg Any Style",
     "width": 420,
-    "height": 560
+    "height": 560,
+    "rotation": -90
   },
   "b4063e43-ca13-4663-8537-f50516c3baed": {
     "src": "/images/menu/kids-pancake-1.webp",
@@ -531,25 +540,29 @@
     "src": "/images/menu/chocolate-mousse.webp",
     "alt": "Fresh dessert display",
     "width": 560,
-    "height": 380
+    "height": 380,
+    "position": "50% 65%"
   },
   "db4de9a8-00ec-48f3-84d8-17834fd1a650": {
     "src": "/images/menu/oero-cheesecake.webp",
     "alt": "Oreo cheesecake",
     "width": 560,
-    "height": 560
+    "height": 560,
+    "position": "50% 100%"
   },
   "0ed1fe4a-7e39-4f27-838b-4cd4d3f294ee": {
     "src": "/images/menu/strawberry-shortcake.webp",
     "alt": "Strawberry Shortcake",
     "width": 560,
-    "height": 375
+    "height": 375,
+    "position": "50% 65%"
   },
   "88585231-b4ff-402b-85c9-6a5ecd2778b5": {
     "src": "/images/menu/fresh-fruit-salad.webp",
     "alt": "Mixed fresh fruit cup",
     "width": 250,
-    "height": 321
+    "height": 321,
+    "position": "50% 20%"
   },
   "765dedea-306a-4020-a6e1-e567ec625b2b": {
     "src": "/images/menu/rice-pudding.webp",
@@ -585,7 +598,8 @@
     "src": "/images/menu/chocolate-mousse-whole-cake.webp",
     "alt": "Fresh dessert display",
     "width": 560,
-    "height": 380
+    "height": 380,
+    "position": "50% 65%"
   },
   "04fda919-f4db-44a6-894c-8232f49a80ff": {
     "src": "/images/menu/oreo-cheesecake-whole-cake.webp",
@@ -597,7 +611,8 @@
     "src": "/images/menu/strawberry-shortcake-whole-cake.webp",
     "alt": "Strawberry Shortcake",
     "width": 560,
-    "height": 375
+    "height": 375,
+    "position": "50% 65%"
   },
   "73920b71-ac92-40f1-b2e7-3dee61188002": {
     "src": "/images/menu/whole-pie.webp",
@@ -609,6 +624,7 @@
     "src": "/images/menu/ice-cream-sundae.webp",
     "alt": "Ice cream sundae",
     "width": 560,
-    "height": 560
+    "height": 560,
+    "position": "50% 25%"
   }
 }
