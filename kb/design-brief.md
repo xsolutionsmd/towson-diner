@@ -34,6 +34,8 @@ Warm diner identity, restrained cream/red accents, original company photography 
 ## Accepted decisions and corrections
 <!-- Dated feedback from Derek, Abdul or the client. Newer explicit corrections win. -->
 
+October 18 menu-photo correction: Derek's preview should show a real business photo for every menu item where a usable matching photo can be found. The initial bounded shortlist is insufficient for this expanded request. Revisit partial source coverage and existing unmatched candidates. Exact item captions are not required: use confident visual/contextual associations as `likely`, documenting ingredients, preparation and other supporting clues. Leave genuinely ambiguous associations unmatched. Preserve all menu items and the accepted layout; production and Abdul retain their text-only menus.
+
 ## X Solutions standing design rules
 
 - Thoughtful, distinctive, professional and clean: strong typography, authentic

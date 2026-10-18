@@ -68,3 +68,7 @@ Exact dining hours still conflict across sources, so seven-days/call-for-hours c
 ## Derek-only menu photos, October 18, 2026
 
 Local npm run check passed: four pages, 432 exact source rows, 14 mapped photo rows and 13 existing real image derivatives. Checked desktop 1440x900, phone 390x844 and 320x740 with root text enlarged to 200%; no page or menu-control overflow. Search for waffle returns four entries with two mapped photos; no-result query hides photos and reset restores all 432. Main and Abdul must retain their text-only item menus. Independent live review and exact deployed revision are recorded after publication.
+
+Independent photo review at `f3068c0af01e30ab058395f2074720780bda7382` passed 18 of 19 cases. All 432 source tuples and 14 photo placements matched, all images decoded, and all 13 dish identities/crops passed. F1 found a narrower text-level issue missed by the earlier element-box check: the final word of the fallback price label exceeded the padded row by 17.54px at 320px/root 200%.
+
+Astra's local correction lets fallback text wrap and scales its maximum width with font size. The corrected production build passes all static checks; actual 320x740/root 32px measurement across every menu name/price text range finds zero row-bound violations and a 320px document width. The Quesadilla label wraps at word boundaries. This fix and the newly requested expanded photo coverage await publication and fresh independent verification; the original photo review is historical evidence, not acceptance of the expanded result.

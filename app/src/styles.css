@@ -19,5 +19,7 @@
 .menu-item:has(.menu-item-photo){display:grid;grid-template-columns:minmax(0,1fr) 112px;gap:22px;align-items:center;padding:14px 0}
 .menu-item:has(.menu-item-photo) a{min-width:0;padding:8px 0}
 .menu-item-photo{width:112px;height:92px;object-fit:contain;background:#f0ede4}
+.price{overflow-wrap:anywhere}
+@media(max-width:760px){.price{max-width:max(90px,8ch)}}
 @media(max-width:760px){.menu-item:has(.menu-item-photo){grid-template-columns:minmax(0,1fr) 80px;gap:14px}.menu-item-photo{width:80px;height:72px}.menu-item:has(.menu-item-photo) a{gap:10px}}
 @media(max-width:360px){.menu-item:has(.menu-item-photo){grid-template-columns:minmax(0,1fr)}.menu-item-photo{grid-row:1;width:120px;height:90px}}
