@@ -12,3 +12,5 @@
 /* Keep the primary customer task within reach on a phone. */
 .mobile-order-link{display:none}
 @media(max-width:760px){.mobile-order-link{display:flex;align-items:center;justify-content:center;min-width:44px;min-height:44px;margin-left:auto;margin-right:8px;color:var(--red);font-size:.74rem;letter-spacing:.04em;text-transform:uppercase}.nav-open .mobile-order-link{visibility:hidden}}
+/* Let enlarged navigation content scroll instead of shrinking its text boxes. */
+@media(max-width:760px){.nav-open .site-header nav>a,.nav-open .mobile-contact{flex-shrink:0}}
