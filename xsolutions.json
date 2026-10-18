@@ -166,7 +166,20 @@
       "status": "pending"
     },
     "infra": {
-      "status": "pending"
+      "status": "done",
+      "recorded": "2026-10-18T16:57:03.831019+00:00",
+      "workflow_version": 2,
+      "owner": "sol-xhigh",
+      "task_id": "node:delegated-task:command%3Amcp%3Af968d8fc-6412-40aa-a570-328cae5b11c0%3Adelegate-task%3Atowson-diner-infra-r1-20261018",
+      "prerequisites": {
+        "first-publish": "2026-10-18T16:19:13.023617+00:00"
+      },
+      "fallback_task_id": null,
+      "quota_evidence": null,
+      "quota_exhausted": false,
+      "evidence": [
+        "Accepted public GitHub repository, merged/check-passing linked PR1, branch protections and environment restrictions, actual independent three-stack releases b66adf0, verified public HTTPS and rendered production, isolated packages/timers/recovery/retention, 38 sibling preservation and scoped cleanup. Detailed infra-r1 receipt and coordinator fresh-check evidence inspected."
+      ]
     },
     "review": {
       "status": "pending"
@@ -187,5 +200,5 @@
       "status": "pending"
     }
   },
-  "updated": "2026-10-18T16:15:37.279260+00:00"
+  "updated": "2026-10-18T16:57:03.882774+00:00"
 }
