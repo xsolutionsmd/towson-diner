@@ -1,5 +1,15 @@
 # Handoff
 
+## Derek preview menu photos ? October 18, 2026
+
+This branch deliberately adds 13 authentic, matched dish photos across 14 menu rows on Derek's preview only. All 432 source IDs, names, observed prices and Toast item destinations remain intact. Production and Abdul keep the accepted text-only menu. Do not merge or synchronize this variation into those branches.
+
+Photos are optimized WebP files (501,846 bytes total), with natural framing and a small documented crop isolating the plain Belgian waffle. The public [photo provenance](menu-photo-provenance.json) retains exact item IDs, source URLs, hashes and identification confidence. Uncertain identities, partially eaten dishes, group-serving ambiguity and unsuitable photos remain omitted.
+
+Local production build and source-contract checks passed. Actual 1440px desktop, 390px mobile and 320px enlarged-text checks verified photo rendering, control/row containment, search, empty results and resetting all 432 entries. Deployment and independent focused live review follow this source commit; exact results belong to the release receipt. The accepted original design, gallery and external ordering/inquiry systems remain unchanged.
+
+## Normal build baseline
+
 Normal build stages through independent recheck are accepted. Final-record publication, current media delivery and persisted Slack/directory receipts are owned by the transferred final handoff task. Overall acceptance belongs to the coordinator; the separate Derek-only variation has not begun.
 
 ## Current state

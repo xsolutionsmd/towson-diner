@@ -14,3 +14,10 @@
 @media(max-width:760px){.mobile-order-link{display:flex;align-items:center;justify-content:center;min-width:44px;min-height:44px;margin-left:auto;margin-right:8px;color:var(--red);font-size:.74rem;letter-spacing:.04em;text-transform:uppercase}.nav-open .mobile-order-link{visibility:hidden}}
 /* Let enlarged navigation content scroll instead of shrinking its text boxes. */
 @media(max-width:760px){.nav-open .site-header nav>a,.nav-open .mobile-contact{flex-shrink:0}}
+
+/* Derek preview: existing menu rows with authentic, matched dish photography. */
+.menu-item:has(.menu-item-photo){display:grid;grid-template-columns:minmax(0,1fr) 112px;gap:22px;align-items:center;padding:14px 0}
+.menu-item:has(.menu-item-photo) a{min-width:0;padding:8px 0}
+.menu-item-photo{width:112px;height:92px;object-fit:contain;background:#f0ede4}
+@media(max-width:760px){.menu-item:has(.menu-item-photo){grid-template-columns:minmax(0,1fr) 80px;gap:14px}.menu-item-photo{width:80px;height:72px}.menu-item:has(.menu-item-photo) a{gap:10px}}
+@media(max-width:360px){.menu-item:has(.menu-item-photo){grid-template-columns:minmax(0,1fr)}.menu-item-photo{grid-row:1;width:120px;height:90px}}

@@ -1,0 +1,86 @@
+{
+  "1a37790a-6ea7-4761-94b1-a0c5f6227086": {
+    "src": "/images/menu/western-omelette.webp",
+    "alt": "Western omelette with toast and home fries",
+    "width": 560,
+    "height": 420
+  },
+  "91eb3aca-7271-4274-8694-e08079f436e6": {
+    "src": "/images/menu/belgian-waffle.webp",
+    "alt": "Plain Belgian waffle at Towson Diner",
+    "width": 350,
+    "height": 232
+  },
+  "ba7dd731-ed75-4c00-9752-2aac53efc9f1": {
+    "src": "/images/menu/french-toast-bites.webp",
+    "alt": "French toast bites with strawberries and whipped cream",
+    "width": 560,
+    "height": 420
+  },
+  "47bd8a05-4df0-4464-bc39-be091c0808a7": {
+    "src": "/images/menu/belgian-waffle-w-straw-whip.webp",
+    "alt": "Belgian waffle with fresh strawberries, whipped cream and powdered sugar",
+    "width": 560,
+    "height": 384
+  },
+  "63da29a2-609c-440b-8f6a-f42bdb0c5795": {
+    "src": "/images/menu/side-bacon.webp",
+    "alt": "Side plate of pork bacon strips",
+    "width": 560,
+    "height": 367
+  },
+  "014d85ad-4d68-42c4-98c3-6635af8e98e6": {
+    "src": "/images/menu/traditional-eggs-benedict.webp",
+    "alt": "Traditional eggs Benedict with hollandaise and home fries",
+    "width": 560,
+    "height": 315
+  },
+  "6e4cf906-0868-48a1-9c03-a0f768636f73": {
+    "src": "/images/menu/quesadilla.webp",
+    "alt": "Chicken quesadilla wedges with salsa and sour cream",
+    "width": 560,
+    "height": 420
+  },
+  "e88b43f2-c1c0-4b4c-8e29-bb901ef61168": {
+    "src": "/images/menu/sampler-basket.webp",
+    "alt": "Sampler basket: fried wings, mozzarella sticks and onion rings with dipping sauces",
+    "width": 560,
+    "height": 252
+  },
+  "2cc6adf8-d65b-4943-ada5-02fff51340ba": {
+    "src": "/images/menu/greek-salad.webp",
+    "alt": "Greek salad with lettuce, tomato, cucumber, onion, feta and olives",
+    "width": 420,
+    "height": 560
+  },
+  "4a3a97ac-735e-4524-bb21-64ea5b6f2fe8": {
+    "src": "/images/menu/california-burger.webp",
+    "alt": "California burger cross-section with avocado and cheese",
+    "width": 420,
+    "height": 560
+  },
+  "4d274210-7aba-4a81-b6aa-a64ad72b2345": {
+    "src": "/images/menu/grilled-cheese.webp",
+    "alt": "Grilled cheese sandwich with french fries and ketchup",
+    "width": 560,
+    "height": 315
+  },
+  "5f5f42f8-7059-49d3-bfee-d4aa81c25253": {
+    "src": "/images/menu/grilled-cheese.webp",
+    "alt": "Grilled cheese sandwich with french fries and ketchup",
+    "width": 560,
+    "height": 315
+  },
+  "1dc5f45f-f4ee-42fa-a673-669bc41681f5": {
+    "src": "/images/menu/chicken-salad-club.webp",
+    "alt": "Chicken salad triple-decker club with lettuce, tomato and fries",
+    "width": 420,
+    "height": 560
+  },
+  "1f57bb16-2b36-46db-ac39-4f0ea1faf528": {
+    "src": "/images/menu/gyro-platter.webp",
+    "alt": "Gyro in pita with tomato, onion and tzatziki at Towson Diner",
+    "width": 315,
+    "height": 560
+  }
+}

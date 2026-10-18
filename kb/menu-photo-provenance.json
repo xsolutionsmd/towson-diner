@@ -1,0 +1,183 @@
+{
+  "environment": "derek-dev only",
+  "baseline": "b5cbe4abde152e4a820253e8630853f4c556d761",
+  "source": "Existing sourced business photo library, collected 2026-10-18",
+  "photos": [
+    {
+      "item": "Western Omelette",
+      "ids": [
+        "1a37790a-6ea7-4761-94b1-a0c5f6227086"
+      ],
+      "source_sha256": "32f561183d6b0c91a154af606ed9aee6ab723dbe41367ab14fd8a921ac5b0e7c",
+      "confidence": "confirmed",
+      "source": "https://www.yelp.com/biz_photos/towson-diner-towson?select=pbAdfXDb0VyWgLynEcTdgA",
+      "rendered": "western-omelette.webp",
+      "rendered_sha256": "14b877c20e902244f880397f03877b92e1755988fe1105dcc38c301b57852a4a",
+      "crop": null,
+      "notes": "Exact customer caption, visually consistent omelette with ham/vegetable filling."
+    },
+    {
+      "item": "Belgian Waffle",
+      "ids": [
+        "91eb3aca-7271-4274-8694-e08079f436e6"
+      ],
+      "source_sha256": "d4c12bf7e091c34f0d6918d008cd79a2398d9bca02a98f4aab1923feae1ee2aa",
+      "confidence": "confirmed",
+      "source": "https://www.yelp.com/biz_photos/towson-diner-towson?select=ahLibK-cyKsoc9E1vhBeFA",
+      "rendered": "belgian-waffle.webp",
+      "rendered_sha256": "c282dc99a3dd91cf5594a128ba18921bebf0443d88c0a1f0ff059f0c67c422ed",
+      "crop": [
+        0.31,
+        0.01,
+        0.66,
+        0.32
+      ],
+      "notes": "Plain waffle explicitly named and visible at top center of group. Crop normalized [0.31,0.01,0.66,0.32], about 350x233 pixels only; not a large card. Full group not a single order."
+    },
+    {
+      "item": "French Toast Bites",
+      "ids": [
+        "ba7dd731-ed75-4c00-9752-2aac53efc9f1"
+      ],
+      "source_sha256": "99b4b058d2f9130232d00114543e3e8675d5a6e68eff39e6c6acc13f2f91a9c0",
+      "confidence": "confirmed",
+      "source": "https://www.yelp.com/biz_photos/towson-diner-towson?select=ckpf0mpxbCsiPxnYQIwfzw",
+      "rendered": "french-toast-bites.webp",
+      "rendered_sha256": "b983ac4f4e1bdd8cef6a451f3255e8f6329bc8d3b6b09d898bae0ab2e51d5783",
+      "crop": null,
+      "notes": "Exact caption and bite-size pieces; pictured with fruit/cream toppings."
+    },
+    {
+      "item": "Belgian Waffle W Straw&Whip",
+      "ids": [
+        "47bd8a05-4df0-4464-bc39-be091c0808a7"
+      ],
+      "source_sha256": "9f30787d692c3aa8b6f8a0e42dcce22a234ce258fb8fc6874ab385ca402eea33",
+      "confidence": "likely",
+      "source": "https://www.towsondiner.net/",
+      "rendered": "belgian-waffle-w-straw-whip.webp",
+      "rendered_sha256": "20823f8cb81b1afd999b28cfd56dd43dcf7391175e97a399c380442eeb9062aa",
+      "crop": null,
+      "notes": "Official website photo shows exact named combination: Belgian waffle, strawberries and whipped cream. No baked-in label, so visual match is likely."
+    },
+    {
+      "item": "Side Bacon",
+      "ids": [
+        "63da29a2-609c-440b-8f6a-f42bdb0c5795"
+      ],
+      "source_sha256": "0a46c3f717370ec0992098526380c41c7ea2fbce9e4f2bf077e68faec90c1aaa",
+      "confidence": "confirmed",
+      "source": "https://www.yelp.com/biz_photos/towson-diner-towson?select=QDfapWCHEmX4eBqTeNhm7Q",
+      "rendered": "side-bacon.webp",
+      "rendered_sha256": "87e4a4f941f9a45f866135a6aa3769a0c7e8e8bb372a59cb6a2d670247d1aa90",
+      "crop": null,
+      "notes": "Exact side-of-bacon caption and visible pork bacon."
+    },
+    {
+      "item": "Traditional Eggs Benedict",
+      "ids": [
+        "014d85ad-4d68-42c4-98c3-6635af8e98e6"
+      ],
+      "source_sha256": "35eae02650b89c9832e75afeee89dc1360a05d300b48a2149fd6b77a9eb5b351",
+      "confidence": "confirmed",
+      "source": "https://www.yelp.com/biz_photos/towson-diner-towson?select=CthEyX9-bCrsrxFPeQjKuA",
+      "rendered": "traditional-eggs-benedict.webp",
+      "rendered_sha256": "4bebb140d03002f12854eef1366c802b6c18a4008ed0a980d7a0f2532434f7a7",
+      "crop": null,
+      "notes": "Popular menu-card name plus photo caption and visible ham, eggs, muffin and hollandaise."
+    },
+    {
+      "item": "Quesadilla",
+      "ids": [
+        "6e4cf906-0868-48a1-9c03-a0f768636f73"
+      ],
+      "source_sha256": "9dc8eeb3eee9cbac6d68285ed9903bf768f4519012d6832077254ecf049c090c",
+      "confidence": "confirmed",
+      "source": "https://www.yelp.com/biz_photos/towson-diner-towson?select=FV5oM0HvmEQ_34HKIfFzXg",
+      "rendered": "quesadilla.webp",
+      "rendered_sha256": "70c9f68f032532b9a1ffe1d7d80ab1bd477473a5188efb2631289759847f7436",
+      "crop": null,
+      "notes": "Caption Chicken quesadilla; menu Quesadilla description is Chicken."
+    },
+    {
+      "item": "Sampler Basket",
+      "ids": [
+        "e88b43f2-c1c0-4b4c-8e29-bb901ef61168"
+      ],
+      "source_sha256": "a99e2fda0942204c69086d174526cfd0a2f5f73c19fa170669fffa463983bb8f",
+      "confidence": "confirmed",
+      "source": "https://www.yelp.com/biz_photos/towson-diner-towson?select=0NrBV4py8i6Qnb3AeXkJ6A",
+      "rendered": "sampler-basket.webp",
+      "rendered_sha256": "aafcb9c5d631bba4f315c45d2049e0a5de151d1c5dcac118ab226467cfe51b0f",
+      "crop": null,
+      "notes": "Exact caption and all three menu components visible."
+    },
+    {
+      "item": "Greek Salad",
+      "ids": [
+        "2cc6adf8-d65b-4943-ada5-02fff51340ba"
+      ],
+      "source_sha256": "93304f0e278250e9eedca7da5791cff1e67f7ba5e2d439b62a12f9575d22ee0f",
+      "confidence": "confirmed",
+      "source": "https://www.yelp.com/biz_photos/towson-diner-towson?select=-ijssnDyBPxecEkrjqAvkQ",
+      "rendered": "greek-salad.webp",
+      "rendered_sha256": "c37c0adfd0e623d7de9b5bee77442bac45705bf7c5f6ec15aa368cfaff3335a7",
+      "crop": null,
+      "notes": "Exact caption and feta, olives, cucumber, tomato and onion visible."
+    },
+    {
+      "item": "California Burger",
+      "ids": [
+        "4a3a97ac-735e-4524-bb21-64ea5b6f2fe8"
+      ],
+      "source_sha256": "e031be25a17c0909d7ec651287b2f7f5a0451e730341f72775f0bbfc5bc9557d",
+      "confidence": "confirmed",
+      "source": "https://www.yelp.com/biz_photos/towson-diner-towson?select=LXCQu4M93Jf1NQROZIyCLg",
+      "rendered": "california-burger.webp",
+      "rendered_sha256": "c7c077ed0af29d3f837972e98a106276c21dabaae930a326966d4d094ccd7b4a",
+      "crop": null,
+      "notes": "Caption and review name California burger; avocado and cheese visible."
+    },
+    {
+      "item": "Grilled Cheese",
+      "ids": [
+        "4d274210-7aba-4a81-b6aa-a64ad72b2345",
+        "5f5f42f8-7059-49d3-bfee-d4aa81c25253"
+      ],
+      "source_sha256": "064e600e2a2c9267b02087eaf64c73d9860d247c44409439d6d622a0548885c9",
+      "confidence": "confirmed",
+      "source": "https://www.yelp.com/biz_photos/towson-diner-towson?select=7I_f-nQr0ctvaZY_ZlcaUg",
+      "rendered": "grilled-cheese.webp",
+      "rendered_sha256": "78d8b689fc4cb356dd9fef94a1696367723135b37f09c561dd34918aaa562fa7",
+      "crop": null,
+      "notes": "Exact caption; sandwich and fries visible. Repeated category placements retain all IDs and prices."
+    },
+    {
+      "item": "Chicken Salad Club",
+      "ids": [
+        "1dc5f45f-f4ee-42fa-a673-669bc41681f5"
+      ],
+      "source_sha256": "c0523d9a7aca97f5132d9287ba17b3e8e0646d8058d2ace3b004d1e7792188c9",
+      "confidence": "confirmed",
+      "source": "https://www.yelp.com/biz_photos/towson-diner-towson?select=WexwwXrLKmjm2RWBGSAW1g",
+      "rendered": "chicken-salad-club.webp",
+      "rendered_sha256": "06fe20af5cd4ea8ca2fd9f5591214c5236a8ed083c140311411f4e45027f8e3a",
+      "crop": null,
+      "notes": "Full caption Chicken salad club, triple-decker bread and filling visible; do not map to ordinary Chicken Salad Sandwich."
+    },
+    {
+      "item": "Gyro Platter",
+      "ids": [
+        "1f57bb16-2b36-46db-ac39-4f0ea1faf528"
+      ],
+      "source_sha256": "be8811010c560f906324e1bee736fb8b8012acaef7e9f2d423efe4be830d6430",
+      "confidence": "confirmed",
+      "source": "https://www.instagram.com/towson_diner/reel/C2unaeErHzR/",
+      "rendered": "gyro-platter.webp",
+      "rendered_sha256": "4d1a0af01fedb331ed1ab86d35dc00f2d546ee5b5034f406d2312ce3ea2514ac",
+      "crop": null,
+      "notes": "Real 22-second frame from official Gyro platter reel. Pita/meat/tomato/onion/tzatziki visible; preparation shot, not a plated complete serving. Current side differs from historical caption."
+    }
+  ],
+  "omitted": "Uncertain identities and poor, partially eaten, group or portion-ambiguous photographs remain text-only."
+}
