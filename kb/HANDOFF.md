@@ -1,8 +1,12 @@
 # Handoff
 
+## Hours correction - October 18, 2026
+
+Derek supplied a complete weekly-hours screenshot and asked why hours had been omitted. Earlier Google/Yelp schedules conflicted and the official site only stated seven days; that research gap remained unresolved at the earlier release. The supplied correction now drives one shared schedule in Visit and the Come on over sections: Sunday 8am-9pm, Mon-Tue 7am-9pm, Wed-Thu 7am-10pm, Fri-Sat 8am-11pm. Sources/contact records are reconciled. This new correction targets Derek preview; no subsequent production promotion is presumed. Focused local desktop, mobile and enlarged-text checks passed; the preview release and independent live review follow this commit.
+
 ## Authorized production promotion - October 18, 2026
 
-Derek explicitly requested merging the finished version to main. This production release promotes the accepted application at `5588348d0e3d2f7463d07d3e3d7d1db371c4e35c`, represented by documentation source `1e62d44ff6b6214554a1b29a20ba5ce90c806cc7`. It includes the natural left-photo menu, aligned prices and Claude's Our Story note/historical image. Independent Sol reviews passed with no findings. No product changes are added by this promotion. Production merge/live verification are pending at this commit; their final receipts will record the actual main revision.
+Derek explicitly requested merging the finished version to main. This production release promotes the accepted application at `5588348d0e3d2f7463d07d3e3d7d1db371c4e35c`, represented by documentation source `1e62d44ff6b6214554a1b29a20ba5ce90c806cc7`. It includes the natural left-photo menu, aligned prices and Claude's Our Story note/historical image. Independent Sol reviews passed with no findings. No product changes are added by this promotion. PR #5 merged as e5c951d80fda361c448c1d7024f48243cfa3b78a; CI and Oracle release succeeded, and independent production desktop/mobile review passed all four scoped cases with no findings.
 
 The prior Derek-only exclusion is superseded for this authorized production promotion. Abdul's branch and environment remain outside scope. Existing completed reviews are reused; verify exact application/runtime parity and the live production result.
 
@@ -40,7 +44,7 @@ Retry only when Chrome control attachment is restored or the Slack connector is 
 
 ## Limits and retention
 
-Exact dining hours conflict: retain seven-days/call-for-hours copy. Attribute restaurant-published history; do not infer current ownership or a sale. No Stitch; accepted browser/devtools evidence was used and REA did not run. Claude's actual rate limit led to the stopped-task Astra refinement fallback. Browser evidence uses Chromium viewport/root-font simulation, not physical phones, Safari or native-touch coverage. External checkout/payment/inquiry internals were not exercised.
+The earlier dining-hours conflict is superseded for display by Derek's supplied S15 schedule. Attribute restaurant-published history; do not infer current ownership or a sale. No Stitch; accepted browser/devtools evidence was used and REA did not run. Claude's actual rate limit led to the stopped-task Astra refinement fallback. Browser evidence uses Chromium viewport/root-font simulation, not physical phones, Safari or native-touch coverage. External checkout/payment/inquiry internals were not exercised.
 
 Retain original media, provenance, required review/release evidence and the unchanged current pending ZIP for delivery. Source checkouts remain active. After the Our Story review, the coordinator recycled this photo checkout's reinstalled app/dist and app/node_modules: 27,567,139 bytes in 348 files, with recovery hashes verified. Recycling freed 0 bytes of disk space; the Recycle Bin was not emptied. No local services remain from this task. Recheck retained delivery resources after Slack delivery/acceptance. This documentation task started no local server/container and performed no deletion. Preserve persistent application data and designated environments under standing retention rules.
 

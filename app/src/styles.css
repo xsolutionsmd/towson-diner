@@ -31,3 +31,12 @@
 .history-photo img{width:311px;max-width:100%;height:auto;padding:9px;background:#fffdf7;border:1px solid var(--line)}
 .history-photo figcaption{max-width:311px;margin:14px auto 0;font-size:.78rem;line-height:1.5;color:var(--green)}
 @media(max-width:760px){.history-photo{margin:38px auto 36px}}
+
+/* One weekly schedule shared by Visit and the invitation sections. */
+.opening-hours{width:min(100%,440px);margin:24px auto;font-size:.85rem;text-align:left}
+.opening-hours>div{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.75fr);gap:8px 18px;padding:12px 0;border-bottom:1px solid var(--line)}
+.opening-hours dt{min-width:0;overflow-wrap:anywhere}
+.opening-hours dd{min-width:0;margin:0;display:flex;flex-wrap:wrap;justify-content:flex-end;gap:0 .35em;font-variant-numeric:tabular-nums}
+.opening-hours time{white-space:nowrap}
+.visit-block .opening-hours{margin-bottom:24px}
+@media(max-width:360px){.opening-hours>div{grid-template-columns:minmax(0,1fr)}.opening-hours dd{justify-content:flex-start}}

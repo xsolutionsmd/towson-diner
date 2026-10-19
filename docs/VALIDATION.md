@@ -140,3 +140,8 @@ After this story review, the coordinator recycled the photo checkout's completed
 ## Authorized production promotion
 
 Derek explicitly requested merging the completed version into main on October 18. The release candidate merges the current main history with accepted Derek source `1e62d44ff6b6214554a1b29a20ba5ce90c806cc7`; product/runtime/release inputs match the independently reviewed application `5588348d0e3d2f7463d07d3e3d7d1db371c4e35c`. Only release guidance is additionally reconciled. Existing menu and Our Story desktop/mobile reviews passed with no findings; no new design change or forced fix is introduced. Required PR checks and exact production verification follow this candidate. Abdul preview is outside scope.
+
+
+## Hours correction
+
+The weekly-hours screenshot supplied by Derek supersedes the earlier unresolved-hours fallback. A single schedule data file generates the same semantic hours rows on Visit and shared Come on over sections. No ordering hours, live open/closed status or holiday exceptions are inferred. Existing menu/story assets and behavior are preserved. Local npm run check passed (117 built files), git diff --check and the public-content check passed. Actual Chromium views at 1440x900, 390x844 and 320x740 with 200% root text showed readable, contained hours. All seven days match the supplied schedule; generated Home, About and Visit share the same data. Existing 432 menu rows and 102 photos remain unchanged. Exact live release and independent focused review are recorded after publication.

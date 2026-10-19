@@ -1,0 +1,6 @@
+[
+  {"label":"Sunday","days":["Sunday"],"opens":"08:00","closes":"21:00"},
+  {"label":"Mon–Tue","days":["Monday","Tuesday"],"opens":"07:00","closes":"21:00"},
+  {"label":"Wed–Thu","days":["Wednesday","Thursday"],"opens":"07:00","closes":"22:00"},
+  {"label":"Fri–Sat","days":["Friday","Saturday"],"opens":"08:00","closes":"23:00"}
+]

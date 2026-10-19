@@ -15,5 +15,6 @@ Observed October 18, 2026; historical dates below are not current guarantees.
 | S11 | https://www.google.com/maps/search/?api=1&query=Towson%20Diner%20718%20York%20Rd%2C%20Towson%2C%20MD%2021204 | Matching address/phone/site and expanded schedule inspected; hours conflict with other listings. |
 | S12 | https://www.instagram.com/towson_diner/ | Official profile links towsondiner.net; 24 post/reel captions inspected, not complete history. |
 | S13 | https://www.yelp.com/biz/towson-diner-towson | Matching identity and partial food/gallery inspection; hours differ from Google. |
+| S15 | Business-hours screenshot supplied by Derek, October 18, 2026 | Sunday 8am-9pm; Mon-Tue 7am-9pm; Wed-Thu 7am-10pm; Fri-Sat 8am-11pm. Used as the explicit hours correction; earlier third-party conflicts remain historical evidence. |
 
 Full item-level source URLs: [menu.json](menu.json). Media provenance summarized in [media.md](media.md).

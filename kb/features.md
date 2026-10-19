@@ -8,7 +8,7 @@ Separate Home, Menu, Our story and Visit pages; direct URLs, active navigation a
 Toast operates ordering/payment/rewards. Existing /locate form remains the inquiry destination. Maps handles directions. No new checkout, admin, accounts, reservations or database.
 
 ## Acceptance
-Direct routes, refresh/back, active menu controls, keyboard/focus, narrow-mobile containment and primary destinations. If search is added, provide a clear no-results state. No real orders/payments/inquiries during checks. Hours uncertainty gets one useful call action.
+Direct routes, refresh/back, active menu controls, keyboard/focus, narrow-mobile containment and primary destinations. If search is added, provide a clear no-results state. No real orders/payments/inquiries during checks. The supplied weekly hours are displayed with the existing call action.
 
 ## Follow-up recommendations
-Confirm dining hours and reconcile menu descriptions/prices. Additional operational functionality requires a separate decision.
+Reconcile menu descriptions/prices as needed; holiday exceptions are not supplied. Additional operational functionality requires a separate decision.
