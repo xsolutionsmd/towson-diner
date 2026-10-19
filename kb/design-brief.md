@@ -8,7 +8,7 @@ Find a meal, order through the existing Toast service, or plan a visit. Order on
 - `/`: concise breakfast/all-day dining introduction, real company hero photography, menu and order links, short history/visit prompts.
 - `/menu/`: all 432 unique Toast items across six menus, grouped and navigable. Current source in menu.json. Omit contradictory ingredient descriptions; one concise pricing/availability note.
 - `/about/`: sourced since-1957 history, business-published on-site baking and real place imagery. No invented owner quote or claim.
-- `/visit/`: verified address, phone/email, Maps directions, seven-day service and call for current dining hours. Optional original hosted inquiry link.
+- `/visit/`: verified address, phone/email, Maps directions, the supplied weekly schedule and call action. Optional original hosted inquiry link.
 - Actual image mapping is accepted below; Sol selects and optimizes the corresponding original files. No fabricated menu photos or form success states.
 
 ## Template site
@@ -78,3 +78,5 @@ Owner visual correction: natural landscape photo framing, photos left of names, 
 Owner content correction, October 18, 2026: incorporate the restaurant's published Our Story note and its historical rooftop-sign photo into `/about/` naturally, without copying the screenshot's dated typography or adding disclaimers. Implemented inside the existing centered editorial story: Baltimore-area recognition and since-1957 staple, a modest framed historical inset, the 1994 father-and-son purchase by Sam and Nick Kourtsounis as a family-friendly place, and finest ingredients with on-premises desserts. Neon hero, interior figure and visit block remain.
 
 Owner release instruction, October 18, 2026: "merge it to main when you finish." Promote the completed reviewed Derek version, including the natural left-photo menu and Our Story note/photo. No design changes are requested; preserve independently maintained Abdul work.
+
+October 18 hours correction: Derek supplied a complete business-hours screenshot. Publish Sunday8am-9pm, Mon-Tue7am-9pm, Wed-Thu7am-10pm, Fri-Sat8am-11pm in the existing Visit and Come on over sections. Use restrained semantic rows and the accepted typography; no live open/closed indicator or new design cycle.

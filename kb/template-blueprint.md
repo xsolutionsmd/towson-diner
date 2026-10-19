@@ -48,3 +48,5 @@ The verified Toast link is the primary ordering action. Checkout, payment, stock
 ## Refinement
 
 Astra performed the authorized refinement fallback after Claude reported its API rate limit and was stopped/revoked. The accepted composition, imagery, typography and text-only menu remain. A compact Order link now sits beside the mobile navigation toggle, making the verified primary action available before scrolling; it hides while the full navigation is open. The menu's source-observation date stays in the KB, while the visitor sees one concise current-price/availability link. Actual desktop/mobile comparison and 320px/200% text checks confirmed containment; no additional design cycle or REA attempt occurred.
+
+Later hours correction (October18): the earlier call-for-hours mapping is superseded by the weekly schedule supplied in S15; keep the accepted layout and existing call action.
